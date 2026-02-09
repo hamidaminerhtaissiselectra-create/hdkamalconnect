@@ -1,0 +1,8306 @@
+[
+  {
+    "name": "Paris",
+    "slug": "paris",
+    "region": "Île-de-France",
+    "population": "2,1 millions"
+  },
+  {
+    "name": "Créteil",
+    "slug": "creteil",
+    "region": "Île-de-France",
+    "population": "92 000"
+  },
+  {
+    "name": "Vitry-sur-Seine",
+    "slug": "vitry-sur-seine",
+    "region": "Île-de-France",
+    "population": "95 000"
+  },
+  {
+    "name": "Saint-Maur-des-Fossés",
+    "slug": "saint-maur-des-fosses",
+    "region": "Île-de-France",
+    "population": "76 000"
+  },
+  {
+    "name": "Boulogne-Billancourt",
+    "slug": "boulogne-billancourt",
+    "region": "Île-de-France",
+    "population": "121 000"
+  },
+  {
+    "name": "Versailles",
+    "slug": "versailles",
+    "region": "Île-de-France",
+    "population": "85 000"
+  },
+  {
+    "name": "Saint-Denis",
+    "slug": "saint-denis",
+    "region": "Île-de-France",
+    "population": "113 000"
+  },
+  {
+    "name": "Montreuil",
+    "slug": "montreuil",
+    "region": "Île-de-France",
+    "population": "109 000"
+  },
+  {
+    "name": "Argenteuil",
+    "slug": "argenteuil",
+    "region": "Île-de-France",
+    "population": "111 000"
+  },
+  {
+    "name": "Nanterre",
+    "slug": "nanterre",
+    "region": "Île-de-France",
+    "population": "96 000"
+  },
+  {
+    "name": "Courbevoie",
+    "slug": "courbevoie",
+    "region": "Île-de-France",
+    "population": "85 000"
+  },
+  {
+    "name": "Neuilly-sur-Seine",
+    "slug": "neuilly-sur-seine",
+    "region": "Île-de-France",
+    "population": "62 000"
+  },
+  {
+    "name": "Issy-les-Moulineaux",
+    "slug": "issy-les-moulineaux",
+    "region": "Île-de-France",
+    "population": "70 000"
+  },
+  {
+    "name": "Levallois-Perret",
+    "slug": "levallois-perret",
+    "region": "Île-de-France",
+    "population": "65 000"
+  },
+  {
+    "name": "Vincennes",
+    "slug": "vincennes",
+    "region": "Île-de-France",
+    "population": "50 000"
+  },
+  {
+    "name": "Champigny-sur-Marne",
+    "slug": "champigny-sur-marne",
+    "region": "Île-de-France",
+    "population": "78 000"
+  },
+  {
+    "name": "Ivry-sur-Seine",
+    "slug": "ivry-sur-seine",
+    "region": "Île-de-France",
+    "population": "65 000"
+  },
+  {
+    "name": "Maisons-Alfort",
+    "slug": "maisons-alfort",
+    "region": "Île-de-France",
+    "population": "56 000"
+  },
+  {
+    "name": "Meaux",
+    "slug": "meaux",
+    "region": "Île-de-France",
+    "population": "55 000"
+  },
+  {
+    "name": "Évry-Courcouronnes",
+    "slug": "evry-courcouronnes",
+    "region": "Île-de-France",
+    "population": "70 000"
+  },
+  {
+    "name": "Massy",
+    "slug": "massy",
+    "region": "Île-de-France",
+    "population": "52 000"
+  },
+  {
+    "name": "Cergy",
+    "slug": "cergy",
+    "region": "Île-de-France",
+    "population": "67 000"
+  },
+  {
+    "name": "Lyon",
+    "slug": "lyon",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "522 000"
+  },
+  {
+    "name": "Grenoble",
+    "slug": "grenoble",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "158 000"
+  },
+  {
+    "name": "Saint-Étienne",
+    "slug": "saint-etienne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "173 000"
+  },
+  {
+    "name": "Marseille",
+    "slug": "marseille",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "870 000"
+  },
+  {
+    "name": "Nice",
+    "slug": "nice",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "342 000"
+  },
+  {
+    "name": "Cannes",
+    "slug": "cannes",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "74 000"
+  },
+  {
+    "name": "Aix-en-Provence",
+    "slug": "aix-en-provence",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "145 000"
+  },
+  {
+    "name": "Bordeaux",
+    "slug": "bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "population": "260 000"
+  },
+  {
+    "name": "La Rochelle",
+    "slug": "la-rochelle",
+    "region": "Nouvelle-Aquitaine",
+    "population": "77 000"
+  },
+  {
+    "name": "Toulouse",
+    "slug": "toulouse",
+    "region": "Occitanie",
+    "population": "493 000"
+  },
+  {
+    "name": "Montpellier",
+    "slug": "montpellier",
+    "region": "Occitanie",
+    "population": "295 000"
+  },
+  {
+    "name": "Lille",
+    "slug": "lille",
+    "region": "Hauts-de-France",
+    "population": "236 000"
+  },
+  {
+    "name": "Amiens",
+    "slug": "amiens",
+    "region": "Hauts-de-France",
+    "population": "134 000"
+  },
+  {
+    "name": "Strasbourg",
+    "slug": "strasbourg",
+    "region": "Grand Est",
+    "population": "287 000"
+  },
+  {
+    "name": "Nancy",
+    "slug": "nancy",
+    "region": "Grand Est",
+    "population": "105 000"
+  },
+  {
+    "name": "Metz",
+    "slug": "metz",
+    "region": "Grand Est",
+    "population": "118 000"
+  },
+  {
+    "name": "Nantes",
+    "slug": "nantes",
+    "region": "Pays de la Loire",
+    "population": "320 000"
+  },
+  {
+    "name": "Angers",
+    "slug": "angers",
+    "region": "Pays de la Loire",
+    "population": "155 000"
+  },
+  {
+    "name": "Rennes",
+    "slug": "rennes",
+    "region": "Bretagne",
+    "population": "222 000"
+  },
+  {
+    "name": "Brest",
+    "slug": "brest",
+    "region": "Bretagne",
+    "population": "139 000"
+  },
+  {
+    "name": "Rouen",
+    "slug": "rouen",
+    "region": "Normandie",
+    "population": "113 000"
+  },
+  {
+    "name": "Le Havre",
+    "slug": "le-havre",
+    "region": "Normandie",
+    "population": "170 000"
+  },
+  {
+    "name": "Dijon",
+    "slug": "dijon",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "158 000"
+  },
+  {
+    "name": "Orléans",
+    "slug": "orleans",
+    "region": "Centre-Val de Loire",
+    "population": "116 000"
+  },
+  {
+    "name": "Tours",
+    "slug": "tours",
+    "region": "Centre-Val de Loire",
+    "population": "136 000"
+  },
+  {
+    "name": "Reims",
+    "slug": "reims",
+    "region": "Grand Est",
+    "population": "182 000"
+  },
+  {
+    "name": "Roubaix",
+    "slug": "roubaix",
+    "region": "Hauts-de-France",
+    "population": "98 000"
+  },
+  {
+    "name": "Tourcoing",
+    "slug": "tourcoing",
+    "region": "Hauts-de-France",
+    "population": "98 000"
+  },
+  {
+    "name": "Dunkerque",
+    "slug": "dunkerque",
+    "region": "Hauts-de-France",
+    "population": "88 000"
+  },
+  {
+    "name": "Toulon",
+    "slug": "toulon",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "178 000"
+  },
+  {
+    "name": "Antibes",
+    "slug": "antibes",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "74 000"
+  },
+  {
+    "name": "Avignon",
+    "slug": "avignon",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "92 000"
+  },
+  {
+    "name": "Villeurbanne",
+    "slug": "villeurbanne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "155 000"
+  },
+  {
+    "name": "Clermont-Ferrand",
+    "slug": "clermont-ferrand",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "147 000"
+  },
+  {
+    "name": "Annecy",
+    "slug": "annecy",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "130 000"
+  },
+  {
+    "name": "Chambéry",
+    "slug": "chambery",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "60 000"
+  },
+  {
+    "name": "Nîmes",
+    "slug": "nimes",
+    "region": "Occitanie",
+    "population": "151 000"
+  },
+  {
+    "name": "Perpignan",
+    "slug": "perpignan",
+    "region": "Occitanie",
+    "population": "121 000"
+  },
+  {
+    "name": "Béziers",
+    "slug": "beziers",
+    "region": "Occitanie",
+    "population": "78 000"
+  },
+  {
+    "name": "Limoges",
+    "slug": "limoges",
+    "region": "Nouvelle-Aquitaine",
+    "population": "132 000"
+  },
+  {
+    "name": "Poitiers",
+    "slug": "poitiers",
+    "region": "Nouvelle-Aquitaine",
+    "population": "88 000"
+  },
+  {
+    "name": "Pau",
+    "slug": "pau",
+    "region": "Nouvelle-Aquitaine",
+    "population": "78 000"
+  },
+  {
+    "name": "Bayonne",
+    "slug": "bayonne",
+    "region": "Nouvelle-Aquitaine",
+    "population": "52 000"
+  },
+  {
+    "name": "Le Mans",
+    "slug": "le-mans",
+    "region": "Pays de la Loire",
+    "population": "144 000"
+  },
+  {
+    "name": "Saint-Nazaire",
+    "slug": "saint-nazaire",
+    "region": "Pays de la Loire",
+    "population": "72 000"
+  },
+  {
+    "name": "Lorient",
+    "slug": "lorient",
+    "region": "Bretagne",
+    "population": "58 000"
+  },
+  {
+    "name": "Vannes",
+    "slug": "vannes",
+    "region": "Bretagne",
+    "population": "54 000"
+  },
+  {
+    "name": "Quimper",
+    "slug": "quimper",
+    "region": "Bretagne",
+    "population": "64 000"
+  },
+  {
+    "name": "Caen",
+    "slug": "caen",
+    "region": "Normandie",
+    "population": "108 000"
+  },
+  {
+    "name": "Cherbourg-en-Cotentin",
+    "slug": "cherbourg-en-cotentin",
+    "region": "Normandie",
+    "population": "80 000"
+  },
+  {
+    "name": "Mulhouse",
+    "slug": "mulhouse",
+    "region": "Grand Est",
+    "population": "110 000"
+  },
+  {
+    "name": "Colmar",
+    "slug": "colmar",
+    "region": "Grand Est",
+    "population": "70 000"
+  },
+  {
+    "name": "Troyes",
+    "slug": "troyes",
+    "region": "Grand Est",
+    "population": "62 000"
+  },
+  {
+    "name": "Besançon",
+    "slug": "besancon",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "118 000"
+  },
+  {
+    "name": "Chalon-sur-Saône",
+    "slug": "chalon-sur-saone",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "46 000"
+  },
+  {
+    "name": "Ajaccio",
+    "slug": "ajaccio",
+    "region": "Corse",
+    "population": "72 000"
+  },
+  {
+    "name": "Bastia",
+    "slug": "bastia",
+    "region": "Corse",
+    "population": "48 000"
+  },
+  {
+    "name": "Bobigny",
+    "slug": "bobigny",
+    "region": "Île-de-France",
+    "population": "54 000"
+  },
+  {
+    "name": "Aubervilliers",
+    "slug": "aubervilliers",
+    "region": "Île-de-France",
+    "population": "89 000"
+  },
+  {
+    "name": "Aulnay-sous-Bois",
+    "slug": "aulnay-sous-bois",
+    "region": "Île-de-France",
+    "population": "86 000"
+  },
+  {
+    "name": "Drancy",
+    "slug": "drancy",
+    "region": "Île-de-France",
+    "population": "72 000"
+  },
+  {
+    "name": "Bondy",
+    "slug": "bondy",
+    "region": "Île-de-France",
+    "population": "54 000"
+  },
+  {
+    "name": "Épinay-sur-Seine",
+    "slug": "epinay-sur-seine",
+    "region": "Île-de-France",
+    "population": "56 000"
+  },
+  {
+    "name": "Sevran",
+    "slug": "sevran",
+    "region": "Île-de-France",
+    "population": "52 000"
+  },
+  {
+    "name": "La Courneuve",
+    "slug": "la-courneuve",
+    "region": "Île-de-France",
+    "population": "45 000"
+  },
+  {
+    "name": "Corbeil-Essonnes",
+    "slug": "corbeil-essonnes",
+    "region": "Île-de-France",
+    "population": "52 000"
+  },
+  {
+    "name": "Grigny",
+    "slug": "grigny",
+    "region": "Île-de-France",
+    "population": "29 000"
+  },
+  {
+    "name": "Savigny-sur-Orge",
+    "slug": "savigny-sur-orge",
+    "region": "Île-de-France",
+    "population": "37 000"
+  },
+  {
+    "name": "Sarcelles",
+    "slug": "sarcelles",
+    "region": "Île-de-France",
+    "population": "58 000"
+  },
+  {
+    "name": "Garges-lès-Gonesse",
+    "slug": "garges-les-gonesse",
+    "region": "Île-de-France",
+    "population": "43 000"
+  },
+  {
+    "name": "Goussainville",
+    "slug": "goussainville",
+    "region": "Île-de-France",
+    "population": "32 000"
+  },
+  {
+    "name": "Aubagne",
+    "slug": "aubagne",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "47 000"
+  },
+  {
+    "name": "Vitrolles",
+    "slug": "vitrolles",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "35 000"
+  },
+  {
+    "name": "Marignane",
+    "slug": "marignane",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "35 000"
+  },
+  {
+    "name": "La Ciotat",
+    "slug": "la-ciotat",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "36 000"
+  },
+  {
+    "name": "Martigues",
+    "slug": "martigues",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "49 000"
+  },
+  {
+    "name": "Antibes",
+    "slug": "antibes",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "74 000"
+  },
+  {
+    "name": "Grasse",
+    "slug": "grasse",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "52 000"
+  },
+  {
+    "name": "Cagnes-sur-Mer",
+    "slug": "cagnes-sur-mer",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "52 000"
+  },
+  {
+    "name": "Menton",
+    "slug": "menton",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "30 000"
+  },
+  {
+    "name": "Toulon",
+    "slug": "toulon",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "178 000"
+  },
+  {
+    "name": "Fréjus",
+    "slug": "frejus",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "55 000"
+  },
+  {
+    "name": "Hyères",
+    "slug": "hyeres",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "57 000"
+  },
+  {
+    "name": "Draguignan",
+    "slug": "draguignan",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "41 000"
+  },
+  {
+    "name": "Roubaix",
+    "slug": "roubaix",
+    "region": "Hauts-de-France",
+    "population": "98 000"
+  },
+  {
+    "name": "Tourcoing",
+    "slug": "tourcoing",
+    "region": "Hauts-de-France",
+    "population": "98 000"
+  },
+  {
+    "name": "Dunkerque",
+    "slug": "dunkerque",
+    "region": "Hauts-de-France",
+    "population": "88 000"
+  },
+  {
+    "name": "Villeneuve-d'Ascq",
+    "slug": "villeneuve-d-ascq",
+    "region": "Hauts-de-France",
+    "population": "63 000"
+  },
+  {
+    "name": "Vénissieux",
+    "slug": "venissieux",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "66 000"
+  },
+  {
+    "name": "Vaulx-en-Velin",
+    "slug": "vaulx-en-velin",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "52 000"
+  },
+  {
+    "name": "Saint-Priest",
+    "slug": "saint-priest",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "47 000"
+  },
+  {
+    "name": "Mérignac",
+    "slug": "merignac",
+    "region": "Nouvelle-Aquitaine",
+    "population": "75 000"
+  },
+  {
+    "name": "Pessac",
+    "slug": "pessac",
+    "region": "Nouvelle-Aquitaine",
+    "population": "66 000"
+  },
+  {
+    "name": "Talence",
+    "slug": "talence",
+    "region": "Nouvelle-Aquitaine",
+    "population": "44 000"
+  },
+  {
+    "name": "Blagnac",
+    "slug": "blagnac",
+    "region": "Occitanie",
+    "population": "26 000"
+  },
+  {
+    "name": "Colomiers",
+    "slug": "colomiers",
+    "region": "Occitanie",
+    "population": "40 000"
+  },
+  {
+    "name": "Courbevoie",
+    "slug": "courbevoie",
+    "region": "Île-de-France",
+    "population": "82 000"
+  },
+  {
+    "name": "Nanterre",
+    "slug": "nanterre",
+    "region": "Île-de-France",
+    "population": "97 000"
+  },
+  {
+    "name": "Asnières-sur-Seine",
+    "slug": "asnieres-sur-seine",
+    "region": "Île-de-France",
+    "population": "86 000"
+  },
+  {
+    "name": "Colombes",
+    "slug": "colombes",
+    "region": "Île-de-France",
+    "population": "86 000"
+  },
+  {
+    "name": "Rueil-Malmaison",
+    "slug": "rueil-malmaison",
+    "region": "Île-de-France",
+    "population": "78 000"
+  },
+  {
+    "name": "Levallois-Perret",
+    "slug": "levallois-perret",
+    "region": "Île-de-France",
+    "population": "64 000"
+  },
+  {
+    "name": "Bourg-en-Bresse",
+    "slug": "bourg-en-bresse",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "42372.0"
+  },
+  {
+    "name": "Oyonnax",
+    "slug": "oyonnax",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "22480.0"
+  },
+  {
+    "name": "Valserhône",
+    "slug": "valserhone",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16712.0"
+  },
+  {
+    "name": "Ambérieu-en-Bugey",
+    "slug": "amberieu-en-bugey",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "15934.0"
+  },
+  {
+    "name": "Montluçon",
+    "slug": "montluon",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "33147.0"
+  },
+  {
+    "name": "Vichy",
+    "slug": "vichy",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "25115.0"
+  },
+  {
+    "name": "Moulins",
+    "slug": "moulins",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "19206.0"
+  },
+  {
+    "name": "Annonay",
+    "slug": "annonay",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "17274.0"
+  },
+  {
+    "name": "Aurillac",
+    "slug": "aurillac",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "26214.0"
+  },
+  {
+    "name": "Montélimar",
+    "slug": "montelimar",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "40595.0"
+  },
+  {
+    "name": "Romans-sur-Isère",
+    "slug": "romans-sur-isere",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "33464.0"
+  },
+  {
+    "name": "Le Puy-en-Velay",
+    "slug": "le-puy-en-velay",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "18540.0"
+  },
+  {
+    "name": "Thonon-les-Bains",
+    "slug": "thonon-les-bains",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "37928.0"
+  },
+  {
+    "name": "Annemasse",
+    "slug": "annemasse",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "37628.0"
+  },
+  {
+    "name": "Cluses",
+    "slug": "cluses",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "17795.0"
+  },
+  {
+    "name": "Sallanches",
+    "slug": "sallanches",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "17319.0"
+  },
+  {
+    "name": "Rumilly",
+    "slug": "rumilly",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16442.0"
+  },
+  {
+    "name": "Saint-Julien-en-Genevois",
+    "slug": "saint-julien-en-genevois",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16222.0"
+  },
+  {
+    "name": "Vienne",
+    "slug": "vienne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "31778.0"
+  },
+  {
+    "name": "Bourgoin-Jallieu",
+    "slug": "bourgoin-jallieu",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "30151.0"
+  },
+  {
+    "name": "Voiron",
+    "slug": "voiron",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "21847.0"
+  },
+  {
+    "name": "Meylan",
+    "slug": "meylan",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "18770.0"
+  },
+  {
+    "name": "Saint-Chamond",
+    "slug": "saint-chamond",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "35646.0"
+  },
+  {
+    "name": "Roanne",
+    "slug": "roanne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "35409.0"
+  },
+  {
+    "name": "Montbrison",
+    "slug": "montbrison",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16123.0"
+  },
+  {
+    "name": "Saint-Just-Saint-Rambert",
+    "slug": "saint-just-saint-rambert",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "15764.0"
+  },
+  {
+    "name": "Cournon-d'Auvergne",
+    "slug": "cournon-d-auvergne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "19951.0"
+  },
+  {
+    "name": "Riom",
+    "slug": "riom",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "18820.0"
+  },
+  {
+    "name": "Issoire",
+    "slug": "issoire",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "15115.0"
+  },
+  {
+    "name": "Villefranche-sur-Saône",
+    "slug": "villefranche-sur-saone",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "36172.0"
+  },
+  {
+    "name": "Aix-les-Bains",
+    "slug": "aix-les-bains",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "32406.0"
+  },
+  {
+    "name": "Albertville",
+    "slug": "albertville",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "19978.0"
+  },
+  {
+    "name": "Beaune",
+    "slug": "beaune",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "20352.0"
+  },
+  {
+    "name": "Montbéliard",
+    "slug": "montbeliard",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "24672.0"
+  },
+  {
+    "name": "Pontarlier",
+    "slug": "pontarlier",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "18067.0"
+  },
+  {
+    "name": "Vesoul",
+    "slug": "vesoul",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "15078.0"
+  },
+  {
+    "name": "Dole",
+    "slug": "dole",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "23840.0"
+  },
+  {
+    "name": "Lons-le-Saunier",
+    "slug": "lons-le-saunier",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "16618.0"
+  },
+  {
+    "name": "Nevers",
+    "slug": "nevers",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "33085.0"
+  },
+  {
+    "name": "Le Creusot",
+    "slug": "le-creusot",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "20509.0"
+  },
+  {
+    "name": "Montceau-les-Mines",
+    "slug": "montceau-les-mines",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "17064.0"
+  },
+  {
+    "name": "Sens",
+    "slug": "sens",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "27106.0"
+  },
+  {
+    "name": "Lannion",
+    "slug": "lannion",
+    "region": "Bretagne",
+    "population": "20315.0"
+  },
+  {
+    "name": "Lamballe-Armor",
+    "slug": "lamballe-armor",
+    "region": "Bretagne",
+    "population": "17241.0"
+  },
+  {
+    "name": "Concarneau",
+    "slug": "concarneau",
+    "region": "Bretagne",
+    "population": "20845.0"
+  },
+  {
+    "name": "Landerneau",
+    "slug": "landerneau",
+    "region": "Bretagne",
+    "population": "16363.0"
+  },
+  {
+    "name": "Morlaix",
+    "slug": "morlaix",
+    "region": "Bretagne",
+    "population": "15194.0"
+  },
+  {
+    "name": "Fougères",
+    "slug": "fougeres",
+    "region": "Bretagne",
+    "population": "20307.0"
+  },
+  {
+    "name": "Bruz",
+    "slug": "bruz",
+    "region": "Bretagne",
+    "population": "19683.0"
+  },
+  {
+    "name": "Vitré",
+    "slug": "vitre",
+    "region": "Bretagne",
+    "population": "19365.0"
+  },
+  {
+    "name": "Vierzon",
+    "slug": "vierzon",
+    "region": "Centre-Val de Loire",
+    "population": "25068.0"
+  },
+  {
+    "name": "Dreux",
+    "slug": "dreux",
+    "region": "Centre-Val de Loire",
+    "population": "31543.0"
+  },
+  {
+    "name": "Châteauroux",
+    "slug": "chteauroux",
+    "region": "Centre-Val de Loire",
+    "population": "42963.0"
+  },
+  {
+    "name": "Romorantin-Lanthenay",
+    "slug": "romorantin-lanthenay",
+    "region": "Centre-Val de Loire",
+    "population": "18373.0"
+  },
+  {
+    "name": "Vendôme",
+    "slug": "vendome",
+    "region": "Centre-Val de Loire",
+    "population": "15758.0"
+  },
+  {
+    "name": "Charleville-Mézières",
+    "slug": "charleville-mezieres",
+    "region": "Grand Est",
+    "population": "45560.0"
+  },
+  {
+    "name": "Sedan",
+    "slug": "sedan",
+    "region": "Grand Est",
+    "population": "16667.0"
+  },
+  {
+    "name": "Haguenau",
+    "slug": "haguenau",
+    "region": "Grand Est",
+    "population": "36391.0"
+  },
+  {
+    "name": "Sélestat",
+    "slug": "selestat",
+    "region": "Grand Est",
+    "population": "19589.0"
+  },
+  {
+    "name": "Saint-Louis",
+    "slug": "saint-louis",
+    "region": "Grand Est",
+    "population": "22805.0"
+  },
+  {
+    "name": "Saint-Dizier",
+    "slug": "saint-dizier",
+    "region": "Grand Est",
+    "population": "22858.0"
+  },
+  {
+    "name": "Chaumont",
+    "slug": "chaumont",
+    "region": "Grand Est",
+    "population": "20827.0"
+  },
+  {
+    "name": "Châlons-en-Champagne",
+    "slug": "chlons-en-champagne",
+    "region": "Grand Est",
+    "population": "42971.0"
+  },
+  {
+    "name": "Épernay",
+    "slug": "epernay",
+    "region": "Grand Est",
+    "population": "22174.0"
+  },
+  {
+    "name": "Lunéville",
+    "slug": "luneville",
+    "region": "Grand Est",
+    "population": "18262.0"
+  },
+  {
+    "name": "Toul",
+    "slug": "toul",
+    "region": "Grand Est",
+    "population": "15768.0"
+  },
+  {
+    "name": "Longwy",
+    "slug": "longwy",
+    "region": "Grand Est",
+    "population": "15679.0"
+  },
+  {
+    "name": "Verdun",
+    "slug": "verdun",
+    "region": "Grand Est",
+    "population": "16890.0"
+  },
+  {
+    "name": "Forbach",
+    "slug": "forbach",
+    "region": "Grand Est",
+    "population": "20493.0"
+  },
+  {
+    "name": "Sarreguemines",
+    "slug": "sarreguemines",
+    "region": "Grand Est",
+    "population": "20143.0"
+  },
+  {
+    "name": "Épinal",
+    "slug": "epinal",
+    "region": "Grand Est",
+    "population": "32251.0"
+  },
+  {
+    "name": "Saint-Dié-des-Vosges",
+    "slug": "saint-die-des-vosges",
+    "region": "Grand Est",
+    "population": "19251.0"
+  },
+  {
+    "name": "Saint-Quentin",
+    "slug": "saint-quentin",
+    "region": "Hauts-de-France",
+    "population": "52813.0"
+  },
+  {
+    "name": "Soissons",
+    "slug": "soissons",
+    "region": "Hauts-de-France",
+    "population": "28046.0"
+  },
+  {
+    "name": "Laon",
+    "slug": "laon",
+    "region": "Hauts-de-France",
+    "population": "24220.0"
+  },
+  {
+    "name": "Château-Thierry",
+    "slug": "chteau-thierry",
+    "region": "Hauts-de-France",
+    "population": "15097.0"
+  },
+  {
+    "name": "Villeneuve-d'Ascq",
+    "slug": "villeneuve-d-ascq",
+    "region": "Hauts-de-France",
+    "population": "62868.0"
+  },
+  {
+    "name": "Cambrai",
+    "slug": "cambrai",
+    "region": "Hauts-de-France",
+    "population": "31134.0"
+  },
+  {
+    "name": "Maubeuge",
+    "slug": "maubeuge",
+    "region": "Hauts-de-France",
+    "population": "28767.0"
+  },
+  {
+    "name": "Armentières",
+    "slug": "armentieres",
+    "region": "Hauts-de-France",
+    "population": "26998.0"
+  },
+  {
+    "name": "Hazebrouck",
+    "slug": "hazebrouck",
+    "region": "Hauts-de-France",
+    "population": "21912.0"
+  },
+  {
+    "name": "Denain",
+    "slug": "denain",
+    "region": "Hauts-de-France",
+    "population": "20665.0"
+  },
+  {
+    "name": "Saint-Amand-les-Eaux",
+    "slug": "saint-amand-les-eaux",
+    "region": "Hauts-de-France",
+    "population": "15974.0"
+  },
+  {
+    "name": "Beauvais",
+    "slug": "beauvais",
+    "region": "Hauts-de-France",
+    "population": "55550.0"
+  },
+  {
+    "name": "Compiègne",
+    "slug": "compiegne",
+    "region": "Hauts-de-France",
+    "population": "40761.0"
+  },
+  {
+    "name": "Creil",
+    "slug": "creil",
+    "region": "Hauts-de-France",
+    "population": "36301.0"
+  },
+  {
+    "name": "Arras",
+    "slug": "arras",
+    "region": "Hauts-de-France",
+    "population": "42875.0"
+  },
+  {
+    "name": "Lens",
+    "slug": "lens",
+    "region": "Hauts-de-France",
+    "population": "32920.0"
+  },
+  {
+    "name": "Hénin-Beaumont",
+    "slug": "henin-beaumont",
+    "region": "Hauts-de-France",
+    "population": "25688.0"
+  },
+  {
+    "name": "Béthune",
+    "slug": "bethune",
+    "region": "Hauts-de-France",
+    "population": "25224.0"
+  },
+  {
+    "name": "Abbeville",
+    "slug": "abbeville",
+    "region": "Hauts-de-France",
+    "population": "22395.0"
+  },
+  {
+    "name": "Lisieux",
+    "slug": "lisieux",
+    "region": "Normandie",
+    "population": "19645.0"
+  },
+  {
+    "name": "Vire Normandie",
+    "slug": "vire-normandie",
+    "region": "Normandie",
+    "population": "17457.0"
+  },
+  {
+    "name": "Vernon",
+    "slug": "vernon",
+    "region": "Normandie",
+    "population": "25290.0"
+  },
+  {
+    "name": "Louviers",
+    "slug": "louviers",
+    "region": "Normandie",
+    "population": "18705.0"
+  },
+  {
+    "name": "Saint-Lô",
+    "slug": "saint-lo",
+    "region": "Normandie",
+    "population": "19471.0"
+  },
+  {
+    "name": "Alençon",
+    "slug": "alenon",
+    "region": "Normandie",
+    "population": "25490.0"
+  },
+  {
+    "name": "Saint-Étienne-du-Rouvray",
+    "slug": "saint-etienne-du-rouvray",
+    "region": "Normandie",
+    "population": "29518.0"
+  },
+  {
+    "name": "Dieppe",
+    "slug": "dieppe",
+    "region": "Normandie",
+    "population": "28496.0"
+  },
+  {
+    "name": "Fécamp",
+    "slug": "fecamp",
+    "region": "Normandie",
+    "population": "17313.0"
+  },
+  {
+    "name": "Elbeuf",
+    "slug": "elbeuf",
+    "region": "Normandie",
+    "population": "15474.0"
+  },
+  {
+    "name": "Cognac",
+    "slug": "cognac",
+    "region": "Nouvelle-Aquitaine",
+    "population": "18532.0"
+  },
+  {
+    "name": "Saintes",
+    "slug": "saintes",
+    "region": "Nouvelle-Aquitaine",
+    "population": "25363.0"
+  },
+  {
+    "name": "Rochefort",
+    "slug": "rochefort",
+    "region": "Nouvelle-Aquitaine",
+    "population": "23460.0"
+  },
+  {
+    "name": "Royan",
+    "slug": "royan",
+    "region": "Nouvelle-Aquitaine",
+    "population": "19425.0"
+  },
+  {
+    "name": "Brive-la-Gaillarde",
+    "slug": "brive-la-gaillarde",
+    "region": "Nouvelle-Aquitaine",
+    "population": "47095.0"
+  },
+  {
+    "name": "Bressuire",
+    "slug": "bressuire",
+    "region": "Nouvelle-Aquitaine",
+    "population": "19970.0"
+  },
+  {
+    "name": "Bergerac",
+    "slug": "bergerac",
+    "region": "Nouvelle-Aquitaine",
+    "population": "27110.0"
+  },
+  {
+    "name": "Villenave-d'Ornon",
+    "slug": "villenave-d-ornon",
+    "region": "Nouvelle-Aquitaine",
+    "population": "42545.0"
+  },
+  {
+    "name": "La Teste-de-Buch",
+    "slug": "la-teste-de-buch",
+    "region": "Nouvelle-Aquitaine",
+    "population": "27566.0"
+  },
+  {
+    "name": "Libourne",
+    "slug": "libourne",
+    "region": "Nouvelle-Aquitaine",
+    "population": "25036.0"
+  },
+  {
+    "name": "Ambarès-et-Lagrave",
+    "slug": "ambares-et-lagrave",
+    "region": "Nouvelle-Aquitaine",
+    "population": "17644.0"
+  },
+  {
+    "name": "Cestas",
+    "slug": "cestas",
+    "region": "Nouvelle-Aquitaine",
+    "population": "16666.0"
+  },
+  {
+    "name": "Mont-de-Marsan",
+    "slug": "mont-de-marsan",
+    "region": "Nouvelle-Aquitaine",
+    "population": "31592.0"
+  },
+  {
+    "name": "Dax",
+    "slug": "dax",
+    "region": "Nouvelle-Aquitaine",
+    "population": "22109.0"
+  },
+  {
+    "name": "Biscarrosse",
+    "slug": "biscarrosse",
+    "region": "Nouvelle-Aquitaine",
+    "population": "15836.0"
+  },
+  {
+    "name": "Villeneuve-sur-Lot",
+    "slug": "villeneuve-sur-lot",
+    "region": "Nouvelle-Aquitaine",
+    "population": "22350.0"
+  },
+  {
+    "name": "Marmande",
+    "slug": "marmande",
+    "region": "Nouvelle-Aquitaine",
+    "population": "17328.0"
+  },
+  {
+    "name": "Hendaye",
+    "slug": "hendaye",
+    "region": "Nouvelle-Aquitaine",
+    "population": "18102.0"
+  },
+  {
+    "name": "Châtellerault",
+    "slug": "chtellerault",
+    "region": "Nouvelle-Aquitaine",
+    "population": "31003.0"
+  },
+  {
+    "name": "Pamiers",
+    "slug": "pamiers",
+    "region": "Occitanie",
+    "population": "16473.0"
+  },
+  {
+    "name": "Rodez",
+    "slug": "rodez",
+    "region": "Occitanie",
+    "population": "23981.0"
+  },
+  {
+    "name": "Millau",
+    "slug": "millau",
+    "region": "Occitanie",
+    "population": "22044.0"
+  },
+  {
+    "name": "Alès",
+    "slug": "ales",
+    "region": "Occitanie",
+    "population": "46125.0"
+  },
+  {
+    "name": "Bagnols-sur-Cèze",
+    "slug": "bagnols-sur-ceze",
+    "region": "Occitanie",
+    "population": "18112.0"
+  },
+  {
+    "name": "Beaucaire",
+    "slug": "beaucaire",
+    "region": "Occitanie",
+    "population": "15692.0"
+  },
+  {
+    "name": "Auch",
+    "slug": "auch",
+    "region": "Occitanie",
+    "population": "22428.0"
+  },
+  {
+    "name": "Muret",
+    "slug": "muret",
+    "region": "Occitanie",
+    "population": "26079.0"
+  },
+  {
+    "name": "Plaisance-du-Touch",
+    "slug": "plaisance-du-touch",
+    "region": "Occitanie",
+    "population": "21079.0"
+  },
+  {
+    "name": "Castanet-Tolosan",
+    "slug": "castanet-tolosan",
+    "region": "Occitanie",
+    "population": "15317.0"
+  },
+  {
+    "name": "Agde",
+    "slug": "agde",
+    "region": "Occitanie",
+    "population": "29939.0"
+  },
+  {
+    "name": "Lunel",
+    "slug": "lunel",
+    "region": "Occitanie",
+    "population": "26623.0"
+  },
+  {
+    "name": "Mauguio",
+    "slug": "mauguio",
+    "region": "Occitanie",
+    "population": "16522.0"
+  },
+  {
+    "name": "Cahors",
+    "slug": "cahors",
+    "region": "Occitanie",
+    "population": "20050.0"
+  },
+  {
+    "name": "Castres",
+    "slug": "castres",
+    "region": "Occitanie",
+    "population": "42505.0"
+  },
+  {
+    "name": "Gaillac",
+    "slug": "gaillac",
+    "region": "Occitanie",
+    "population": "16162.0"
+  },
+  {
+    "name": "Montauban",
+    "slug": "montauban",
+    "region": "Occitanie",
+    "population": "62945.0"
+  },
+  {
+    "name": "Vertou",
+    "slug": "vertou",
+    "region": "Pays de la Loire",
+    "population": "26227.0"
+  },
+  {
+    "name": "Couëron",
+    "slug": "couron",
+    "region": "Pays de la Loire",
+    "population": "24103.0"
+  },
+  {
+    "name": "Pornic",
+    "slug": "pornic",
+    "region": "Pays de la Loire",
+    "population": "18745.0"
+  },
+  {
+    "name": "Guérande",
+    "slug": "guerande",
+    "region": "Pays de la Loire",
+    "population": "16804.0"
+  },
+  {
+    "name": "Saumur",
+    "slug": "saumur",
+    "region": "Pays de la Loire",
+    "population": "26241.0"
+  },
+  {
+    "name": "Sèvremoine",
+    "slug": "sevremoine",
+    "region": "Pays de la Loire",
+    "population": "25797.0"
+  },
+  {
+    "name": "Beaupréau-en-Mauges",
+    "slug": "beaupreau-en-mauges",
+    "region": "Pays de la Loire",
+    "population": "23989.0"
+  },
+  {
+    "name": "Chemillé-en-Anjou",
+    "slug": "chemille-en-anjou",
+    "region": "Pays de la Loire",
+    "population": "21999.0"
+  },
+  {
+    "name": "Mauges-sur-Loire",
+    "slug": "mauges-sur-loire",
+    "region": "Pays de la Loire",
+    "population": "18695.0"
+  },
+  {
+    "name": "Segré-en-Anjou Bleu",
+    "slug": "segre-en-anjou-bleu",
+    "region": "Pays de la Loire",
+    "population": "17667.0"
+  },
+  {
+    "name": "Orée d'Anjou",
+    "slug": "oree-d-anjou",
+    "region": "Pays de la Loire",
+    "population": "17162.0"
+  },
+  {
+    "name": "Loire-Authion",
+    "slug": "loire-authion",
+    "region": "Pays de la Loire",
+    "population": "16765.0"
+  },
+  {
+    "name": "Château-Gontier-sur-Mayenne",
+    "slug": "chteau-gontier-sur-mayenne",
+    "region": "Pays de la Loire",
+    "population": "16584.0"
+  },
+  {
+    "name": "Les Sables-d'Olonne",
+    "slug": "les-sables-d-olonne",
+    "region": "Pays de la Loire",
+    "population": "49603.0"
+  },
+  {
+    "name": "Challans",
+    "slug": "challans",
+    "region": "Pays de la Loire",
+    "population": "22943.0"
+  },
+  {
+    "name": "Montaigu-Vendée",
+    "slug": "montaigu-vendee",
+    "region": "Pays de la Loire",
+    "population": "21134.0"
+  },
+  {
+    "name": "Les Herbiers",
+    "slug": "les-herbiers",
+    "region": "Pays de la Loire",
+    "population": "16521.0"
+  },
+  {
+    "name": "Mandelieu-la-Napoule",
+    "slug": "mandelieu-la-napoule",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "21640.0"
+  },
+  {
+    "name": "Vence",
+    "slug": "vence",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "19917.0"
+  },
+  {
+    "name": "Manosque",
+    "slug": "manosque",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "22718.0"
+  },
+  {
+    "name": "Digne-les-Bains",
+    "slug": "digne-les-bains",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "17979.0"
+  },
+  {
+    "name": "Istres",
+    "slug": "istres",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "44292.0"
+  },
+  {
+    "name": "Gap",
+    "slug": "gap",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "41293.0"
+  },
+  {
+    "name": "La Crau",
+    "slug": "la-crau",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "19556.0"
+  },
+  {
+    "name": "Saint-Maximin-la-Sainte-Baume",
+    "slug": "saint-maximin-la-sainte-baume",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "17896.0"
+  },
+  {
+    "name": "Brignoles",
+    "slug": "brignoles",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "17850.0"
+  },
+  {
+    "name": "Carpentras",
+    "slug": "carpentras",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "31619.0"
+  },
+  {
+    "name": "Orange",
+    "slug": "orange",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "29706.0"
+  },
+  {
+    "name": "Cavaillon",
+    "slug": "cavaillon",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "25636.0"
+  },
+  {
+    "name": "Pertuis",
+    "slug": "pertuis",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "19548.0"
+  },
+  {
+    "name": "Palaiseau",
+    "slug": "palaiseau",
+    "region": "Île-de-France",
+    "population": "37471.0"
+  },
+  {
+    "name": "Étampes",
+    "slug": "etampes",
+    "region": "Île-de-France",
+    "population": "26857.0"
+  },
+  {
+    "name": "Brétigny-sur-Orge",
+    "slug": "bretigny-sur-orge",
+    "region": "Île-de-France",
+    "population": "26658.0"
+  },
+  {
+    "name": "Mennecy",
+    "slug": "mennecy",
+    "region": "Île-de-France",
+    "population": "16433.0"
+  },
+  {
+    "name": "Clichy",
+    "slug": "clichy",
+    "region": "Île-de-France",
+    "population": "64410.0"
+  },
+  {
+    "name": "Villemomble",
+    "slug": "villemomble",
+    "region": "Île-de-France",
+    "population": "29795.0"
+  },
+  {
+    "name": "Chelles",
+    "slug": "chelles",
+    "region": "Île-de-France",
+    "population": "54620.0"
+  },
+  {
+    "name": "Melun",
+    "slug": "melun",
+    "region": "Île-de-France",
+    "population": "45995.0"
+  },
+  {
+    "name": "Pontault-Combault",
+    "slug": "pontault-combault",
+    "region": "Île-de-France",
+    "population": "39096.0"
+  },
+  {
+    "name": "Combs-la-Ville",
+    "slug": "combs-la-ville",
+    "region": "Île-de-France",
+    "population": "23350.0"
+  },
+  {
+    "name": "Montereau-Fault-Yonne",
+    "slug": "montereau-fault-yonne",
+    "region": "Île-de-France",
+    "population": "22279.0"
+  },
+  {
+    "name": "Lagny-sur-Marne",
+    "slug": "lagny-sur-marne",
+    "region": "Île-de-France",
+    "population": "21461.0"
+  },
+  {
+    "name": "Mitry-Mory",
+    "slug": "mitry-mory",
+    "region": "Île-de-France",
+    "population": "20456.0"
+  },
+  {
+    "name": "Coulommiers",
+    "slug": "coulommiers",
+    "region": "Île-de-France",
+    "population": "16374.0"
+  },
+  {
+    "name": "Fontainebleau",
+    "slug": "fontainebleau",
+    "region": "Île-de-France",
+    "population": "15583.0"
+  },
+  {
+    "name": "Herblay-sur-Seine",
+    "slug": "herblay-sur-seine",
+    "region": "Île-de-France",
+    "population": "31779.0"
+  },
+  {
+    "name": "Villeneuve-Saint-Georges",
+    "slug": "villeneuve-saint-georges",
+    "region": "Île-de-France",
+    "population": "36221.0"
+  },
+  {
+    "name": "Saint-Germain-en-Laye",
+    "slug": "saint-germain-en-laye",
+    "region": "Île-de-France",
+    "population": "45931.0"
+  },
+  {
+    "name": "Mantes-la-Jolie",
+    "slug": "mantes-la-jolie",
+    "region": "Île-de-France",
+    "population": "43526.0"
+  },
+  {
+    "name": "Trappes",
+    "slug": "trappes",
+    "region": "Île-de-France",
+    "population": "34689.0"
+  },
+  {
+    "name": "Les Mureaux",
+    "slug": "les-mureaux",
+    "region": "Île-de-France",
+    "population": "34632.0"
+  },
+  {
+    "name": "Rambouillet",
+    "slug": "rambouillet",
+    "region": "Île-de-France",
+    "population": "27724.0"
+  },
+  {
+    "name": "Caluire-et-Cuire",
+    "slug": "caluire-et-cuire",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "43 000"
+  },
+  {
+    "name": "Bron",
+    "slug": "bron",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "42 000"
+  },
+  {
+    "name": "Oullins",
+    "slug": "oullins",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "26 000"
+  },
+  {
+    "name": "Écully",
+    "slug": "ecully",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "18 000"
+  },
+  {
+    "name": "Tassin-la-Demi-Lune",
+    "slug": "tassin-la-demi-lune",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "22 000"
+  },
+  {
+    "name": "Rillieux-la-Pape",
+    "slug": "rillieux-la-pape",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "31 000"
+  },
+  {
+    "name": "Décines-Charpieu",
+    "slug": "decines-charpieu",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "28 000"
+  },
+  {
+    "name": "Meyzieu",
+    "slug": "meyzieu",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "34 000"
+  },
+  {
+    "name": "Bourg-en-Bresse",
+    "slug": "bourg-en-bresse",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "42372.0"
+  },
+  {
+    "name": "Oyonnax",
+    "slug": "oyonnax",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "22480.0"
+  },
+  {
+    "name": "Valserhône",
+    "slug": "valserhone",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16712.0"
+  },
+  {
+    "name": "Ambérieu-en-Bugey",
+    "slug": "amberieu-en-bugey",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "15934.0"
+  },
+  {
+    "name": "Montluçon",
+    "slug": "montluon",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "33147.0"
+  },
+  {
+    "name": "Vichy",
+    "slug": "vichy",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "25115.0"
+  },
+  {
+    "name": "Moulins",
+    "slug": "moulins",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "19206.0"
+  },
+  {
+    "name": "Annonay",
+    "slug": "annonay",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "17274.0"
+  },
+  {
+    "name": "Aurillac",
+    "slug": "aurillac",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "26214.0"
+  },
+  {
+    "name": "Montélimar",
+    "slug": "montelimar",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "40595.0"
+  },
+  {
+    "name": "Romans-sur-Isère",
+    "slug": "romans-sur-isere",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "33464.0"
+  },
+  {
+    "name": "Le Puy-en-Velay",
+    "slug": "le-puy-en-velay",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "18540.0"
+  },
+  {
+    "name": "Thonon-les-Bains",
+    "slug": "thonon-les-bains",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "37928.0"
+  },
+  {
+    "name": "Annemasse",
+    "slug": "annemasse",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "37628.0"
+  },
+  {
+    "name": "Cluses",
+    "slug": "cluses",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "17795.0"
+  },
+  {
+    "name": "Sallanches",
+    "slug": "sallanches",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "17319.0"
+  },
+  {
+    "name": "Rumilly",
+    "slug": "rumilly",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16442.0"
+  },
+  {
+    "name": "Saint-Julien-en-Genevois",
+    "slug": "saint-julien-en-genevois",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16222.0"
+  },
+  {
+    "name": "Vienne",
+    "slug": "vienne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "31778.0"
+  },
+  {
+    "name": "Bourgoin-Jallieu",
+    "slug": "bourgoin-jallieu",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "30151.0"
+  },
+  {
+    "name": "Voiron",
+    "slug": "voiron",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "21847.0"
+  },
+  {
+    "name": "Meylan",
+    "slug": "meylan",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "18770.0"
+  },
+  {
+    "name": "Saint-Chamond",
+    "slug": "saint-chamond",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "35646.0"
+  },
+  {
+    "name": "Roanne",
+    "slug": "roanne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "35409.0"
+  },
+  {
+    "name": "Montbrison",
+    "slug": "montbrison",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16123.0"
+  },
+  {
+    "name": "Saint-Just-Saint-Rambert",
+    "slug": "saint-just-saint-rambert",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "15764.0"
+  },
+  {
+    "name": "Cournon-d'Auvergne",
+    "slug": "cournon-d-auvergne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "19951.0"
+  },
+  {
+    "name": "Riom",
+    "slug": "riom",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "18820.0"
+  },
+  {
+    "name": "Issoire",
+    "slug": "issoire",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "15115.0"
+  },
+  {
+    "name": "Villefranche-sur-Saône",
+    "slug": "villefranche-sur-saone",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "36172.0"
+  },
+  {
+    "name": "Aix-les-Bains",
+    "slug": "aix-les-bains",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "32406.0"
+  },
+  {
+    "name": "Albertville",
+    "slug": "albertville",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "19978.0"
+  },
+  {
+    "name": "Beaune",
+    "slug": "beaune",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "20352.0"
+  },
+  {
+    "name": "Montbéliard",
+    "slug": "montbeliard",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "24672.0"
+  },
+  {
+    "name": "Pontarlier",
+    "slug": "pontarlier",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "18067.0"
+  },
+  {
+    "name": "Vesoul",
+    "slug": "vesoul",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "15078.0"
+  },
+  {
+    "name": "Dole",
+    "slug": "dole",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "23840.0"
+  },
+  {
+    "name": "Lons-le-Saunier",
+    "slug": "lons-le-saunier",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "16618.0"
+  },
+  {
+    "name": "Nevers",
+    "slug": "nevers",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "33085.0"
+  },
+  {
+    "name": "Le Creusot",
+    "slug": "le-creusot",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "20509.0"
+  },
+  {
+    "name": "Montceau-les-Mines",
+    "slug": "montceau-les-mines",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "17064.0"
+  },
+  {
+    "name": "Sens",
+    "slug": "sens",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "27106.0"
+  },
+  {
+    "name": "Lannion",
+    "slug": "lannion",
+    "region": "Bretagne",
+    "population": "20315.0"
+  },
+  {
+    "name": "Lamballe-Armor",
+    "slug": "lamballe-armor",
+    "region": "Bretagne",
+    "population": "17241.0"
+  },
+  {
+    "name": "Concarneau",
+    "slug": "concarneau",
+    "region": "Bretagne",
+    "population": "20845.0"
+  },
+  {
+    "name": "Landerneau",
+    "slug": "landerneau",
+    "region": "Bretagne",
+    "population": "16363.0"
+  },
+  {
+    "name": "Morlaix",
+    "slug": "morlaix",
+    "region": "Bretagne",
+    "population": "15194.0"
+  },
+  {
+    "name": "Fougères",
+    "slug": "fougeres",
+    "region": "Bretagne",
+    "population": "20307.0"
+  },
+  {
+    "name": "Bruz",
+    "slug": "bruz",
+    "region": "Bretagne",
+    "population": "19683.0"
+  },
+  {
+    "name": "Vitré",
+    "slug": "vitre",
+    "region": "Bretagne",
+    "population": "19365.0"
+  },
+  {
+    "name": "Vierzon",
+    "slug": "vierzon",
+    "region": "Centre-Val de Loire",
+    "population": "25068.0"
+  },
+  {
+    "name": "Dreux",
+    "slug": "dreux",
+    "region": "Centre-Val de Loire",
+    "population": "31543.0"
+  },
+  {
+    "name": "Châteauroux",
+    "slug": "chteauroux",
+    "region": "Centre-Val de Loire",
+    "population": "42963.0"
+  },
+  {
+    "name": "Romorantin-Lanthenay",
+    "slug": "romorantin-lanthenay",
+    "region": "Centre-Val de Loire",
+    "population": "18373.0"
+  },
+  {
+    "name": "Vendôme",
+    "slug": "vendome",
+    "region": "Centre-Val de Loire",
+    "population": "15758.0"
+  },
+  {
+    "name": "Charleville-Mézières",
+    "slug": "charleville-mezieres",
+    "region": "Grand Est",
+    "population": "45560.0"
+  },
+  {
+    "name": "Sedan",
+    "slug": "sedan",
+    "region": "Grand Est",
+    "population": "16667.0"
+  },
+  {
+    "name": "Haguenau",
+    "slug": "haguenau",
+    "region": "Grand Est",
+    "population": "36391.0"
+  },
+  {
+    "name": "Sélestat",
+    "slug": "selestat",
+    "region": "Grand Est",
+    "population": "19589.0"
+  },
+  {
+    "name": "Saint-Louis",
+    "slug": "saint-louis",
+    "region": "Grand Est",
+    "population": "22805.0"
+  },
+  {
+    "name": "Saint-Dizier",
+    "slug": "saint-dizier",
+    "region": "Grand Est",
+    "population": "22858.0"
+  },
+  {
+    "name": "Chaumont",
+    "slug": "chaumont",
+    "region": "Grand Est",
+    "population": "20827.0"
+  },
+  {
+    "name": "Châlons-en-Champagne",
+    "slug": "chlons-en-champagne",
+    "region": "Grand Est",
+    "population": "42971.0"
+  },
+  {
+    "name": "Épernay",
+    "slug": "epernay",
+    "region": "Grand Est",
+    "population": "22174.0"
+  },
+  {
+    "name": "Lunéville",
+    "slug": "luneville",
+    "region": "Grand Est",
+    "population": "18262.0"
+  },
+  {
+    "name": "Toul",
+    "slug": "toul",
+    "region": "Grand Est",
+    "population": "15768.0"
+  },
+  {
+    "name": "Longwy",
+    "slug": "longwy",
+    "region": "Grand Est",
+    "population": "15679.0"
+  },
+  {
+    "name": "Verdun",
+    "slug": "verdun",
+    "region": "Grand Est",
+    "population": "16890.0"
+  },
+  {
+    "name": "Forbach",
+    "slug": "forbach",
+    "region": "Grand Est",
+    "population": "20493.0"
+  },
+  {
+    "name": "Sarreguemines",
+    "slug": "sarreguemines",
+    "region": "Grand Est",
+    "population": "20143.0"
+  },
+  {
+    "name": "Épinal",
+    "slug": "epinal",
+    "region": "Grand Est",
+    "population": "32251.0"
+  },
+  {
+    "name": "Saint-Dié-des-Vosges",
+    "slug": "saint-die-des-vosges",
+    "region": "Grand Est",
+    "population": "19251.0"
+  },
+  {
+    "name": "Saint-Quentin",
+    "slug": "saint-quentin",
+    "region": "Hauts-de-France",
+    "population": "52813.0"
+  },
+  {
+    "name": "Soissons",
+    "slug": "soissons",
+    "region": "Hauts-de-France",
+    "population": "28046.0"
+  },
+  {
+    "name": "Laon",
+    "slug": "laon",
+    "region": "Hauts-de-France",
+    "population": "24220.0"
+  },
+  {
+    "name": "Château-Thierry",
+    "slug": "chteau-thierry",
+    "region": "Hauts-de-France",
+    "population": "15097.0"
+  },
+  {
+    "name": "Villeneuve-d'Ascq",
+    "slug": "villeneuve-d-ascq",
+    "region": "Hauts-de-France",
+    "population": "62868.0"
+  },
+  {
+    "name": "Cambrai",
+    "slug": "cambrai",
+    "region": "Hauts-de-France",
+    "population": "31134.0"
+  },
+  {
+    "name": "Maubeuge",
+    "slug": "maubeuge",
+    "region": "Hauts-de-France",
+    "population": "28767.0"
+  },
+  {
+    "name": "Armentières",
+    "slug": "armentieres",
+    "region": "Hauts-de-France",
+    "population": "26998.0"
+  },
+  {
+    "name": "Hazebrouck",
+    "slug": "hazebrouck",
+    "region": "Hauts-de-France",
+    "population": "21912.0"
+  },
+  {
+    "name": "Denain",
+    "slug": "denain",
+    "region": "Hauts-de-France",
+    "population": "20665.0"
+  },
+  {
+    "name": "Saint-Amand-les-Eaux",
+    "slug": "saint-amand-les-eaux",
+    "region": "Hauts-de-France",
+    "population": "15974.0"
+  },
+  {
+    "name": "Beauvais",
+    "slug": "beauvais",
+    "region": "Hauts-de-France",
+    "population": "55550.0"
+  },
+  {
+    "name": "Compiègne",
+    "slug": "compiegne",
+    "region": "Hauts-de-France",
+    "population": "40761.0"
+  },
+  {
+    "name": "Creil",
+    "slug": "creil",
+    "region": "Hauts-de-France",
+    "population": "36301.0"
+  },
+  {
+    "name": "Arras",
+    "slug": "arras",
+    "region": "Hauts-de-France",
+    "population": "42875.0"
+  },
+  {
+    "name": "Lens",
+    "slug": "lens",
+    "region": "Hauts-de-France",
+    "population": "32920.0"
+  },
+  {
+    "name": "Hénin-Beaumont",
+    "slug": "henin-beaumont",
+    "region": "Hauts-de-France",
+    "population": "25688.0"
+  },
+  {
+    "name": "Béthune",
+    "slug": "bethune",
+    "region": "Hauts-de-France",
+    "population": "25224.0"
+  },
+  {
+    "name": "Abbeville",
+    "slug": "abbeville",
+    "region": "Hauts-de-France",
+    "population": "22395.0"
+  },
+  {
+    "name": "Lisieux",
+    "slug": "lisieux",
+    "region": "Normandie",
+    "population": "19645.0"
+  },
+  {
+    "name": "Vire Normandie",
+    "slug": "vire-normandie",
+    "region": "Normandie",
+    "population": "17457.0"
+  },
+  {
+    "name": "Vernon",
+    "slug": "vernon",
+    "region": "Normandie",
+    "population": "25290.0"
+  },
+  {
+    "name": "Louviers",
+    "slug": "louviers",
+    "region": "Normandie",
+    "population": "18705.0"
+  },
+  {
+    "name": "Saint-Lô",
+    "slug": "saint-lo",
+    "region": "Normandie",
+    "population": "19471.0"
+  },
+  {
+    "name": "Alençon",
+    "slug": "alenon",
+    "region": "Normandie",
+    "population": "25490.0"
+  },
+  {
+    "name": "Saint-Étienne-du-Rouvray",
+    "slug": "saint-etienne-du-rouvray",
+    "region": "Normandie",
+    "population": "29518.0"
+  },
+  {
+    "name": "Dieppe",
+    "slug": "dieppe",
+    "region": "Normandie",
+    "population": "28496.0"
+  },
+  {
+    "name": "Fécamp",
+    "slug": "fecamp",
+    "region": "Normandie",
+    "population": "17313.0"
+  },
+  {
+    "name": "Elbeuf",
+    "slug": "elbeuf",
+    "region": "Normandie",
+    "population": "15474.0"
+  },
+  {
+    "name": "Cognac",
+    "slug": "cognac",
+    "region": "Nouvelle-Aquitaine",
+    "population": "18532.0"
+  },
+  {
+    "name": "Saintes",
+    "slug": "saintes",
+    "region": "Nouvelle-Aquitaine",
+    "population": "25363.0"
+  },
+  {
+    "name": "Rochefort",
+    "slug": "rochefort",
+    "region": "Nouvelle-Aquitaine",
+    "population": "23460.0"
+  },
+  {
+    "name": "Royan",
+    "slug": "royan",
+    "region": "Nouvelle-Aquitaine",
+    "population": "19425.0"
+  },
+  {
+    "name": "Brive-la-Gaillarde",
+    "slug": "brive-la-gaillarde",
+    "region": "Nouvelle-Aquitaine",
+    "population": "47095.0"
+  },
+  {
+    "name": "Bressuire",
+    "slug": "bressuire",
+    "region": "Nouvelle-Aquitaine",
+    "population": "19970.0"
+  },
+  {
+    "name": "Bergerac",
+    "slug": "bergerac",
+    "region": "Nouvelle-Aquitaine",
+    "population": "27110.0"
+  },
+  {
+    "name": "Villenave-d'Ornon",
+    "slug": "villenave-d-ornon",
+    "region": "Nouvelle-Aquitaine",
+    "population": "42545.0"
+  },
+  {
+    "name": "La Teste-de-Buch",
+    "slug": "la-teste-de-buch",
+    "region": "Nouvelle-Aquitaine",
+    "population": "27566.0"
+  },
+  {
+    "name": "Libourne",
+    "slug": "libourne",
+    "region": "Nouvelle-Aquitaine",
+    "population": "25036.0"
+  },
+  {
+    "name": "Ambarès-et-Lagrave",
+    "slug": "ambares-et-lagrave",
+    "region": "Nouvelle-Aquitaine",
+    "population": "17644.0"
+  },
+  {
+    "name": "Cestas",
+    "slug": "cestas",
+    "region": "Nouvelle-Aquitaine",
+    "population": "16666.0"
+  },
+  {
+    "name": "Mont-de-Marsan",
+    "slug": "mont-de-marsan",
+    "region": "Nouvelle-Aquitaine",
+    "population": "31592.0"
+  },
+  {
+    "name": "Dax",
+    "slug": "dax",
+    "region": "Nouvelle-Aquitaine",
+    "population": "22109.0"
+  },
+  {
+    "name": "Biscarrosse",
+    "slug": "biscarrosse",
+    "region": "Nouvelle-Aquitaine",
+    "population": "15836.0"
+  },
+  {
+    "name": "Villeneuve-sur-Lot",
+    "slug": "villeneuve-sur-lot",
+    "region": "Nouvelle-Aquitaine",
+    "population": "22350.0"
+  },
+  {
+    "name": "Marmande",
+    "slug": "marmande",
+    "region": "Nouvelle-Aquitaine",
+    "population": "17328.0"
+  },
+  {
+    "name": "Hendaye",
+    "slug": "hendaye",
+    "region": "Nouvelle-Aquitaine",
+    "population": "18102.0"
+  },
+  {
+    "name": "Châtellerault",
+    "slug": "chtellerault",
+    "region": "Nouvelle-Aquitaine",
+    "population": "31003.0"
+  },
+  {
+    "name": "Pamiers",
+    "slug": "pamiers",
+    "region": "Occitanie",
+    "population": "16473.0"
+  },
+  {
+    "name": "Rodez",
+    "slug": "rodez",
+    "region": "Occitanie",
+    "population": "23981.0"
+  },
+  {
+    "name": "Millau",
+    "slug": "millau",
+    "region": "Occitanie",
+    "population": "22044.0"
+  },
+  {
+    "name": "Alès",
+    "slug": "ales",
+    "region": "Occitanie",
+    "population": "46125.0"
+  },
+  {
+    "name": "Bagnols-sur-Cèze",
+    "slug": "bagnols-sur-ceze",
+    "region": "Occitanie",
+    "population": "18112.0"
+  },
+  {
+    "name": "Beaucaire",
+    "slug": "beaucaire",
+    "region": "Occitanie",
+    "population": "15692.0"
+  },
+  {
+    "name": "Auch",
+    "slug": "auch",
+    "region": "Occitanie",
+    "population": "22428.0"
+  },
+  {
+    "name": "Muret",
+    "slug": "muret",
+    "region": "Occitanie",
+    "population": "26079.0"
+  },
+  {
+    "name": "Plaisance-du-Touch",
+    "slug": "plaisance-du-touch",
+    "region": "Occitanie",
+    "population": "21079.0"
+  },
+  {
+    "name": "Castanet-Tolosan",
+    "slug": "castanet-tolosan",
+    "region": "Occitanie",
+    "population": "15317.0"
+  },
+  {
+    "name": "Agde",
+    "slug": "agde",
+    "region": "Occitanie",
+    "population": "29939.0"
+  },
+  {
+    "name": "Lunel",
+    "slug": "lunel",
+    "region": "Occitanie",
+    "population": "26623.0"
+  },
+  {
+    "name": "Mauguio",
+    "slug": "mauguio",
+    "region": "Occitanie",
+    "population": "16522.0"
+  },
+  {
+    "name": "Cahors",
+    "slug": "cahors",
+    "region": "Occitanie",
+    "population": "20050.0"
+  },
+  {
+    "name": "Castres",
+    "slug": "castres",
+    "region": "Occitanie",
+    "population": "42505.0"
+  },
+  {
+    "name": "Gaillac",
+    "slug": "gaillac",
+    "region": "Occitanie",
+    "population": "16162.0"
+  },
+  {
+    "name": "Montauban",
+    "slug": "montauban",
+    "region": "Occitanie",
+    "population": "62945.0"
+  },
+  {
+    "name": "Vertou",
+    "slug": "vertou",
+    "region": "Pays de la Loire",
+    "population": "26227.0"
+  },
+  {
+    "name": "Couëron",
+    "slug": "couron",
+    "region": "Pays de la Loire",
+    "population": "24103.0"
+  },
+  {
+    "name": "Pornic",
+    "slug": "pornic",
+    "region": "Pays de la Loire",
+    "population": "18745.0"
+  },
+  {
+    "name": "Guérande",
+    "slug": "guerande",
+    "region": "Pays de la Loire",
+    "population": "16804.0"
+  },
+  {
+    "name": "Saumur",
+    "slug": "saumur",
+    "region": "Pays de la Loire",
+    "population": "26241.0"
+  },
+  {
+    "name": "Sèvremoine",
+    "slug": "sevremoine",
+    "region": "Pays de la Loire",
+    "population": "25797.0"
+  },
+  {
+    "name": "Beaupréau-en-Mauges",
+    "slug": "beaupreau-en-mauges",
+    "region": "Pays de la Loire",
+    "population": "23989.0"
+  },
+  {
+    "name": "Chemillé-en-Anjou",
+    "slug": "chemille-en-anjou",
+    "region": "Pays de la Loire",
+    "population": "21999.0"
+  },
+  {
+    "name": "Mauges-sur-Loire",
+    "slug": "mauges-sur-loire",
+    "region": "Pays de la Loire",
+    "population": "18695.0"
+  },
+  {
+    "name": "Segré-en-Anjou Bleu",
+    "slug": "segre-en-anjou-bleu",
+    "region": "Pays de la Loire",
+    "population": "17667.0"
+  },
+  {
+    "name": "Orée d'Anjou",
+    "slug": "oree-d-anjou",
+    "region": "Pays de la Loire",
+    "population": "17162.0"
+  },
+  {
+    "name": "Loire-Authion",
+    "slug": "loire-authion",
+    "region": "Pays de la Loire",
+    "population": "16765.0"
+  },
+  {
+    "name": "Château-Gontier-sur-Mayenne",
+    "slug": "chteau-gontier-sur-mayenne",
+    "region": "Pays de la Loire",
+    "population": "16584.0"
+  },
+  {
+    "name": "Les Sables-d'Olonne",
+    "slug": "les-sables-d-olonne",
+    "region": "Pays de la Loire",
+    "population": "49603.0"
+  },
+  {
+    "name": "Challans",
+    "slug": "challans",
+    "region": "Pays de la Loire",
+    "population": "22943.0"
+  },
+  {
+    "name": "Montaigu-Vendée",
+    "slug": "montaigu-vendee",
+    "region": "Pays de la Loire",
+    "population": "21134.0"
+  },
+  {
+    "name": "Les Herbiers",
+    "slug": "les-herbiers",
+    "region": "Pays de la Loire",
+    "population": "16521.0"
+  },
+  {
+    "name": "Mandelieu-la-Napoule",
+    "slug": "mandelieu-la-napoule",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "21640.0"
+  },
+  {
+    "name": "Vence",
+    "slug": "vence",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "19917.0"
+  },
+  {
+    "name": "Manosque",
+    "slug": "manosque",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "22718.0"
+  },
+  {
+    "name": "Digne-les-Bains",
+    "slug": "digne-les-bains",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "17979.0"
+  },
+  {
+    "name": "Istres",
+    "slug": "istres",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "44292.0"
+  },
+  {
+    "name": "Gap",
+    "slug": "gap",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "41293.0"
+  },
+  {
+    "name": "La Crau",
+    "slug": "la-crau",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "19556.0"
+  },
+  {
+    "name": "Saint-Maximin-la-Sainte-Baume",
+    "slug": "saint-maximin-la-sainte-baume",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "17896.0"
+  },
+  {
+    "name": "Brignoles",
+    "slug": "brignoles",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "17850.0"
+  },
+  {
+    "name": "Carpentras",
+    "slug": "carpentras",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "31619.0"
+  },
+  {
+    "name": "Orange",
+    "slug": "orange",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "29706.0"
+  },
+  {
+    "name": "Cavaillon",
+    "slug": "cavaillon",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "25636.0"
+  },
+  {
+    "name": "Pertuis",
+    "slug": "pertuis",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "19548.0"
+  },
+  {
+    "name": "Palaiseau",
+    "slug": "palaiseau",
+    "region": "Île-de-France",
+    "population": "37471.0"
+  },
+  {
+    "name": "Étampes",
+    "slug": "etampes",
+    "region": "Île-de-France",
+    "population": "26857.0"
+  },
+  {
+    "name": "Brétigny-sur-Orge",
+    "slug": "bretigny-sur-orge",
+    "region": "Île-de-France",
+    "population": "26658.0"
+  },
+  {
+    "name": "Mennecy",
+    "slug": "mennecy",
+    "region": "Île-de-France",
+    "population": "16433.0"
+  },
+  {
+    "name": "Clichy",
+    "slug": "clichy",
+    "region": "Île-de-France",
+    "population": "64410.0"
+  },
+  {
+    "name": "Villemomble",
+    "slug": "villemomble",
+    "region": "Île-de-France",
+    "population": "29795.0"
+  },
+  {
+    "name": "Chelles",
+    "slug": "chelles",
+    "region": "Île-de-France",
+    "population": "54620.0"
+  },
+  {
+    "name": "Melun",
+    "slug": "melun",
+    "region": "Île-de-France",
+    "population": "45995.0"
+  },
+  {
+    "name": "Pontault-Combault",
+    "slug": "pontault-combault",
+    "region": "Île-de-France",
+    "population": "39096.0"
+  },
+  {
+    "name": "Combs-la-Ville",
+    "slug": "combs-la-ville",
+    "region": "Île-de-France",
+    "population": "23350.0"
+  },
+  {
+    "name": "Montereau-Fault-Yonne",
+    "slug": "montereau-fault-yonne",
+    "region": "Île-de-France",
+    "population": "22279.0"
+  },
+  {
+    "name": "Lagny-sur-Marne",
+    "slug": "lagny-sur-marne",
+    "region": "Île-de-France",
+    "population": "21461.0"
+  },
+  {
+    "name": "Mitry-Mory",
+    "slug": "mitry-mory",
+    "region": "Île-de-France",
+    "population": "20456.0"
+  },
+  {
+    "name": "Coulommiers",
+    "slug": "coulommiers",
+    "region": "Île-de-France",
+    "population": "16374.0"
+  },
+  {
+    "name": "Fontainebleau",
+    "slug": "fontainebleau",
+    "region": "Île-de-France",
+    "population": "15583.0"
+  },
+  {
+    "name": "Herblay-sur-Seine",
+    "slug": "herblay-sur-seine",
+    "region": "Île-de-France",
+    "population": "31779.0"
+  },
+  {
+    "name": "Villeneuve-Saint-Georges",
+    "slug": "villeneuve-saint-georges",
+    "region": "Île-de-France",
+    "population": "36221.0"
+  },
+  {
+    "name": "Saint-Germain-en-Laye",
+    "slug": "saint-germain-en-laye",
+    "region": "Île-de-France",
+    "population": "45931.0"
+  },
+  {
+    "name": "Mantes-la-Jolie",
+    "slug": "mantes-la-jolie",
+    "region": "Île-de-France",
+    "population": "43526.0"
+  },
+  {
+    "name": "Trappes",
+    "slug": "trappes",
+    "region": "Île-de-France",
+    "population": "34689.0"
+  },
+  {
+    "name": "Les Mureaux",
+    "slug": "les-mureaux",
+    "region": "Île-de-France",
+    "population": "34632.0"
+  },
+  {
+    "name": "Rambouillet",
+    "slug": "rambouillet",
+    "region": "Île-de-France",
+    "population": "27724.0"
+  },
+  {
+    "name": "La Seyne-sur-Mer",
+    "slug": "la-seyne-sur-mer",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "65 000"
+  },
+  {
+    "name": "Six-Fours-les-Plages",
+    "slug": "six-fours-les-plages",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "36 000"
+  },
+  {
+    "name": "La Penne-sur-Huveaune",
+    "slug": "la-penne-sur-huveaune",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "6 000"
+  },
+  {
+    "name": "Allauch",
+    "slug": "allauch",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "21 000"
+  },
+  {
+    "name": "Plan-de-Cuques",
+    "slug": "plan-de-cuques",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "11 000"
+  },
+  {
+    "name": "Cassis",
+    "slug": "cassis",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "7 500"
+  },
+  {
+    "name": "Carnoux-en-Provence",
+    "slug": "carnoux-en-provence",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "7 000"
+  },
+  {
+    "name": "Bourg-en-Bresse",
+    "slug": "bourg-en-bresse",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "42372.0"
+  },
+  {
+    "name": "Oyonnax",
+    "slug": "oyonnax",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "22480.0"
+  },
+  {
+    "name": "Valserhône",
+    "slug": "valserhone",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16712.0"
+  },
+  {
+    "name": "Ambérieu-en-Bugey",
+    "slug": "amberieu-en-bugey",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "15934.0"
+  },
+  {
+    "name": "Montluçon",
+    "slug": "montluon",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "33147.0"
+  },
+  {
+    "name": "Vichy",
+    "slug": "vichy",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "25115.0"
+  },
+  {
+    "name": "Moulins",
+    "slug": "moulins",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "19206.0"
+  },
+  {
+    "name": "Annonay",
+    "slug": "annonay",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "17274.0"
+  },
+  {
+    "name": "Aurillac",
+    "slug": "aurillac",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "26214.0"
+  },
+  {
+    "name": "Montélimar",
+    "slug": "montelimar",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "40595.0"
+  },
+  {
+    "name": "Romans-sur-Isère",
+    "slug": "romans-sur-isere",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "33464.0"
+  },
+  {
+    "name": "Le Puy-en-Velay",
+    "slug": "le-puy-en-velay",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "18540.0"
+  },
+  {
+    "name": "Thonon-les-Bains",
+    "slug": "thonon-les-bains",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "37928.0"
+  },
+  {
+    "name": "Annemasse",
+    "slug": "annemasse",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "37628.0"
+  },
+  {
+    "name": "Cluses",
+    "slug": "cluses",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "17795.0"
+  },
+  {
+    "name": "Sallanches",
+    "slug": "sallanches",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "17319.0"
+  },
+  {
+    "name": "Rumilly",
+    "slug": "rumilly",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16442.0"
+  },
+  {
+    "name": "Saint-Julien-en-Genevois",
+    "slug": "saint-julien-en-genevois",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16222.0"
+  },
+  {
+    "name": "Vienne",
+    "slug": "vienne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "31778.0"
+  },
+  {
+    "name": "Bourgoin-Jallieu",
+    "slug": "bourgoin-jallieu",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "30151.0"
+  },
+  {
+    "name": "Voiron",
+    "slug": "voiron",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "21847.0"
+  },
+  {
+    "name": "Meylan",
+    "slug": "meylan",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "18770.0"
+  },
+  {
+    "name": "Saint-Chamond",
+    "slug": "saint-chamond",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "35646.0"
+  },
+  {
+    "name": "Roanne",
+    "slug": "roanne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "35409.0"
+  },
+  {
+    "name": "Montbrison",
+    "slug": "montbrison",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16123.0"
+  },
+  {
+    "name": "Saint-Just-Saint-Rambert",
+    "slug": "saint-just-saint-rambert",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "15764.0"
+  },
+  {
+    "name": "Cournon-d'Auvergne",
+    "slug": "cournon-d-auvergne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "19951.0"
+  },
+  {
+    "name": "Riom",
+    "slug": "riom",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "18820.0"
+  },
+  {
+    "name": "Issoire",
+    "slug": "issoire",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "15115.0"
+  },
+  {
+    "name": "Villefranche-sur-Saône",
+    "slug": "villefranche-sur-saone",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "36172.0"
+  },
+  {
+    "name": "Aix-les-Bains",
+    "slug": "aix-les-bains",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "32406.0"
+  },
+  {
+    "name": "Albertville",
+    "slug": "albertville",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "19978.0"
+  },
+  {
+    "name": "Beaune",
+    "slug": "beaune",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "20352.0"
+  },
+  {
+    "name": "Montbéliard",
+    "slug": "montbeliard",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "24672.0"
+  },
+  {
+    "name": "Pontarlier",
+    "slug": "pontarlier",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "18067.0"
+  },
+  {
+    "name": "Vesoul",
+    "slug": "vesoul",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "15078.0"
+  },
+  {
+    "name": "Dole",
+    "slug": "dole",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "23840.0"
+  },
+  {
+    "name": "Lons-le-Saunier",
+    "slug": "lons-le-saunier",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "16618.0"
+  },
+  {
+    "name": "Nevers",
+    "slug": "nevers",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "33085.0"
+  },
+  {
+    "name": "Le Creusot",
+    "slug": "le-creusot",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "20509.0"
+  },
+  {
+    "name": "Montceau-les-Mines",
+    "slug": "montceau-les-mines",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "17064.0"
+  },
+  {
+    "name": "Sens",
+    "slug": "sens",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "27106.0"
+  },
+  {
+    "name": "Lannion",
+    "slug": "lannion",
+    "region": "Bretagne",
+    "population": "20315.0"
+  },
+  {
+    "name": "Lamballe-Armor",
+    "slug": "lamballe-armor",
+    "region": "Bretagne",
+    "population": "17241.0"
+  },
+  {
+    "name": "Concarneau",
+    "slug": "concarneau",
+    "region": "Bretagne",
+    "population": "20845.0"
+  },
+  {
+    "name": "Landerneau",
+    "slug": "landerneau",
+    "region": "Bretagne",
+    "population": "16363.0"
+  },
+  {
+    "name": "Morlaix",
+    "slug": "morlaix",
+    "region": "Bretagne",
+    "population": "15194.0"
+  },
+  {
+    "name": "Fougères",
+    "slug": "fougeres",
+    "region": "Bretagne",
+    "population": "20307.0"
+  },
+  {
+    "name": "Bruz",
+    "slug": "bruz",
+    "region": "Bretagne",
+    "population": "19683.0"
+  },
+  {
+    "name": "Vitré",
+    "slug": "vitre",
+    "region": "Bretagne",
+    "population": "19365.0"
+  },
+  {
+    "name": "Vierzon",
+    "slug": "vierzon",
+    "region": "Centre-Val de Loire",
+    "population": "25068.0"
+  },
+  {
+    "name": "Dreux",
+    "slug": "dreux",
+    "region": "Centre-Val de Loire",
+    "population": "31543.0"
+  },
+  {
+    "name": "Châteauroux",
+    "slug": "chteauroux",
+    "region": "Centre-Val de Loire",
+    "population": "42963.0"
+  },
+  {
+    "name": "Romorantin-Lanthenay",
+    "slug": "romorantin-lanthenay",
+    "region": "Centre-Val de Loire",
+    "population": "18373.0"
+  },
+  {
+    "name": "Vendôme",
+    "slug": "vendome",
+    "region": "Centre-Val de Loire",
+    "population": "15758.0"
+  },
+  {
+    "name": "Charleville-Mézières",
+    "slug": "charleville-mezieres",
+    "region": "Grand Est",
+    "population": "45560.0"
+  },
+  {
+    "name": "Sedan",
+    "slug": "sedan",
+    "region": "Grand Est",
+    "population": "16667.0"
+  },
+  {
+    "name": "Haguenau",
+    "slug": "haguenau",
+    "region": "Grand Est",
+    "population": "36391.0"
+  },
+  {
+    "name": "Sélestat",
+    "slug": "selestat",
+    "region": "Grand Est",
+    "population": "19589.0"
+  },
+  {
+    "name": "Saint-Louis",
+    "slug": "saint-louis",
+    "region": "Grand Est",
+    "population": "22805.0"
+  },
+  {
+    "name": "Saint-Dizier",
+    "slug": "saint-dizier",
+    "region": "Grand Est",
+    "population": "22858.0"
+  },
+  {
+    "name": "Chaumont",
+    "slug": "chaumont",
+    "region": "Grand Est",
+    "population": "20827.0"
+  },
+  {
+    "name": "Châlons-en-Champagne",
+    "slug": "chlons-en-champagne",
+    "region": "Grand Est",
+    "population": "42971.0"
+  },
+  {
+    "name": "Épernay",
+    "slug": "epernay",
+    "region": "Grand Est",
+    "population": "22174.0"
+  },
+  {
+    "name": "Lunéville",
+    "slug": "luneville",
+    "region": "Grand Est",
+    "population": "18262.0"
+  },
+  {
+    "name": "Toul",
+    "slug": "toul",
+    "region": "Grand Est",
+    "population": "15768.0"
+  },
+  {
+    "name": "Longwy",
+    "slug": "longwy",
+    "region": "Grand Est",
+    "population": "15679.0"
+  },
+  {
+    "name": "Verdun",
+    "slug": "verdun",
+    "region": "Grand Est",
+    "population": "16890.0"
+  },
+  {
+    "name": "Forbach",
+    "slug": "forbach",
+    "region": "Grand Est",
+    "population": "20493.0"
+  },
+  {
+    "name": "Sarreguemines",
+    "slug": "sarreguemines",
+    "region": "Grand Est",
+    "population": "20143.0"
+  },
+  {
+    "name": "Épinal",
+    "slug": "epinal",
+    "region": "Grand Est",
+    "population": "32251.0"
+  },
+  {
+    "name": "Saint-Dié-des-Vosges",
+    "slug": "saint-die-des-vosges",
+    "region": "Grand Est",
+    "population": "19251.0"
+  },
+  {
+    "name": "Saint-Quentin",
+    "slug": "saint-quentin",
+    "region": "Hauts-de-France",
+    "population": "52813.0"
+  },
+  {
+    "name": "Soissons",
+    "slug": "soissons",
+    "region": "Hauts-de-France",
+    "population": "28046.0"
+  },
+  {
+    "name": "Laon",
+    "slug": "laon",
+    "region": "Hauts-de-France",
+    "population": "24220.0"
+  },
+  {
+    "name": "Château-Thierry",
+    "slug": "chteau-thierry",
+    "region": "Hauts-de-France",
+    "population": "15097.0"
+  },
+  {
+    "name": "Villeneuve-d'Ascq",
+    "slug": "villeneuve-d-ascq",
+    "region": "Hauts-de-France",
+    "population": "62868.0"
+  },
+  {
+    "name": "Cambrai",
+    "slug": "cambrai",
+    "region": "Hauts-de-France",
+    "population": "31134.0"
+  },
+  {
+    "name": "Maubeuge",
+    "slug": "maubeuge",
+    "region": "Hauts-de-France",
+    "population": "28767.0"
+  },
+  {
+    "name": "Armentières",
+    "slug": "armentieres",
+    "region": "Hauts-de-France",
+    "population": "26998.0"
+  },
+  {
+    "name": "Hazebrouck",
+    "slug": "hazebrouck",
+    "region": "Hauts-de-France",
+    "population": "21912.0"
+  },
+  {
+    "name": "Denain",
+    "slug": "denain",
+    "region": "Hauts-de-France",
+    "population": "20665.0"
+  },
+  {
+    "name": "Saint-Amand-les-Eaux",
+    "slug": "saint-amand-les-eaux",
+    "region": "Hauts-de-France",
+    "population": "15974.0"
+  },
+  {
+    "name": "Beauvais",
+    "slug": "beauvais",
+    "region": "Hauts-de-France",
+    "population": "55550.0"
+  },
+  {
+    "name": "Compiègne",
+    "slug": "compiegne",
+    "region": "Hauts-de-France",
+    "population": "40761.0"
+  },
+  {
+    "name": "Creil",
+    "slug": "creil",
+    "region": "Hauts-de-France",
+    "population": "36301.0"
+  },
+  {
+    "name": "Arras",
+    "slug": "arras",
+    "region": "Hauts-de-France",
+    "population": "42875.0"
+  },
+  {
+    "name": "Lens",
+    "slug": "lens",
+    "region": "Hauts-de-France",
+    "population": "32920.0"
+  },
+  {
+    "name": "Hénin-Beaumont",
+    "slug": "henin-beaumont",
+    "region": "Hauts-de-France",
+    "population": "25688.0"
+  },
+  {
+    "name": "Béthune",
+    "slug": "bethune",
+    "region": "Hauts-de-France",
+    "population": "25224.0"
+  },
+  {
+    "name": "Abbeville",
+    "slug": "abbeville",
+    "region": "Hauts-de-France",
+    "population": "22395.0"
+  },
+  {
+    "name": "Lisieux",
+    "slug": "lisieux",
+    "region": "Normandie",
+    "population": "19645.0"
+  },
+  {
+    "name": "Vire Normandie",
+    "slug": "vire-normandie",
+    "region": "Normandie",
+    "population": "17457.0"
+  },
+  {
+    "name": "Vernon",
+    "slug": "vernon",
+    "region": "Normandie",
+    "population": "25290.0"
+  },
+  {
+    "name": "Louviers",
+    "slug": "louviers",
+    "region": "Normandie",
+    "population": "18705.0"
+  },
+  {
+    "name": "Saint-Lô",
+    "slug": "saint-lo",
+    "region": "Normandie",
+    "population": "19471.0"
+  },
+  {
+    "name": "Alençon",
+    "slug": "alenon",
+    "region": "Normandie",
+    "population": "25490.0"
+  },
+  {
+    "name": "Saint-Étienne-du-Rouvray",
+    "slug": "saint-etienne-du-rouvray",
+    "region": "Normandie",
+    "population": "29518.0"
+  },
+  {
+    "name": "Dieppe",
+    "slug": "dieppe",
+    "region": "Normandie",
+    "population": "28496.0"
+  },
+  {
+    "name": "Fécamp",
+    "slug": "fecamp",
+    "region": "Normandie",
+    "population": "17313.0"
+  },
+  {
+    "name": "Elbeuf",
+    "slug": "elbeuf",
+    "region": "Normandie",
+    "population": "15474.0"
+  },
+  {
+    "name": "Cognac",
+    "slug": "cognac",
+    "region": "Nouvelle-Aquitaine",
+    "population": "18532.0"
+  },
+  {
+    "name": "Saintes",
+    "slug": "saintes",
+    "region": "Nouvelle-Aquitaine",
+    "population": "25363.0"
+  },
+  {
+    "name": "Rochefort",
+    "slug": "rochefort",
+    "region": "Nouvelle-Aquitaine",
+    "population": "23460.0"
+  },
+  {
+    "name": "Royan",
+    "slug": "royan",
+    "region": "Nouvelle-Aquitaine",
+    "population": "19425.0"
+  },
+  {
+    "name": "Brive-la-Gaillarde",
+    "slug": "brive-la-gaillarde",
+    "region": "Nouvelle-Aquitaine",
+    "population": "47095.0"
+  },
+  {
+    "name": "Bressuire",
+    "slug": "bressuire",
+    "region": "Nouvelle-Aquitaine",
+    "population": "19970.0"
+  },
+  {
+    "name": "Bergerac",
+    "slug": "bergerac",
+    "region": "Nouvelle-Aquitaine",
+    "population": "27110.0"
+  },
+  {
+    "name": "Villenave-d'Ornon",
+    "slug": "villenave-d-ornon",
+    "region": "Nouvelle-Aquitaine",
+    "population": "42545.0"
+  },
+  {
+    "name": "La Teste-de-Buch",
+    "slug": "la-teste-de-buch",
+    "region": "Nouvelle-Aquitaine",
+    "population": "27566.0"
+  },
+  {
+    "name": "Libourne",
+    "slug": "libourne",
+    "region": "Nouvelle-Aquitaine",
+    "population": "25036.0"
+  },
+  {
+    "name": "Ambarès-et-Lagrave",
+    "slug": "ambares-et-lagrave",
+    "region": "Nouvelle-Aquitaine",
+    "population": "17644.0"
+  },
+  {
+    "name": "Cestas",
+    "slug": "cestas",
+    "region": "Nouvelle-Aquitaine",
+    "population": "16666.0"
+  },
+  {
+    "name": "Mont-de-Marsan",
+    "slug": "mont-de-marsan",
+    "region": "Nouvelle-Aquitaine",
+    "population": "31592.0"
+  },
+  {
+    "name": "Dax",
+    "slug": "dax",
+    "region": "Nouvelle-Aquitaine",
+    "population": "22109.0"
+  },
+  {
+    "name": "Biscarrosse",
+    "slug": "biscarrosse",
+    "region": "Nouvelle-Aquitaine",
+    "population": "15836.0"
+  },
+  {
+    "name": "Villeneuve-sur-Lot",
+    "slug": "villeneuve-sur-lot",
+    "region": "Nouvelle-Aquitaine",
+    "population": "22350.0"
+  },
+  {
+    "name": "Marmande",
+    "slug": "marmande",
+    "region": "Nouvelle-Aquitaine",
+    "population": "17328.0"
+  },
+  {
+    "name": "Hendaye",
+    "slug": "hendaye",
+    "region": "Nouvelle-Aquitaine",
+    "population": "18102.0"
+  },
+  {
+    "name": "Châtellerault",
+    "slug": "chtellerault",
+    "region": "Nouvelle-Aquitaine",
+    "population": "31003.0"
+  },
+  {
+    "name": "Pamiers",
+    "slug": "pamiers",
+    "region": "Occitanie",
+    "population": "16473.0"
+  },
+  {
+    "name": "Rodez",
+    "slug": "rodez",
+    "region": "Occitanie",
+    "population": "23981.0"
+  },
+  {
+    "name": "Millau",
+    "slug": "millau",
+    "region": "Occitanie",
+    "population": "22044.0"
+  },
+  {
+    "name": "Alès",
+    "slug": "ales",
+    "region": "Occitanie",
+    "population": "46125.0"
+  },
+  {
+    "name": "Bagnols-sur-Cèze",
+    "slug": "bagnols-sur-ceze",
+    "region": "Occitanie",
+    "population": "18112.0"
+  },
+  {
+    "name": "Beaucaire",
+    "slug": "beaucaire",
+    "region": "Occitanie",
+    "population": "15692.0"
+  },
+  {
+    "name": "Auch",
+    "slug": "auch",
+    "region": "Occitanie",
+    "population": "22428.0"
+  },
+  {
+    "name": "Muret",
+    "slug": "muret",
+    "region": "Occitanie",
+    "population": "26079.0"
+  },
+  {
+    "name": "Plaisance-du-Touch",
+    "slug": "plaisance-du-touch",
+    "region": "Occitanie",
+    "population": "21079.0"
+  },
+  {
+    "name": "Castanet-Tolosan",
+    "slug": "castanet-tolosan",
+    "region": "Occitanie",
+    "population": "15317.0"
+  },
+  {
+    "name": "Agde",
+    "slug": "agde",
+    "region": "Occitanie",
+    "population": "29939.0"
+  },
+  {
+    "name": "Lunel",
+    "slug": "lunel",
+    "region": "Occitanie",
+    "population": "26623.0"
+  },
+  {
+    "name": "Mauguio",
+    "slug": "mauguio",
+    "region": "Occitanie",
+    "population": "16522.0"
+  },
+  {
+    "name": "Cahors",
+    "slug": "cahors",
+    "region": "Occitanie",
+    "population": "20050.0"
+  },
+  {
+    "name": "Castres",
+    "slug": "castres",
+    "region": "Occitanie",
+    "population": "42505.0"
+  },
+  {
+    "name": "Gaillac",
+    "slug": "gaillac",
+    "region": "Occitanie",
+    "population": "16162.0"
+  },
+  {
+    "name": "Montauban",
+    "slug": "montauban",
+    "region": "Occitanie",
+    "population": "62945.0"
+  },
+  {
+    "name": "Vertou",
+    "slug": "vertou",
+    "region": "Pays de la Loire",
+    "population": "26227.0"
+  },
+  {
+    "name": "Couëron",
+    "slug": "couron",
+    "region": "Pays de la Loire",
+    "population": "24103.0"
+  },
+  {
+    "name": "Pornic",
+    "slug": "pornic",
+    "region": "Pays de la Loire",
+    "population": "18745.0"
+  },
+  {
+    "name": "Guérande",
+    "slug": "guerande",
+    "region": "Pays de la Loire",
+    "population": "16804.0"
+  },
+  {
+    "name": "Saumur",
+    "slug": "saumur",
+    "region": "Pays de la Loire",
+    "population": "26241.0"
+  },
+  {
+    "name": "Sèvremoine",
+    "slug": "sevremoine",
+    "region": "Pays de la Loire",
+    "population": "25797.0"
+  },
+  {
+    "name": "Beaupréau-en-Mauges",
+    "slug": "beaupreau-en-mauges",
+    "region": "Pays de la Loire",
+    "population": "23989.0"
+  },
+  {
+    "name": "Chemillé-en-Anjou",
+    "slug": "chemille-en-anjou",
+    "region": "Pays de la Loire",
+    "population": "21999.0"
+  },
+  {
+    "name": "Mauges-sur-Loire",
+    "slug": "mauges-sur-loire",
+    "region": "Pays de la Loire",
+    "population": "18695.0"
+  },
+  {
+    "name": "Segré-en-Anjou Bleu",
+    "slug": "segre-en-anjou-bleu",
+    "region": "Pays de la Loire",
+    "population": "17667.0"
+  },
+  {
+    "name": "Orée d'Anjou",
+    "slug": "oree-d-anjou",
+    "region": "Pays de la Loire",
+    "population": "17162.0"
+  },
+  {
+    "name": "Loire-Authion",
+    "slug": "loire-authion",
+    "region": "Pays de la Loire",
+    "population": "16765.0"
+  },
+  {
+    "name": "Château-Gontier-sur-Mayenne",
+    "slug": "chteau-gontier-sur-mayenne",
+    "region": "Pays de la Loire",
+    "population": "16584.0"
+  },
+  {
+    "name": "Les Sables-d'Olonne",
+    "slug": "les-sables-d-olonne",
+    "region": "Pays de la Loire",
+    "population": "49603.0"
+  },
+  {
+    "name": "Challans",
+    "slug": "challans",
+    "region": "Pays de la Loire",
+    "population": "22943.0"
+  },
+  {
+    "name": "Montaigu-Vendée",
+    "slug": "montaigu-vendee",
+    "region": "Pays de la Loire",
+    "population": "21134.0"
+  },
+  {
+    "name": "Les Herbiers",
+    "slug": "les-herbiers",
+    "region": "Pays de la Loire",
+    "population": "16521.0"
+  },
+  {
+    "name": "Mandelieu-la-Napoule",
+    "slug": "mandelieu-la-napoule",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "21640.0"
+  },
+  {
+    "name": "Vence",
+    "slug": "vence",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "19917.0"
+  },
+  {
+    "name": "Manosque",
+    "slug": "manosque",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "22718.0"
+  },
+  {
+    "name": "Digne-les-Bains",
+    "slug": "digne-les-bains",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "17979.0"
+  },
+  {
+    "name": "Istres",
+    "slug": "istres",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "44292.0"
+  },
+  {
+    "name": "Gap",
+    "slug": "gap",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "41293.0"
+  },
+  {
+    "name": "La Crau",
+    "slug": "la-crau",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "19556.0"
+  },
+  {
+    "name": "Saint-Maximin-la-Sainte-Baume",
+    "slug": "saint-maximin-la-sainte-baume",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "17896.0"
+  },
+  {
+    "name": "Brignoles",
+    "slug": "brignoles",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "17850.0"
+  },
+  {
+    "name": "Carpentras",
+    "slug": "carpentras",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "31619.0"
+  },
+  {
+    "name": "Orange",
+    "slug": "orange",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "29706.0"
+  },
+  {
+    "name": "Cavaillon",
+    "slug": "cavaillon",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "25636.0"
+  },
+  {
+    "name": "Pertuis",
+    "slug": "pertuis",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "19548.0"
+  },
+  {
+    "name": "Palaiseau",
+    "slug": "palaiseau",
+    "region": "Île-de-France",
+    "population": "37471.0"
+  },
+  {
+    "name": "Étampes",
+    "slug": "etampes",
+    "region": "Île-de-France",
+    "population": "26857.0"
+  },
+  {
+    "name": "Brétigny-sur-Orge",
+    "slug": "bretigny-sur-orge",
+    "region": "Île-de-France",
+    "population": "26658.0"
+  },
+  {
+    "name": "Mennecy",
+    "slug": "mennecy",
+    "region": "Île-de-France",
+    "population": "16433.0"
+  },
+  {
+    "name": "Clichy",
+    "slug": "clichy",
+    "region": "Île-de-France",
+    "population": "64410.0"
+  },
+  {
+    "name": "Villemomble",
+    "slug": "villemomble",
+    "region": "Île-de-France",
+    "population": "29795.0"
+  },
+  {
+    "name": "Chelles",
+    "slug": "chelles",
+    "region": "Île-de-France",
+    "population": "54620.0"
+  },
+  {
+    "name": "Melun",
+    "slug": "melun",
+    "region": "Île-de-France",
+    "population": "45995.0"
+  },
+  {
+    "name": "Pontault-Combault",
+    "slug": "pontault-combault",
+    "region": "Île-de-France",
+    "population": "39096.0"
+  },
+  {
+    "name": "Combs-la-Ville",
+    "slug": "combs-la-ville",
+    "region": "Île-de-France",
+    "population": "23350.0"
+  },
+  {
+    "name": "Montereau-Fault-Yonne",
+    "slug": "montereau-fault-yonne",
+    "region": "Île-de-France",
+    "population": "22279.0"
+  },
+  {
+    "name": "Lagny-sur-Marne",
+    "slug": "lagny-sur-marne",
+    "region": "Île-de-France",
+    "population": "21461.0"
+  },
+  {
+    "name": "Mitry-Mory",
+    "slug": "mitry-mory",
+    "region": "Île-de-France",
+    "population": "20456.0"
+  },
+  {
+    "name": "Coulommiers",
+    "slug": "coulommiers",
+    "region": "Île-de-France",
+    "population": "16374.0"
+  },
+  {
+    "name": "Fontainebleau",
+    "slug": "fontainebleau",
+    "region": "Île-de-France",
+    "population": "15583.0"
+  },
+  {
+    "name": "Herblay-sur-Seine",
+    "slug": "herblay-sur-seine",
+    "region": "Île-de-France",
+    "population": "31779.0"
+  },
+  {
+    "name": "Villeneuve-Saint-Georges",
+    "slug": "villeneuve-saint-georges",
+    "region": "Île-de-France",
+    "population": "36221.0"
+  },
+  {
+    "name": "Saint-Germain-en-Laye",
+    "slug": "saint-germain-en-laye",
+    "region": "Île-de-France",
+    "population": "45931.0"
+  },
+  {
+    "name": "Mantes-la-Jolie",
+    "slug": "mantes-la-jolie",
+    "region": "Île-de-France",
+    "population": "43526.0"
+  },
+  {
+    "name": "Trappes",
+    "slug": "trappes",
+    "region": "Île-de-France",
+    "population": "34689.0"
+  },
+  {
+    "name": "Les Mureaux",
+    "slug": "les-mureaux",
+    "region": "Île-de-France",
+    "population": "34632.0"
+  },
+  {
+    "name": "Rambouillet",
+    "slug": "rambouillet",
+    "region": "Île-de-France",
+    "population": "27724.0"
+  },
+  {
+    "name": "Pantin",
+    "slug": "pantin",
+    "region": "Île-de-France",
+    "population": "55 000"
+  },
+  {
+    "name": "Noisy-le-Grand",
+    "slug": "noisy-le-grand",
+    "region": "Île-de-France",
+    "population": "67 000"
+  },
+  {
+    "name": "Rosny-sous-Bois",
+    "slug": "rosny-sous-bois",
+    "region": "Île-de-France",
+    "population": "45 000"
+  },
+  {
+    "name": "Livry-Gargan",
+    "slug": "livry-gargan",
+    "region": "Île-de-France",
+    "population": "45 000"
+  },
+  {
+    "name": "Clichy-sous-Bois",
+    "slug": "clichy-sous-bois",
+    "region": "Île-de-France",
+    "population": "31 000"
+  },
+  {
+    "name": "Gagny",
+    "slug": "gagny",
+    "region": "Île-de-France",
+    "population": "40 000"
+  },
+  {
+    "name": "Fontenay-sous-Bois",
+    "slug": "fontenay-sous-bois",
+    "region": "Île-de-France",
+    "population": "53 000"
+  },
+  {
+    "name": "Le Kremlin-Bicêtre",
+    "slug": "le-kremlin-bicetre",
+    "region": "Île-de-France",
+    "population": "26 000"
+  },
+  {
+    "name": "Villejuif",
+    "slug": "villejuif",
+    "region": "Île-de-France",
+    "population": "58 000"
+  },
+  {
+    "name": "Thiais",
+    "slug": "thiais",
+    "region": "Île-de-France",
+    "population": "30 000"
+  },
+  {
+    "name": "Choisy-le-Roi",
+    "slug": "choisy-le-roi",
+    "region": "Île-de-France",
+    "population": "45 000"
+  },
+  {
+    "name": "Alfortville",
+    "slug": "alfortville",
+    "region": "Île-de-France",
+    "population": "45 000"
+  },
+  {
+    "name": "Clamart",
+    "slug": "clamart",
+    "region": "Île-de-France",
+    "population": "53 000"
+  },
+  {
+    "name": "Meudon",
+    "slug": "meudon",
+    "region": "Île-de-France",
+    "population": "46 000"
+  },
+  {
+    "name": "Sèvres",
+    "slug": "sevres",
+    "region": "Île-de-France",
+    "population": "23 000"
+  },
+  {
+    "name": "Saint-Cloud",
+    "slug": "saint-cloud",
+    "region": "Île-de-France",
+    "population": "30 000"
+  },
+  {
+    "name": "Suresnes",
+    "slug": "suresnes",
+    "region": "Île-de-France",
+    "population": "49 000"
+  },
+  {
+    "name": "Puteaux",
+    "slug": "puteaux",
+    "region": "Île-de-France",
+    "population": "45 000"
+  },
+  {
+    "name": "Gennevilliers",
+    "slug": "gennevilliers",
+    "region": "Île-de-France",
+    "population": "48 000"
+  },
+  {
+    "name": "Antony",
+    "slug": "antony",
+    "region": "Île-de-France",
+    "population": "63 000"
+  },
+  {
+    "name": "Bourg-en-Bresse",
+    "slug": "bourg-en-bresse",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "42372.0"
+  },
+  {
+    "name": "Oyonnax",
+    "slug": "oyonnax",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "22480.0"
+  },
+  {
+    "name": "Valserhône",
+    "slug": "valserhone",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16712.0"
+  },
+  {
+    "name": "Ambérieu-en-Bugey",
+    "slug": "amberieu-en-bugey",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "15934.0"
+  },
+  {
+    "name": "Montluçon",
+    "slug": "montluon",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "33147.0"
+  },
+  {
+    "name": "Vichy",
+    "slug": "vichy",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "25115.0"
+  },
+  {
+    "name": "Moulins",
+    "slug": "moulins",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "19206.0"
+  },
+  {
+    "name": "Annonay",
+    "slug": "annonay",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "17274.0"
+  },
+  {
+    "name": "Aurillac",
+    "slug": "aurillac",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "26214.0"
+  },
+  {
+    "name": "Montélimar",
+    "slug": "montelimar",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "40595.0"
+  },
+  {
+    "name": "Romans-sur-Isère",
+    "slug": "romans-sur-isere",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "33464.0"
+  },
+  {
+    "name": "Le Puy-en-Velay",
+    "slug": "le-puy-en-velay",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "18540.0"
+  },
+  {
+    "name": "Thonon-les-Bains",
+    "slug": "thonon-les-bains",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "37928.0"
+  },
+  {
+    "name": "Annemasse",
+    "slug": "annemasse",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "37628.0"
+  },
+  {
+    "name": "Cluses",
+    "slug": "cluses",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "17795.0"
+  },
+  {
+    "name": "Sallanches",
+    "slug": "sallanches",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "17319.0"
+  },
+  {
+    "name": "Rumilly",
+    "slug": "rumilly",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16442.0"
+  },
+  {
+    "name": "Saint-Julien-en-Genevois",
+    "slug": "saint-julien-en-genevois",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16222.0"
+  },
+  {
+    "name": "Vienne",
+    "slug": "vienne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "31778.0"
+  },
+  {
+    "name": "Bourgoin-Jallieu",
+    "slug": "bourgoin-jallieu",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "30151.0"
+  },
+  {
+    "name": "Voiron",
+    "slug": "voiron",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "21847.0"
+  },
+  {
+    "name": "Meylan",
+    "slug": "meylan",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "18770.0"
+  },
+  {
+    "name": "Saint-Chamond",
+    "slug": "saint-chamond",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "35646.0"
+  },
+  {
+    "name": "Roanne",
+    "slug": "roanne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "35409.0"
+  },
+  {
+    "name": "Montbrison",
+    "slug": "montbrison",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16123.0"
+  },
+  {
+    "name": "Saint-Just-Saint-Rambert",
+    "slug": "saint-just-saint-rambert",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "15764.0"
+  },
+  {
+    "name": "Cournon-d'Auvergne",
+    "slug": "cournon-d-auvergne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "19951.0"
+  },
+  {
+    "name": "Riom",
+    "slug": "riom",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "18820.0"
+  },
+  {
+    "name": "Issoire",
+    "slug": "issoire",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "15115.0"
+  },
+  {
+    "name": "Villefranche-sur-Saône",
+    "slug": "villefranche-sur-saone",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "36172.0"
+  },
+  {
+    "name": "Aix-les-Bains",
+    "slug": "aix-les-bains",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "32406.0"
+  },
+  {
+    "name": "Albertville",
+    "slug": "albertville",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "19978.0"
+  },
+  {
+    "name": "Beaune",
+    "slug": "beaune",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "20352.0"
+  },
+  {
+    "name": "Montbéliard",
+    "slug": "montbeliard",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "24672.0"
+  },
+  {
+    "name": "Pontarlier",
+    "slug": "pontarlier",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "18067.0"
+  },
+  {
+    "name": "Vesoul",
+    "slug": "vesoul",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "15078.0"
+  },
+  {
+    "name": "Dole",
+    "slug": "dole",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "23840.0"
+  },
+  {
+    "name": "Lons-le-Saunier",
+    "slug": "lons-le-saunier",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "16618.0"
+  },
+  {
+    "name": "Nevers",
+    "slug": "nevers",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "33085.0"
+  },
+  {
+    "name": "Le Creusot",
+    "slug": "le-creusot",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "20509.0"
+  },
+  {
+    "name": "Montceau-les-Mines",
+    "slug": "montceau-les-mines",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "17064.0"
+  },
+  {
+    "name": "Sens",
+    "slug": "sens",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "27106.0"
+  },
+  {
+    "name": "Lannion",
+    "slug": "lannion",
+    "region": "Bretagne",
+    "population": "20315.0"
+  },
+  {
+    "name": "Lamballe-Armor",
+    "slug": "lamballe-armor",
+    "region": "Bretagne",
+    "population": "17241.0"
+  },
+  {
+    "name": "Concarneau",
+    "slug": "concarneau",
+    "region": "Bretagne",
+    "population": "20845.0"
+  },
+  {
+    "name": "Landerneau",
+    "slug": "landerneau",
+    "region": "Bretagne",
+    "population": "16363.0"
+  },
+  {
+    "name": "Morlaix",
+    "slug": "morlaix",
+    "region": "Bretagne",
+    "population": "15194.0"
+  },
+  {
+    "name": "Fougères",
+    "slug": "fougeres",
+    "region": "Bretagne",
+    "population": "20307.0"
+  },
+  {
+    "name": "Bruz",
+    "slug": "bruz",
+    "region": "Bretagne",
+    "population": "19683.0"
+  },
+  {
+    "name": "Vitré",
+    "slug": "vitre",
+    "region": "Bretagne",
+    "population": "19365.0"
+  },
+  {
+    "name": "Vierzon",
+    "slug": "vierzon",
+    "region": "Centre-Val de Loire",
+    "population": "25068.0"
+  },
+  {
+    "name": "Dreux",
+    "slug": "dreux",
+    "region": "Centre-Val de Loire",
+    "population": "31543.0"
+  },
+  {
+    "name": "Châteauroux",
+    "slug": "chteauroux",
+    "region": "Centre-Val de Loire",
+    "population": "42963.0"
+  },
+  {
+    "name": "Romorantin-Lanthenay",
+    "slug": "romorantin-lanthenay",
+    "region": "Centre-Val de Loire",
+    "population": "18373.0"
+  },
+  {
+    "name": "Vendôme",
+    "slug": "vendome",
+    "region": "Centre-Val de Loire",
+    "population": "15758.0"
+  },
+  {
+    "name": "Charleville-Mézières",
+    "slug": "charleville-mezieres",
+    "region": "Grand Est",
+    "population": "45560.0"
+  },
+  {
+    "name": "Sedan",
+    "slug": "sedan",
+    "region": "Grand Est",
+    "population": "16667.0"
+  },
+  {
+    "name": "Haguenau",
+    "slug": "haguenau",
+    "region": "Grand Est",
+    "population": "36391.0"
+  },
+  {
+    "name": "Sélestat",
+    "slug": "selestat",
+    "region": "Grand Est",
+    "population": "19589.0"
+  },
+  {
+    "name": "Saint-Louis",
+    "slug": "saint-louis",
+    "region": "Grand Est",
+    "population": "22805.0"
+  },
+  {
+    "name": "Saint-Dizier",
+    "slug": "saint-dizier",
+    "region": "Grand Est",
+    "population": "22858.0"
+  },
+  {
+    "name": "Chaumont",
+    "slug": "chaumont",
+    "region": "Grand Est",
+    "population": "20827.0"
+  },
+  {
+    "name": "Châlons-en-Champagne",
+    "slug": "chlons-en-champagne",
+    "region": "Grand Est",
+    "population": "42971.0"
+  },
+  {
+    "name": "Épernay",
+    "slug": "epernay",
+    "region": "Grand Est",
+    "population": "22174.0"
+  },
+  {
+    "name": "Lunéville",
+    "slug": "luneville",
+    "region": "Grand Est",
+    "population": "18262.0"
+  },
+  {
+    "name": "Toul",
+    "slug": "toul",
+    "region": "Grand Est",
+    "population": "15768.0"
+  },
+  {
+    "name": "Longwy",
+    "slug": "longwy",
+    "region": "Grand Est",
+    "population": "15679.0"
+  },
+  {
+    "name": "Verdun",
+    "slug": "verdun",
+    "region": "Grand Est",
+    "population": "16890.0"
+  },
+  {
+    "name": "Forbach",
+    "slug": "forbach",
+    "region": "Grand Est",
+    "population": "20493.0"
+  },
+  {
+    "name": "Sarreguemines",
+    "slug": "sarreguemines",
+    "region": "Grand Est",
+    "population": "20143.0"
+  },
+  {
+    "name": "Épinal",
+    "slug": "epinal",
+    "region": "Grand Est",
+    "population": "32251.0"
+  },
+  {
+    "name": "Saint-Dié-des-Vosges",
+    "slug": "saint-die-des-vosges",
+    "region": "Grand Est",
+    "population": "19251.0"
+  },
+  {
+    "name": "Saint-Quentin",
+    "slug": "saint-quentin",
+    "region": "Hauts-de-France",
+    "population": "52813.0"
+  },
+  {
+    "name": "Soissons",
+    "slug": "soissons",
+    "region": "Hauts-de-France",
+    "population": "28046.0"
+  },
+  {
+    "name": "Laon",
+    "slug": "laon",
+    "region": "Hauts-de-France",
+    "population": "24220.0"
+  },
+  {
+    "name": "Château-Thierry",
+    "slug": "chteau-thierry",
+    "region": "Hauts-de-France",
+    "population": "15097.0"
+  },
+  {
+    "name": "Villeneuve-d'Ascq",
+    "slug": "villeneuve-d-ascq",
+    "region": "Hauts-de-France",
+    "population": "62868.0"
+  },
+  {
+    "name": "Cambrai",
+    "slug": "cambrai",
+    "region": "Hauts-de-France",
+    "population": "31134.0"
+  },
+  {
+    "name": "Maubeuge",
+    "slug": "maubeuge",
+    "region": "Hauts-de-France",
+    "population": "28767.0"
+  },
+  {
+    "name": "Armentières",
+    "slug": "armentieres",
+    "region": "Hauts-de-France",
+    "population": "26998.0"
+  },
+  {
+    "name": "Hazebrouck",
+    "slug": "hazebrouck",
+    "region": "Hauts-de-France",
+    "population": "21912.0"
+  },
+  {
+    "name": "Denain",
+    "slug": "denain",
+    "region": "Hauts-de-France",
+    "population": "20665.0"
+  },
+  {
+    "name": "Saint-Amand-les-Eaux",
+    "slug": "saint-amand-les-eaux",
+    "region": "Hauts-de-France",
+    "population": "15974.0"
+  },
+  {
+    "name": "Beauvais",
+    "slug": "beauvais",
+    "region": "Hauts-de-France",
+    "population": "55550.0"
+  },
+  {
+    "name": "Compiègne",
+    "slug": "compiegne",
+    "region": "Hauts-de-France",
+    "population": "40761.0"
+  },
+  {
+    "name": "Creil",
+    "slug": "creil",
+    "region": "Hauts-de-France",
+    "population": "36301.0"
+  },
+  {
+    "name": "Arras",
+    "slug": "arras",
+    "region": "Hauts-de-France",
+    "population": "42875.0"
+  },
+  {
+    "name": "Lens",
+    "slug": "lens",
+    "region": "Hauts-de-France",
+    "population": "32920.0"
+  },
+  {
+    "name": "Hénin-Beaumont",
+    "slug": "henin-beaumont",
+    "region": "Hauts-de-France",
+    "population": "25688.0"
+  },
+  {
+    "name": "Béthune",
+    "slug": "bethune",
+    "region": "Hauts-de-France",
+    "population": "25224.0"
+  },
+  {
+    "name": "Abbeville",
+    "slug": "abbeville",
+    "region": "Hauts-de-France",
+    "population": "22395.0"
+  },
+  {
+    "name": "Lisieux",
+    "slug": "lisieux",
+    "region": "Normandie",
+    "population": "19645.0"
+  },
+  {
+    "name": "Vire Normandie",
+    "slug": "vire-normandie",
+    "region": "Normandie",
+    "population": "17457.0"
+  },
+  {
+    "name": "Vernon",
+    "slug": "vernon",
+    "region": "Normandie",
+    "population": "25290.0"
+  },
+  {
+    "name": "Louviers",
+    "slug": "louviers",
+    "region": "Normandie",
+    "population": "18705.0"
+  },
+  {
+    "name": "Saint-Lô",
+    "slug": "saint-lo",
+    "region": "Normandie",
+    "population": "19471.0"
+  },
+  {
+    "name": "Alençon",
+    "slug": "alenon",
+    "region": "Normandie",
+    "population": "25490.0"
+  },
+  {
+    "name": "Saint-Étienne-du-Rouvray",
+    "slug": "saint-etienne-du-rouvray",
+    "region": "Normandie",
+    "population": "29518.0"
+  },
+  {
+    "name": "Dieppe",
+    "slug": "dieppe",
+    "region": "Normandie",
+    "population": "28496.0"
+  },
+  {
+    "name": "Fécamp",
+    "slug": "fecamp",
+    "region": "Normandie",
+    "population": "17313.0"
+  },
+  {
+    "name": "Elbeuf",
+    "slug": "elbeuf",
+    "region": "Normandie",
+    "population": "15474.0"
+  },
+  {
+    "name": "Cognac",
+    "slug": "cognac",
+    "region": "Nouvelle-Aquitaine",
+    "population": "18532.0"
+  },
+  {
+    "name": "Saintes",
+    "slug": "saintes",
+    "region": "Nouvelle-Aquitaine",
+    "population": "25363.0"
+  },
+  {
+    "name": "Rochefort",
+    "slug": "rochefort",
+    "region": "Nouvelle-Aquitaine",
+    "population": "23460.0"
+  },
+  {
+    "name": "Royan",
+    "slug": "royan",
+    "region": "Nouvelle-Aquitaine",
+    "population": "19425.0"
+  },
+  {
+    "name": "Brive-la-Gaillarde",
+    "slug": "brive-la-gaillarde",
+    "region": "Nouvelle-Aquitaine",
+    "population": "47095.0"
+  },
+  {
+    "name": "Bressuire",
+    "slug": "bressuire",
+    "region": "Nouvelle-Aquitaine",
+    "population": "19970.0"
+  },
+  {
+    "name": "Bergerac",
+    "slug": "bergerac",
+    "region": "Nouvelle-Aquitaine",
+    "population": "27110.0"
+  },
+  {
+    "name": "Villenave-d'Ornon",
+    "slug": "villenave-d-ornon",
+    "region": "Nouvelle-Aquitaine",
+    "population": "42545.0"
+  },
+  {
+    "name": "La Teste-de-Buch",
+    "slug": "la-teste-de-buch",
+    "region": "Nouvelle-Aquitaine",
+    "population": "27566.0"
+  },
+  {
+    "name": "Libourne",
+    "slug": "libourne",
+    "region": "Nouvelle-Aquitaine",
+    "population": "25036.0"
+  },
+  {
+    "name": "Ambarès-et-Lagrave",
+    "slug": "ambares-et-lagrave",
+    "region": "Nouvelle-Aquitaine",
+    "population": "17644.0"
+  },
+  {
+    "name": "Cestas",
+    "slug": "cestas",
+    "region": "Nouvelle-Aquitaine",
+    "population": "16666.0"
+  },
+  {
+    "name": "Mont-de-Marsan",
+    "slug": "mont-de-marsan",
+    "region": "Nouvelle-Aquitaine",
+    "population": "31592.0"
+  },
+  {
+    "name": "Dax",
+    "slug": "dax",
+    "region": "Nouvelle-Aquitaine",
+    "population": "22109.0"
+  },
+  {
+    "name": "Biscarrosse",
+    "slug": "biscarrosse",
+    "region": "Nouvelle-Aquitaine",
+    "population": "15836.0"
+  },
+  {
+    "name": "Villeneuve-sur-Lot",
+    "slug": "villeneuve-sur-lot",
+    "region": "Nouvelle-Aquitaine",
+    "population": "22350.0"
+  },
+  {
+    "name": "Marmande",
+    "slug": "marmande",
+    "region": "Nouvelle-Aquitaine",
+    "population": "17328.0"
+  },
+  {
+    "name": "Hendaye",
+    "slug": "hendaye",
+    "region": "Nouvelle-Aquitaine",
+    "population": "18102.0"
+  },
+  {
+    "name": "Châtellerault",
+    "slug": "chtellerault",
+    "region": "Nouvelle-Aquitaine",
+    "population": "31003.0"
+  },
+  {
+    "name": "Pamiers",
+    "slug": "pamiers",
+    "region": "Occitanie",
+    "population": "16473.0"
+  },
+  {
+    "name": "Rodez",
+    "slug": "rodez",
+    "region": "Occitanie",
+    "population": "23981.0"
+  },
+  {
+    "name": "Millau",
+    "slug": "millau",
+    "region": "Occitanie",
+    "population": "22044.0"
+  },
+  {
+    "name": "Alès",
+    "slug": "ales",
+    "region": "Occitanie",
+    "population": "46125.0"
+  },
+  {
+    "name": "Bagnols-sur-Cèze",
+    "slug": "bagnols-sur-ceze",
+    "region": "Occitanie",
+    "population": "18112.0"
+  },
+  {
+    "name": "Beaucaire",
+    "slug": "beaucaire",
+    "region": "Occitanie",
+    "population": "15692.0"
+  },
+  {
+    "name": "Auch",
+    "slug": "auch",
+    "region": "Occitanie",
+    "population": "22428.0"
+  },
+  {
+    "name": "Muret",
+    "slug": "muret",
+    "region": "Occitanie",
+    "population": "26079.0"
+  },
+  {
+    "name": "Plaisance-du-Touch",
+    "slug": "plaisance-du-touch",
+    "region": "Occitanie",
+    "population": "21079.0"
+  },
+  {
+    "name": "Castanet-Tolosan",
+    "slug": "castanet-tolosan",
+    "region": "Occitanie",
+    "population": "15317.0"
+  },
+  {
+    "name": "Agde",
+    "slug": "agde",
+    "region": "Occitanie",
+    "population": "29939.0"
+  },
+  {
+    "name": "Lunel",
+    "slug": "lunel",
+    "region": "Occitanie",
+    "population": "26623.0"
+  },
+  {
+    "name": "Mauguio",
+    "slug": "mauguio",
+    "region": "Occitanie",
+    "population": "16522.0"
+  },
+  {
+    "name": "Cahors",
+    "slug": "cahors",
+    "region": "Occitanie",
+    "population": "20050.0"
+  },
+  {
+    "name": "Castres",
+    "slug": "castres",
+    "region": "Occitanie",
+    "population": "42505.0"
+  },
+  {
+    "name": "Gaillac",
+    "slug": "gaillac",
+    "region": "Occitanie",
+    "population": "16162.0"
+  },
+  {
+    "name": "Montauban",
+    "slug": "montauban",
+    "region": "Occitanie",
+    "population": "62945.0"
+  },
+  {
+    "name": "Vertou",
+    "slug": "vertou",
+    "region": "Pays de la Loire",
+    "population": "26227.0"
+  },
+  {
+    "name": "Couëron",
+    "slug": "couron",
+    "region": "Pays de la Loire",
+    "population": "24103.0"
+  },
+  {
+    "name": "Pornic",
+    "slug": "pornic",
+    "region": "Pays de la Loire",
+    "population": "18745.0"
+  },
+  {
+    "name": "Guérande",
+    "slug": "guerande",
+    "region": "Pays de la Loire",
+    "population": "16804.0"
+  },
+  {
+    "name": "Saumur",
+    "slug": "saumur",
+    "region": "Pays de la Loire",
+    "population": "26241.0"
+  },
+  {
+    "name": "Sèvremoine",
+    "slug": "sevremoine",
+    "region": "Pays de la Loire",
+    "population": "25797.0"
+  },
+  {
+    "name": "Beaupréau-en-Mauges",
+    "slug": "beaupreau-en-mauges",
+    "region": "Pays de la Loire",
+    "population": "23989.0"
+  },
+  {
+    "name": "Chemillé-en-Anjou",
+    "slug": "chemille-en-anjou",
+    "region": "Pays de la Loire",
+    "population": "21999.0"
+  },
+  {
+    "name": "Mauges-sur-Loire",
+    "slug": "mauges-sur-loire",
+    "region": "Pays de la Loire",
+    "population": "18695.0"
+  },
+  {
+    "name": "Segré-en-Anjou Bleu",
+    "slug": "segre-en-anjou-bleu",
+    "region": "Pays de la Loire",
+    "population": "17667.0"
+  },
+  {
+    "name": "Orée d'Anjou",
+    "slug": "oree-d-anjou",
+    "region": "Pays de la Loire",
+    "population": "17162.0"
+  },
+  {
+    "name": "Loire-Authion",
+    "slug": "loire-authion",
+    "region": "Pays de la Loire",
+    "population": "16765.0"
+  },
+  {
+    "name": "Château-Gontier-sur-Mayenne",
+    "slug": "chteau-gontier-sur-mayenne",
+    "region": "Pays de la Loire",
+    "population": "16584.0"
+  },
+  {
+    "name": "Les Sables-d'Olonne",
+    "slug": "les-sables-d-olonne",
+    "region": "Pays de la Loire",
+    "population": "49603.0"
+  },
+  {
+    "name": "Challans",
+    "slug": "challans",
+    "region": "Pays de la Loire",
+    "population": "22943.0"
+  },
+  {
+    "name": "Montaigu-Vendée",
+    "slug": "montaigu-vendee",
+    "region": "Pays de la Loire",
+    "population": "21134.0"
+  },
+  {
+    "name": "Les Herbiers",
+    "slug": "les-herbiers",
+    "region": "Pays de la Loire",
+    "population": "16521.0"
+  },
+  {
+    "name": "Mandelieu-la-Napoule",
+    "slug": "mandelieu-la-napoule",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "21640.0"
+  },
+  {
+    "name": "Vence",
+    "slug": "vence",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "19917.0"
+  },
+  {
+    "name": "Manosque",
+    "slug": "manosque",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "22718.0"
+  },
+  {
+    "name": "Digne-les-Bains",
+    "slug": "digne-les-bains",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "17979.0"
+  },
+  {
+    "name": "Istres",
+    "slug": "istres",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "44292.0"
+  },
+  {
+    "name": "Gap",
+    "slug": "gap",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "41293.0"
+  },
+  {
+    "name": "La Crau",
+    "slug": "la-crau",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "19556.0"
+  },
+  {
+    "name": "Saint-Maximin-la-Sainte-Baume",
+    "slug": "saint-maximin-la-sainte-baume",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "17896.0"
+  },
+  {
+    "name": "Brignoles",
+    "slug": "brignoles",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "17850.0"
+  },
+  {
+    "name": "Carpentras",
+    "slug": "carpentras",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "31619.0"
+  },
+  {
+    "name": "Orange",
+    "slug": "orange",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "29706.0"
+  },
+  {
+    "name": "Cavaillon",
+    "slug": "cavaillon",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "25636.0"
+  },
+  {
+    "name": "Pertuis",
+    "slug": "pertuis",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "19548.0"
+  },
+  {
+    "name": "Palaiseau",
+    "slug": "palaiseau",
+    "region": "Île-de-France",
+    "population": "37471.0"
+  },
+  {
+    "name": "Étampes",
+    "slug": "etampes",
+    "region": "Île-de-France",
+    "population": "26857.0"
+  },
+  {
+    "name": "Brétigny-sur-Orge",
+    "slug": "bretigny-sur-orge",
+    "region": "Île-de-France",
+    "population": "26658.0"
+  },
+  {
+    "name": "Mennecy",
+    "slug": "mennecy",
+    "region": "Île-de-France",
+    "population": "16433.0"
+  },
+  {
+    "name": "Clichy",
+    "slug": "clichy",
+    "region": "Île-de-France",
+    "population": "64410.0"
+  },
+  {
+    "name": "Villemomble",
+    "slug": "villemomble",
+    "region": "Île-de-France",
+    "population": "29795.0"
+  },
+  {
+    "name": "Chelles",
+    "slug": "chelles",
+    "region": "Île-de-France",
+    "population": "54620.0"
+  },
+  {
+    "name": "Melun",
+    "slug": "melun",
+    "region": "Île-de-France",
+    "population": "45995.0"
+  },
+  {
+    "name": "Pontault-Combault",
+    "slug": "pontault-combault",
+    "region": "Île-de-France",
+    "population": "39096.0"
+  },
+  {
+    "name": "Combs-la-Ville",
+    "slug": "combs-la-ville",
+    "region": "Île-de-France",
+    "population": "23350.0"
+  },
+  {
+    "name": "Montereau-Fault-Yonne",
+    "slug": "montereau-fault-yonne",
+    "region": "Île-de-France",
+    "population": "22279.0"
+  },
+  {
+    "name": "Lagny-sur-Marne",
+    "slug": "lagny-sur-marne",
+    "region": "Île-de-France",
+    "population": "21461.0"
+  },
+  {
+    "name": "Mitry-Mory",
+    "slug": "mitry-mory",
+    "region": "Île-de-France",
+    "population": "20456.0"
+  },
+  {
+    "name": "Coulommiers",
+    "slug": "coulommiers",
+    "region": "Île-de-France",
+    "population": "16374.0"
+  },
+  {
+    "name": "Fontainebleau",
+    "slug": "fontainebleau",
+    "region": "Île-de-France",
+    "population": "15583.0"
+  },
+  {
+    "name": "Herblay-sur-Seine",
+    "slug": "herblay-sur-seine",
+    "region": "Île-de-France",
+    "population": "31779.0"
+  },
+  {
+    "name": "Villeneuve-Saint-Georges",
+    "slug": "villeneuve-saint-georges",
+    "region": "Île-de-France",
+    "population": "36221.0"
+  },
+  {
+    "name": "Saint-Germain-en-Laye",
+    "slug": "saint-germain-en-laye",
+    "region": "Île-de-France",
+    "population": "45931.0"
+  },
+  {
+    "name": "Mantes-la-Jolie",
+    "slug": "mantes-la-jolie",
+    "region": "Île-de-France",
+    "population": "43526.0"
+  },
+  {
+    "name": "Trappes",
+    "slug": "trappes",
+    "region": "Île-de-France",
+    "population": "34689.0"
+  },
+  {
+    "name": "Les Mureaux",
+    "slug": "les-mureaux",
+    "region": "Île-de-France",
+    "population": "34632.0"
+  },
+  {
+    "name": "Rambouillet",
+    "slug": "rambouillet",
+    "region": "Île-de-France",
+    "population": "27724.0"
+  },
+  {
+    "name": "Calais",
+    "slug": "calais",
+    "region": "Hauts-de-France",
+    "population": "73 000"
+  },
+  {
+    "name": "Valenciennes",
+    "slug": "valenciennes",
+    "region": "Hauts-de-France",
+    "population": "43 000"
+  },
+  {
+    "name": "Douai",
+    "slug": "douai",
+    "region": "Hauts-de-France",
+    "population": "39 000"
+  },
+  {
+    "name": "Boulogne-sur-Mer",
+    "slug": "boulogne-sur-mer",
+    "region": "Hauts-de-France",
+    "population": "41 000"
+  },
+  {
+    "name": "Valence",
+    "slug": "valence",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "63 000"
+  },
+  {
+    "name": "Angoulême",
+    "slug": "angouleme",
+    "region": "Nouvelle-Aquitaine",
+    "population": "42 000"
+  },
+  {
+    "name": "Périgueux",
+    "slug": "perigueux",
+    "region": "Nouvelle-Aquitaine",
+    "population": "30 000"
+  },
+  {
+    "name": "Niort",
+    "slug": "niort",
+    "region": "Nouvelle-Aquitaine",
+    "population": "60 000"
+  },
+  {
+    "name": "Agen",
+    "slug": "agen",
+    "region": "Nouvelle-Aquitaine",
+    "population": "35 000"
+  },
+  {
+    "name": "Narbonne",
+    "slug": "narbonne",
+    "region": "Occitanie",
+    "population": "54 000"
+  },
+  {
+    "name": "Carcassonne",
+    "slug": "carcassonne",
+    "region": "Occitanie",
+    "population": "46 000"
+  },
+  {
+    "name": "Albi",
+    "slug": "albi",
+    "region": "Occitanie",
+    "population": "49 000"
+  },
+  {
+    "name": "Tarbes",
+    "slug": "tarbes",
+    "region": "Occitanie",
+    "population": "41 000"
+  },
+  {
+    "name": "Sète",
+    "slug": "sete",
+    "region": "Occitanie",
+    "population": "44 000"
+  },
+  {
+    "name": "Saint-Malo",
+    "slug": "saint-malo",
+    "region": "Bretagne",
+    "population": "46 000"
+  },
+  {
+    "name": "Saint-Brieuc",
+    "slug": "saint-brieuc",
+    "region": "Bretagne",
+    "population": "45 000"
+  },
+  {
+    "name": "Évreux",
+    "slug": "evreux",
+    "region": "Normandie",
+    "population": "49 000"
+  },
+  {
+    "name": "La Roche-sur-Yon",
+    "slug": "la-roche-sur-yon",
+    "region": "Pays de la Loire",
+    "population": "55 000"
+  },
+  {
+    "name": "Cholet",
+    "slug": "cholet",
+    "region": "Pays de la Loire",
+    "population": "54 000"
+  },
+  {
+    "name": "Laval",
+    "slug": "laval",
+    "region": "Pays de la Loire",
+    "population": "52 000"
+  },
+  {
+    "name": "Chartres",
+    "slug": "chartres",
+    "region": "Centre-Val de Loire",
+    "population": "39 000"
+  },
+  {
+    "name": "Bourges",
+    "slug": "bourges",
+    "region": "Centre-Val de Loire",
+    "population": "66 000"
+  },
+  {
+    "name": "Blois",
+    "slug": "blois",
+    "region": "Centre-Val de Loire",
+    "population": "46 000"
+  },
+  {
+    "name": "Belfort",
+    "slug": "belfort",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "47 000"
+  },
+  {
+    "name": "Auxerre",
+    "slug": "auxerre",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "35 000"
+  },
+  {
+    "name": "Mâcon",
+    "slug": "macon",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "34 000"
+  },
+  {
+    "name": "Thionville",
+    "slug": "thionville",
+    "region": "Grand Est",
+    "population": "42 000"
+  },
+  {
+    "name": "Salon-de-Provence",
+    "slug": "salon-de-provence",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "45 000"
+  },
+  {
+    "name": "Arles",
+    "slug": "arles",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "52 000"
+  },
+  {
+    "name": "Porto-Vecchio",
+    "slug": "porto-vecchio",
+    "region": "Corse",
+    "population": "12 000"
+  },
+  {
+    "name": "Calvi",
+    "slug": "calvi",
+    "region": "Corse",
+    "population": "5 500"
+  },
+  {
+    "name": "Bourg-en-Bresse",
+    "slug": "bourg-en-bresse",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "42372.0"
+  },
+  {
+    "name": "Oyonnax",
+    "slug": "oyonnax",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "22480.0"
+  },
+  {
+    "name": "Valserhône",
+    "slug": "valserhone",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16712.0"
+  },
+  {
+    "name": "Ambérieu-en-Bugey",
+    "slug": "amberieu-en-bugey",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "15934.0"
+  },
+  {
+    "name": "Montluçon",
+    "slug": "montluon",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "33147.0"
+  },
+  {
+    "name": "Vichy",
+    "slug": "vichy",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "25115.0"
+  },
+  {
+    "name": "Moulins",
+    "slug": "moulins",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "19206.0"
+  },
+  {
+    "name": "Annonay",
+    "slug": "annonay",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "17274.0"
+  },
+  {
+    "name": "Aurillac",
+    "slug": "aurillac",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "26214.0"
+  },
+  {
+    "name": "Montélimar",
+    "slug": "montelimar",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "40595.0"
+  },
+  {
+    "name": "Romans-sur-Isère",
+    "slug": "romans-sur-isere",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "33464.0"
+  },
+  {
+    "name": "Le Puy-en-Velay",
+    "slug": "le-puy-en-velay",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "18540.0"
+  },
+  {
+    "name": "Thonon-les-Bains",
+    "slug": "thonon-les-bains",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "37928.0"
+  },
+  {
+    "name": "Annemasse",
+    "slug": "annemasse",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "37628.0"
+  },
+  {
+    "name": "Cluses",
+    "slug": "cluses",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "17795.0"
+  },
+  {
+    "name": "Sallanches",
+    "slug": "sallanches",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "17319.0"
+  },
+  {
+    "name": "Rumilly",
+    "slug": "rumilly",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16442.0"
+  },
+  {
+    "name": "Saint-Julien-en-Genevois",
+    "slug": "saint-julien-en-genevois",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16222.0"
+  },
+  {
+    "name": "Vienne",
+    "slug": "vienne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "31778.0"
+  },
+  {
+    "name": "Bourgoin-Jallieu",
+    "slug": "bourgoin-jallieu",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "30151.0"
+  },
+  {
+    "name": "Voiron",
+    "slug": "voiron",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "21847.0"
+  },
+  {
+    "name": "Meylan",
+    "slug": "meylan",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "18770.0"
+  },
+  {
+    "name": "Saint-Chamond",
+    "slug": "saint-chamond",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "35646.0"
+  },
+  {
+    "name": "Roanne",
+    "slug": "roanne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "35409.0"
+  },
+  {
+    "name": "Montbrison",
+    "slug": "montbrison",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16123.0"
+  },
+  {
+    "name": "Saint-Just-Saint-Rambert",
+    "slug": "saint-just-saint-rambert",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "15764.0"
+  },
+  {
+    "name": "Cournon-d'Auvergne",
+    "slug": "cournon-d-auvergne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "19951.0"
+  },
+  {
+    "name": "Riom",
+    "slug": "riom",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "18820.0"
+  },
+  {
+    "name": "Issoire",
+    "slug": "issoire",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "15115.0"
+  },
+  {
+    "name": "Villefranche-sur-Saône",
+    "slug": "villefranche-sur-saone",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "36172.0"
+  },
+  {
+    "name": "Aix-les-Bains",
+    "slug": "aix-les-bains",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "32406.0"
+  },
+  {
+    "name": "Albertville",
+    "slug": "albertville",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "19978.0"
+  },
+  {
+    "name": "Beaune",
+    "slug": "beaune",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "20352.0"
+  },
+  {
+    "name": "Montbéliard",
+    "slug": "montbeliard",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "24672.0"
+  },
+  {
+    "name": "Pontarlier",
+    "slug": "pontarlier",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "18067.0"
+  },
+  {
+    "name": "Vesoul",
+    "slug": "vesoul",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "15078.0"
+  },
+  {
+    "name": "Dole",
+    "slug": "dole",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "23840.0"
+  },
+  {
+    "name": "Lons-le-Saunier",
+    "slug": "lons-le-saunier",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "16618.0"
+  },
+  {
+    "name": "Nevers",
+    "slug": "nevers",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "33085.0"
+  },
+  {
+    "name": "Le Creusot",
+    "slug": "le-creusot",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "20509.0"
+  },
+  {
+    "name": "Montceau-les-Mines",
+    "slug": "montceau-les-mines",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "17064.0"
+  },
+  {
+    "name": "Sens",
+    "slug": "sens",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "27106.0"
+  },
+  {
+    "name": "Lannion",
+    "slug": "lannion",
+    "region": "Bretagne",
+    "population": "20315.0"
+  },
+  {
+    "name": "Lamballe-Armor",
+    "slug": "lamballe-armor",
+    "region": "Bretagne",
+    "population": "17241.0"
+  },
+  {
+    "name": "Concarneau",
+    "slug": "concarneau",
+    "region": "Bretagne",
+    "population": "20845.0"
+  },
+  {
+    "name": "Landerneau",
+    "slug": "landerneau",
+    "region": "Bretagne",
+    "population": "16363.0"
+  },
+  {
+    "name": "Morlaix",
+    "slug": "morlaix",
+    "region": "Bretagne",
+    "population": "15194.0"
+  },
+  {
+    "name": "Fougères",
+    "slug": "fougeres",
+    "region": "Bretagne",
+    "population": "20307.0"
+  },
+  {
+    "name": "Bruz",
+    "slug": "bruz",
+    "region": "Bretagne",
+    "population": "19683.0"
+  },
+  {
+    "name": "Vitré",
+    "slug": "vitre",
+    "region": "Bretagne",
+    "population": "19365.0"
+  },
+  {
+    "name": "Vierzon",
+    "slug": "vierzon",
+    "region": "Centre-Val de Loire",
+    "population": "25068.0"
+  },
+  {
+    "name": "Dreux",
+    "slug": "dreux",
+    "region": "Centre-Val de Loire",
+    "population": "31543.0"
+  },
+  {
+    "name": "Châteauroux",
+    "slug": "chteauroux",
+    "region": "Centre-Val de Loire",
+    "population": "42963.0"
+  },
+  {
+    "name": "Romorantin-Lanthenay",
+    "slug": "romorantin-lanthenay",
+    "region": "Centre-Val de Loire",
+    "population": "18373.0"
+  },
+  {
+    "name": "Vendôme",
+    "slug": "vendome",
+    "region": "Centre-Val de Loire",
+    "population": "15758.0"
+  },
+  {
+    "name": "Charleville-Mézières",
+    "slug": "charleville-mezieres",
+    "region": "Grand Est",
+    "population": "45560.0"
+  },
+  {
+    "name": "Sedan",
+    "slug": "sedan",
+    "region": "Grand Est",
+    "population": "16667.0"
+  },
+  {
+    "name": "Haguenau",
+    "slug": "haguenau",
+    "region": "Grand Est",
+    "population": "36391.0"
+  },
+  {
+    "name": "Sélestat",
+    "slug": "selestat",
+    "region": "Grand Est",
+    "population": "19589.0"
+  },
+  {
+    "name": "Saint-Louis",
+    "slug": "saint-louis",
+    "region": "Grand Est",
+    "population": "22805.0"
+  },
+  {
+    "name": "Saint-Dizier",
+    "slug": "saint-dizier",
+    "region": "Grand Est",
+    "population": "22858.0"
+  },
+  {
+    "name": "Chaumont",
+    "slug": "chaumont",
+    "region": "Grand Est",
+    "population": "20827.0"
+  },
+  {
+    "name": "Châlons-en-Champagne",
+    "slug": "chlons-en-champagne",
+    "region": "Grand Est",
+    "population": "42971.0"
+  },
+  {
+    "name": "Épernay",
+    "slug": "epernay",
+    "region": "Grand Est",
+    "population": "22174.0"
+  },
+  {
+    "name": "Lunéville",
+    "slug": "luneville",
+    "region": "Grand Est",
+    "population": "18262.0"
+  },
+  {
+    "name": "Toul",
+    "slug": "toul",
+    "region": "Grand Est",
+    "population": "15768.0"
+  },
+  {
+    "name": "Longwy",
+    "slug": "longwy",
+    "region": "Grand Est",
+    "population": "15679.0"
+  },
+  {
+    "name": "Verdun",
+    "slug": "verdun",
+    "region": "Grand Est",
+    "population": "16890.0"
+  },
+  {
+    "name": "Forbach",
+    "slug": "forbach",
+    "region": "Grand Est",
+    "population": "20493.0"
+  },
+  {
+    "name": "Sarreguemines",
+    "slug": "sarreguemines",
+    "region": "Grand Est",
+    "population": "20143.0"
+  },
+  {
+    "name": "Épinal",
+    "slug": "epinal",
+    "region": "Grand Est",
+    "population": "32251.0"
+  },
+  {
+    "name": "Saint-Dié-des-Vosges",
+    "slug": "saint-die-des-vosges",
+    "region": "Grand Est",
+    "population": "19251.0"
+  },
+  {
+    "name": "Saint-Quentin",
+    "slug": "saint-quentin",
+    "region": "Hauts-de-France",
+    "population": "52813.0"
+  },
+  {
+    "name": "Soissons",
+    "slug": "soissons",
+    "region": "Hauts-de-France",
+    "population": "28046.0"
+  },
+  {
+    "name": "Laon",
+    "slug": "laon",
+    "region": "Hauts-de-France",
+    "population": "24220.0"
+  },
+  {
+    "name": "Château-Thierry",
+    "slug": "chteau-thierry",
+    "region": "Hauts-de-France",
+    "population": "15097.0"
+  },
+  {
+    "name": "Villeneuve-d'Ascq",
+    "slug": "villeneuve-d-ascq",
+    "region": "Hauts-de-France",
+    "population": "62868.0"
+  },
+  {
+    "name": "Cambrai",
+    "slug": "cambrai",
+    "region": "Hauts-de-France",
+    "population": "31134.0"
+  },
+  {
+    "name": "Maubeuge",
+    "slug": "maubeuge",
+    "region": "Hauts-de-France",
+    "population": "28767.0"
+  },
+  {
+    "name": "Armentières",
+    "slug": "armentieres",
+    "region": "Hauts-de-France",
+    "population": "26998.0"
+  },
+  {
+    "name": "Hazebrouck",
+    "slug": "hazebrouck",
+    "region": "Hauts-de-France",
+    "population": "21912.0"
+  },
+  {
+    "name": "Denain",
+    "slug": "denain",
+    "region": "Hauts-de-France",
+    "population": "20665.0"
+  },
+  {
+    "name": "Saint-Amand-les-Eaux",
+    "slug": "saint-amand-les-eaux",
+    "region": "Hauts-de-France",
+    "population": "15974.0"
+  },
+  {
+    "name": "Beauvais",
+    "slug": "beauvais",
+    "region": "Hauts-de-France",
+    "population": "55550.0"
+  },
+  {
+    "name": "Compiègne",
+    "slug": "compiegne",
+    "region": "Hauts-de-France",
+    "population": "40761.0"
+  },
+  {
+    "name": "Creil",
+    "slug": "creil",
+    "region": "Hauts-de-France",
+    "population": "36301.0"
+  },
+  {
+    "name": "Arras",
+    "slug": "arras",
+    "region": "Hauts-de-France",
+    "population": "42875.0"
+  },
+  {
+    "name": "Lens",
+    "slug": "lens",
+    "region": "Hauts-de-France",
+    "population": "32920.0"
+  },
+  {
+    "name": "Hénin-Beaumont",
+    "slug": "henin-beaumont",
+    "region": "Hauts-de-France",
+    "population": "25688.0"
+  },
+  {
+    "name": "Béthune",
+    "slug": "bethune",
+    "region": "Hauts-de-France",
+    "population": "25224.0"
+  },
+  {
+    "name": "Abbeville",
+    "slug": "abbeville",
+    "region": "Hauts-de-France",
+    "population": "22395.0"
+  },
+  {
+    "name": "Lisieux",
+    "slug": "lisieux",
+    "region": "Normandie",
+    "population": "19645.0"
+  },
+  {
+    "name": "Vire Normandie",
+    "slug": "vire-normandie",
+    "region": "Normandie",
+    "population": "17457.0"
+  },
+  {
+    "name": "Vernon",
+    "slug": "vernon",
+    "region": "Normandie",
+    "population": "25290.0"
+  },
+  {
+    "name": "Louviers",
+    "slug": "louviers",
+    "region": "Normandie",
+    "population": "18705.0"
+  },
+  {
+    "name": "Saint-Lô",
+    "slug": "saint-lo",
+    "region": "Normandie",
+    "population": "19471.0"
+  },
+  {
+    "name": "Alençon",
+    "slug": "alenon",
+    "region": "Normandie",
+    "population": "25490.0"
+  },
+  {
+    "name": "Saint-Étienne-du-Rouvray",
+    "slug": "saint-etienne-du-rouvray",
+    "region": "Normandie",
+    "population": "29518.0"
+  },
+  {
+    "name": "Dieppe",
+    "slug": "dieppe",
+    "region": "Normandie",
+    "population": "28496.0"
+  },
+  {
+    "name": "Fécamp",
+    "slug": "fecamp",
+    "region": "Normandie",
+    "population": "17313.0"
+  },
+  {
+    "name": "Elbeuf",
+    "slug": "elbeuf",
+    "region": "Normandie",
+    "population": "15474.0"
+  },
+  {
+    "name": "Cognac",
+    "slug": "cognac",
+    "region": "Nouvelle-Aquitaine",
+    "population": "18532.0"
+  },
+  {
+    "name": "Saintes",
+    "slug": "saintes",
+    "region": "Nouvelle-Aquitaine",
+    "population": "25363.0"
+  },
+  {
+    "name": "Rochefort",
+    "slug": "rochefort",
+    "region": "Nouvelle-Aquitaine",
+    "population": "23460.0"
+  },
+  {
+    "name": "Royan",
+    "slug": "royan",
+    "region": "Nouvelle-Aquitaine",
+    "population": "19425.0"
+  },
+  {
+    "name": "Brive-la-Gaillarde",
+    "slug": "brive-la-gaillarde",
+    "region": "Nouvelle-Aquitaine",
+    "population": "47095.0"
+  },
+  {
+    "name": "Bressuire",
+    "slug": "bressuire",
+    "region": "Nouvelle-Aquitaine",
+    "population": "19970.0"
+  },
+  {
+    "name": "Bergerac",
+    "slug": "bergerac",
+    "region": "Nouvelle-Aquitaine",
+    "population": "27110.0"
+  },
+  {
+    "name": "Villenave-d'Ornon",
+    "slug": "villenave-d-ornon",
+    "region": "Nouvelle-Aquitaine",
+    "population": "42545.0"
+  },
+  {
+    "name": "La Teste-de-Buch",
+    "slug": "la-teste-de-buch",
+    "region": "Nouvelle-Aquitaine",
+    "population": "27566.0"
+  },
+  {
+    "name": "Libourne",
+    "slug": "libourne",
+    "region": "Nouvelle-Aquitaine",
+    "population": "25036.0"
+  },
+  {
+    "name": "Ambarès-et-Lagrave",
+    "slug": "ambares-et-lagrave",
+    "region": "Nouvelle-Aquitaine",
+    "population": "17644.0"
+  },
+  {
+    "name": "Cestas",
+    "slug": "cestas",
+    "region": "Nouvelle-Aquitaine",
+    "population": "16666.0"
+  },
+  {
+    "name": "Mont-de-Marsan",
+    "slug": "mont-de-marsan",
+    "region": "Nouvelle-Aquitaine",
+    "population": "31592.0"
+  },
+  {
+    "name": "Dax",
+    "slug": "dax",
+    "region": "Nouvelle-Aquitaine",
+    "population": "22109.0"
+  },
+  {
+    "name": "Biscarrosse",
+    "slug": "biscarrosse",
+    "region": "Nouvelle-Aquitaine",
+    "population": "15836.0"
+  },
+  {
+    "name": "Villeneuve-sur-Lot",
+    "slug": "villeneuve-sur-lot",
+    "region": "Nouvelle-Aquitaine",
+    "population": "22350.0"
+  },
+  {
+    "name": "Marmande",
+    "slug": "marmande",
+    "region": "Nouvelle-Aquitaine",
+    "population": "17328.0"
+  },
+  {
+    "name": "Hendaye",
+    "slug": "hendaye",
+    "region": "Nouvelle-Aquitaine",
+    "population": "18102.0"
+  },
+  {
+    "name": "Châtellerault",
+    "slug": "chtellerault",
+    "region": "Nouvelle-Aquitaine",
+    "population": "31003.0"
+  },
+  {
+    "name": "Pamiers",
+    "slug": "pamiers",
+    "region": "Occitanie",
+    "population": "16473.0"
+  },
+  {
+    "name": "Rodez",
+    "slug": "rodez",
+    "region": "Occitanie",
+    "population": "23981.0"
+  },
+  {
+    "name": "Millau",
+    "slug": "millau",
+    "region": "Occitanie",
+    "population": "22044.0"
+  },
+  {
+    "name": "Alès",
+    "slug": "ales",
+    "region": "Occitanie",
+    "population": "46125.0"
+  },
+  {
+    "name": "Bagnols-sur-Cèze",
+    "slug": "bagnols-sur-ceze",
+    "region": "Occitanie",
+    "population": "18112.0"
+  },
+  {
+    "name": "Beaucaire",
+    "slug": "beaucaire",
+    "region": "Occitanie",
+    "population": "15692.0"
+  },
+  {
+    "name": "Auch",
+    "slug": "auch",
+    "region": "Occitanie",
+    "population": "22428.0"
+  },
+  {
+    "name": "Muret",
+    "slug": "muret",
+    "region": "Occitanie",
+    "population": "26079.0"
+  },
+  {
+    "name": "Plaisance-du-Touch",
+    "slug": "plaisance-du-touch",
+    "region": "Occitanie",
+    "population": "21079.0"
+  },
+  {
+    "name": "Castanet-Tolosan",
+    "slug": "castanet-tolosan",
+    "region": "Occitanie",
+    "population": "15317.0"
+  },
+  {
+    "name": "Agde",
+    "slug": "agde",
+    "region": "Occitanie",
+    "population": "29939.0"
+  },
+  {
+    "name": "Lunel",
+    "slug": "lunel",
+    "region": "Occitanie",
+    "population": "26623.0"
+  },
+  {
+    "name": "Mauguio",
+    "slug": "mauguio",
+    "region": "Occitanie",
+    "population": "16522.0"
+  },
+  {
+    "name": "Cahors",
+    "slug": "cahors",
+    "region": "Occitanie",
+    "population": "20050.0"
+  },
+  {
+    "name": "Castres",
+    "slug": "castres",
+    "region": "Occitanie",
+    "population": "42505.0"
+  },
+  {
+    "name": "Gaillac",
+    "slug": "gaillac",
+    "region": "Occitanie",
+    "population": "16162.0"
+  },
+  {
+    "name": "Montauban",
+    "slug": "montauban",
+    "region": "Occitanie",
+    "population": "62945.0"
+  },
+  {
+    "name": "Vertou",
+    "slug": "vertou",
+    "region": "Pays de la Loire",
+    "population": "26227.0"
+  },
+  {
+    "name": "Couëron",
+    "slug": "couron",
+    "region": "Pays de la Loire",
+    "population": "24103.0"
+  },
+  {
+    "name": "Pornic",
+    "slug": "pornic",
+    "region": "Pays de la Loire",
+    "population": "18745.0"
+  },
+  {
+    "name": "Guérande",
+    "slug": "guerande",
+    "region": "Pays de la Loire",
+    "population": "16804.0"
+  },
+  {
+    "name": "Saumur",
+    "slug": "saumur",
+    "region": "Pays de la Loire",
+    "population": "26241.0"
+  },
+  {
+    "name": "Sèvremoine",
+    "slug": "sevremoine",
+    "region": "Pays de la Loire",
+    "population": "25797.0"
+  },
+  {
+    "name": "Beaupréau-en-Mauges",
+    "slug": "beaupreau-en-mauges",
+    "region": "Pays de la Loire",
+    "population": "23989.0"
+  },
+  {
+    "name": "Chemillé-en-Anjou",
+    "slug": "chemille-en-anjou",
+    "region": "Pays de la Loire",
+    "population": "21999.0"
+  },
+  {
+    "name": "Mauges-sur-Loire",
+    "slug": "mauges-sur-loire",
+    "region": "Pays de la Loire",
+    "population": "18695.0"
+  },
+  {
+    "name": "Segré-en-Anjou Bleu",
+    "slug": "segre-en-anjou-bleu",
+    "region": "Pays de la Loire",
+    "population": "17667.0"
+  },
+  {
+    "name": "Orée d'Anjou",
+    "slug": "oree-d-anjou",
+    "region": "Pays de la Loire",
+    "population": "17162.0"
+  },
+  {
+    "name": "Loire-Authion",
+    "slug": "loire-authion",
+    "region": "Pays de la Loire",
+    "population": "16765.0"
+  },
+  {
+    "name": "Château-Gontier-sur-Mayenne",
+    "slug": "chteau-gontier-sur-mayenne",
+    "region": "Pays de la Loire",
+    "population": "16584.0"
+  },
+  {
+    "name": "Les Sables-d'Olonne",
+    "slug": "les-sables-d-olonne",
+    "region": "Pays de la Loire",
+    "population": "49603.0"
+  },
+  {
+    "name": "Challans",
+    "slug": "challans",
+    "region": "Pays de la Loire",
+    "population": "22943.0"
+  },
+  {
+    "name": "Montaigu-Vendée",
+    "slug": "montaigu-vendee",
+    "region": "Pays de la Loire",
+    "population": "21134.0"
+  },
+  {
+    "name": "Les Herbiers",
+    "slug": "les-herbiers",
+    "region": "Pays de la Loire",
+    "population": "16521.0"
+  },
+  {
+    "name": "Mandelieu-la-Napoule",
+    "slug": "mandelieu-la-napoule",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "21640.0"
+  },
+  {
+    "name": "Vence",
+    "slug": "vence",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "19917.0"
+  },
+  {
+    "name": "Manosque",
+    "slug": "manosque",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "22718.0"
+  },
+  {
+    "name": "Digne-les-Bains",
+    "slug": "digne-les-bains",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "17979.0"
+  },
+  {
+    "name": "Istres",
+    "slug": "istres",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "44292.0"
+  },
+  {
+    "name": "Gap",
+    "slug": "gap",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "41293.0"
+  },
+  {
+    "name": "La Crau",
+    "slug": "la-crau",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "19556.0"
+  },
+  {
+    "name": "Saint-Maximin-la-Sainte-Baume",
+    "slug": "saint-maximin-la-sainte-baume",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "17896.0"
+  },
+  {
+    "name": "Brignoles",
+    "slug": "brignoles",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "17850.0"
+  },
+  {
+    "name": "Carpentras",
+    "slug": "carpentras",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "31619.0"
+  },
+  {
+    "name": "Orange",
+    "slug": "orange",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "29706.0"
+  },
+  {
+    "name": "Cavaillon",
+    "slug": "cavaillon",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "25636.0"
+  },
+  {
+    "name": "Pertuis",
+    "slug": "pertuis",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "19548.0"
+  },
+  {
+    "name": "Palaiseau",
+    "slug": "palaiseau",
+    "region": "Île-de-France",
+    "population": "37471.0"
+  },
+  {
+    "name": "Étampes",
+    "slug": "etampes",
+    "region": "Île-de-France",
+    "population": "26857.0"
+  },
+  {
+    "name": "Brétigny-sur-Orge",
+    "slug": "bretigny-sur-orge",
+    "region": "Île-de-France",
+    "population": "26658.0"
+  },
+  {
+    "name": "Mennecy",
+    "slug": "mennecy",
+    "region": "Île-de-France",
+    "population": "16433.0"
+  },
+  {
+    "name": "Clichy",
+    "slug": "clichy",
+    "region": "Île-de-France",
+    "population": "64410.0"
+  },
+  {
+    "name": "Villemomble",
+    "slug": "villemomble",
+    "region": "Île-de-France",
+    "population": "29795.0"
+  },
+  {
+    "name": "Chelles",
+    "slug": "chelles",
+    "region": "Île-de-France",
+    "population": "54620.0"
+  },
+  {
+    "name": "Melun",
+    "slug": "melun",
+    "region": "Île-de-France",
+    "population": "45995.0"
+  },
+  {
+    "name": "Pontault-Combault",
+    "slug": "pontault-combault",
+    "region": "Île-de-France",
+    "population": "39096.0"
+  },
+  {
+    "name": "Combs-la-Ville",
+    "slug": "combs-la-ville",
+    "region": "Île-de-France",
+    "population": "23350.0"
+  },
+  {
+    "name": "Montereau-Fault-Yonne",
+    "slug": "montereau-fault-yonne",
+    "region": "Île-de-France",
+    "population": "22279.0"
+  },
+  {
+    "name": "Lagny-sur-Marne",
+    "slug": "lagny-sur-marne",
+    "region": "Île-de-France",
+    "population": "21461.0"
+  },
+  {
+    "name": "Mitry-Mory",
+    "slug": "mitry-mory",
+    "region": "Île-de-France",
+    "population": "20456.0"
+  },
+  {
+    "name": "Coulommiers",
+    "slug": "coulommiers",
+    "region": "Île-de-France",
+    "population": "16374.0"
+  },
+  {
+    "name": "Fontainebleau",
+    "slug": "fontainebleau",
+    "region": "Île-de-France",
+    "population": "15583.0"
+  },
+  {
+    "name": "Herblay-sur-Seine",
+    "slug": "herblay-sur-seine",
+    "region": "Île-de-France",
+    "population": "31779.0"
+  },
+  {
+    "name": "Villeneuve-Saint-Georges",
+    "slug": "villeneuve-saint-georges",
+    "region": "Île-de-France",
+    "population": "36221.0"
+  },
+  {
+    "name": "Saint-Germain-en-Laye",
+    "slug": "saint-germain-en-laye",
+    "region": "Île-de-France",
+    "population": "45931.0"
+  },
+  {
+    "name": "Mantes-la-Jolie",
+    "slug": "mantes-la-jolie",
+    "region": "Île-de-France",
+    "population": "43526.0"
+  },
+  {
+    "name": "Trappes",
+    "slug": "trappes",
+    "region": "Île-de-France",
+    "population": "34689.0"
+  },
+  {
+    "name": "Les Mureaux",
+    "slug": "les-mureaux",
+    "region": "Île-de-France",
+    "population": "34632.0"
+  },
+  {
+    "name": "Rambouillet",
+    "slug": "rambouillet",
+    "region": "Île-de-France",
+    "population": "27724.0"
+  },
+  {
+    "name": "Bourg-en-Bresse",
+    "slug": "bourg-en-bresse",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "42372.0"
+  },
+  {
+    "name": "Oyonnax",
+    "slug": "oyonnax",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "22480.0"
+  },
+  {
+    "name": "Valserhône",
+    "slug": "valserhone",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16712.0"
+  },
+  {
+    "name": "Ambérieu-en-Bugey",
+    "slug": "amberieu-en-bugey",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "15934.0"
+  },
+  {
+    "name": "Montluçon",
+    "slug": "montluon",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "33147.0"
+  },
+  {
+    "name": "Vichy",
+    "slug": "vichy",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "25115.0"
+  },
+  {
+    "name": "Moulins",
+    "slug": "moulins",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "19206.0"
+  },
+  {
+    "name": "Annonay",
+    "slug": "annonay",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "17274.0"
+  },
+  {
+    "name": "Aurillac",
+    "slug": "aurillac",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "26214.0"
+  },
+  {
+    "name": "Montélimar",
+    "slug": "montelimar",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "40595.0"
+  },
+  {
+    "name": "Romans-sur-Isère",
+    "slug": "romans-sur-isere",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "33464.0"
+  },
+  {
+    "name": "Le Puy-en-Velay",
+    "slug": "le-puy-en-velay",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "18540.0"
+  },
+  {
+    "name": "Thonon-les-Bains",
+    "slug": "thonon-les-bains",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "37928.0"
+  },
+  {
+    "name": "Annemasse",
+    "slug": "annemasse",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "37628.0"
+  },
+  {
+    "name": "Cluses",
+    "slug": "cluses",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "17795.0"
+  },
+  {
+    "name": "Sallanches",
+    "slug": "sallanches",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "17319.0"
+  },
+  {
+    "name": "Rumilly",
+    "slug": "rumilly",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16442.0"
+  },
+  {
+    "name": "Saint-Julien-en-Genevois",
+    "slug": "saint-julien-en-genevois",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16222.0"
+  },
+  {
+    "name": "Vienne",
+    "slug": "vienne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "31778.0"
+  },
+  {
+    "name": "Bourgoin-Jallieu",
+    "slug": "bourgoin-jallieu",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "30151.0"
+  },
+  {
+    "name": "Voiron",
+    "slug": "voiron",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "21847.0"
+  },
+  {
+    "name": "Meylan",
+    "slug": "meylan",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "18770.0"
+  },
+  {
+    "name": "Saint-Chamond",
+    "slug": "saint-chamond",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "35646.0"
+  },
+  {
+    "name": "Roanne",
+    "slug": "roanne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "35409.0"
+  },
+  {
+    "name": "Montbrison",
+    "slug": "montbrison",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "16123.0"
+  },
+  {
+    "name": "Saint-Just-Saint-Rambert",
+    "slug": "saint-just-saint-rambert",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "15764.0"
+  },
+  {
+    "name": "Cournon-d'Auvergne",
+    "slug": "cournon-d-auvergne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "19951.0"
+  },
+  {
+    "name": "Riom",
+    "slug": "riom",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "18820.0"
+  },
+  {
+    "name": "Issoire",
+    "slug": "issoire",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "15115.0"
+  },
+  {
+    "name": "Villefranche-sur-Saône",
+    "slug": "villefranche-sur-saone",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "36172.0"
+  },
+  {
+    "name": "Aix-les-Bains",
+    "slug": "aix-les-bains",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "32406.0"
+  },
+  {
+    "name": "Albertville",
+    "slug": "albertville",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "19978.0"
+  },
+  {
+    "name": "Beaune",
+    "slug": "beaune",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "20352.0"
+  },
+  {
+    "name": "Montbéliard",
+    "slug": "montbeliard",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "24672.0"
+  },
+  {
+    "name": "Pontarlier",
+    "slug": "pontarlier",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "18067.0"
+  },
+  {
+    "name": "Vesoul",
+    "slug": "vesoul",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "15078.0"
+  },
+  {
+    "name": "Dole",
+    "slug": "dole",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "23840.0"
+  },
+  {
+    "name": "Lons-le-Saunier",
+    "slug": "lons-le-saunier",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "16618.0"
+  },
+  {
+    "name": "Nevers",
+    "slug": "nevers",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "33085.0"
+  },
+  {
+    "name": "Le Creusot",
+    "slug": "le-creusot",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "20509.0"
+  },
+  {
+    "name": "Montceau-les-Mines",
+    "slug": "montceau-les-mines",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "17064.0"
+  },
+  {
+    "name": "Sens",
+    "slug": "sens",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "27106.0"
+  },
+  {
+    "name": "Lannion",
+    "slug": "lannion",
+    "region": "Bretagne",
+    "population": "20315.0"
+  },
+  {
+    "name": "Lamballe-Armor",
+    "slug": "lamballe-armor",
+    "region": "Bretagne",
+    "population": "17241.0"
+  },
+  {
+    "name": "Concarneau",
+    "slug": "concarneau",
+    "region": "Bretagne",
+    "population": "20845.0"
+  },
+  {
+    "name": "Landerneau",
+    "slug": "landerneau",
+    "region": "Bretagne",
+    "population": "16363.0"
+  },
+  {
+    "name": "Morlaix",
+    "slug": "morlaix",
+    "region": "Bretagne",
+    "population": "15194.0"
+  },
+  {
+    "name": "Fougères",
+    "slug": "fougeres",
+    "region": "Bretagne",
+    "population": "20307.0"
+  },
+  {
+    "name": "Bruz",
+    "slug": "bruz",
+    "region": "Bretagne",
+    "population": "19683.0"
+  },
+  {
+    "name": "Vitré",
+    "slug": "vitre",
+    "region": "Bretagne",
+    "population": "19365.0"
+  },
+  {
+    "name": "Vierzon",
+    "slug": "vierzon",
+    "region": "Centre-Val de Loire",
+    "population": "25068.0"
+  },
+  {
+    "name": "Dreux",
+    "slug": "dreux",
+    "region": "Centre-Val de Loire",
+    "population": "31543.0"
+  },
+  {
+    "name": "Châteauroux",
+    "slug": "chteauroux",
+    "region": "Centre-Val de Loire",
+    "population": "42963.0"
+  },
+  {
+    "name": "Romorantin-Lanthenay",
+    "slug": "romorantin-lanthenay",
+    "region": "Centre-Val de Loire",
+    "population": "18373.0"
+  },
+  {
+    "name": "Vendôme",
+    "slug": "vendome",
+    "region": "Centre-Val de Loire",
+    "population": "15758.0"
+  },
+  {
+    "name": "Charleville-Mézières",
+    "slug": "charleville-mezieres",
+    "region": "Grand Est",
+    "population": "45560.0"
+  },
+  {
+    "name": "Sedan",
+    "slug": "sedan",
+    "region": "Grand Est",
+    "population": "16667.0"
+  },
+  {
+    "name": "Haguenau",
+    "slug": "haguenau",
+    "region": "Grand Est",
+    "population": "36391.0"
+  },
+  {
+    "name": "Sélestat",
+    "slug": "selestat",
+    "region": "Grand Est",
+    "population": "19589.0"
+  },
+  {
+    "name": "Saint-Louis",
+    "slug": "saint-louis",
+    "region": "Grand Est",
+    "population": "22805.0"
+  },
+  {
+    "name": "Saint-Dizier",
+    "slug": "saint-dizier",
+    "region": "Grand Est",
+    "population": "22858.0"
+  },
+  {
+    "name": "Chaumont",
+    "slug": "chaumont",
+    "region": "Grand Est",
+    "population": "20827.0"
+  },
+  {
+    "name": "Châlons-en-Champagne",
+    "slug": "chlons-en-champagne",
+    "region": "Grand Est",
+    "population": "42971.0"
+  },
+  {
+    "name": "Épernay",
+    "slug": "epernay",
+    "region": "Grand Est",
+    "population": "22174.0"
+  },
+  {
+    "name": "Lunéville",
+    "slug": "luneville",
+    "region": "Grand Est",
+    "population": "18262.0"
+  },
+  {
+    "name": "Toul",
+    "slug": "toul",
+    "region": "Grand Est",
+    "population": "15768.0"
+  },
+  {
+    "name": "Longwy",
+    "slug": "longwy",
+    "region": "Grand Est",
+    "population": "15679.0"
+  },
+  {
+    "name": "Verdun",
+    "slug": "verdun",
+    "region": "Grand Est",
+    "population": "16890.0"
+  },
+  {
+    "name": "Forbach",
+    "slug": "forbach",
+    "region": "Grand Est",
+    "population": "20493.0"
+  },
+  {
+    "name": "Sarreguemines",
+    "slug": "sarreguemines",
+    "region": "Grand Est",
+    "population": "20143.0"
+  },
+  {
+    "name": "Épinal",
+    "slug": "epinal",
+    "region": "Grand Est",
+    "population": "32251.0"
+  },
+  {
+    "name": "Saint-Dié-des-Vosges",
+    "slug": "saint-die-des-vosges",
+    "region": "Grand Est",
+    "population": "19251.0"
+  },
+  {
+    "name": "Saint-Quentin",
+    "slug": "saint-quentin",
+    "region": "Hauts-de-France",
+    "population": "52813.0"
+  },
+  {
+    "name": "Soissons",
+    "slug": "soissons",
+    "region": "Hauts-de-France",
+    "population": "28046.0"
+  },
+  {
+    "name": "Laon",
+    "slug": "laon",
+    "region": "Hauts-de-France",
+    "population": "24220.0"
+  },
+  {
+    "name": "Château-Thierry",
+    "slug": "chteau-thierry",
+    "region": "Hauts-de-France",
+    "population": "15097.0"
+  },
+  {
+    "name": "Villeneuve-d'Ascq",
+    "slug": "villeneuve-d-ascq",
+    "region": "Hauts-de-France",
+    "population": "62868.0"
+  },
+  {
+    "name": "Cambrai",
+    "slug": "cambrai",
+    "region": "Hauts-de-France",
+    "population": "31134.0"
+  },
+  {
+    "name": "Maubeuge",
+    "slug": "maubeuge",
+    "region": "Hauts-de-France",
+    "population": "28767.0"
+  },
+  {
+    "name": "Armentières",
+    "slug": "armentieres",
+    "region": "Hauts-de-France",
+    "population": "26998.0"
+  },
+  {
+    "name": "Hazebrouck",
+    "slug": "hazebrouck",
+    "region": "Hauts-de-France",
+    "population": "21912.0"
+  },
+  {
+    "name": "Denain",
+    "slug": "denain",
+    "region": "Hauts-de-France",
+    "population": "20665.0"
+  },
+  {
+    "name": "Saint-Amand-les-Eaux",
+    "slug": "saint-amand-les-eaux",
+    "region": "Hauts-de-France",
+    "population": "15974.0"
+  },
+  {
+    "name": "Beauvais",
+    "slug": "beauvais",
+    "region": "Hauts-de-France",
+    "population": "55550.0"
+  },
+  {
+    "name": "Compiègne",
+    "slug": "compiegne",
+    "region": "Hauts-de-France",
+    "population": "40761.0"
+  },
+  {
+    "name": "Creil",
+    "slug": "creil",
+    "region": "Hauts-de-France",
+    "population": "36301.0"
+  },
+  {
+    "name": "Arras",
+    "slug": "arras",
+    "region": "Hauts-de-France",
+    "population": "42875.0"
+  },
+  {
+    "name": "Lens",
+    "slug": "lens",
+    "region": "Hauts-de-France",
+    "population": "32920.0"
+  },
+  {
+    "name": "Hénin-Beaumont",
+    "slug": "henin-beaumont",
+    "region": "Hauts-de-France",
+    "population": "25688.0"
+  },
+  {
+    "name": "Béthune",
+    "slug": "bethune",
+    "region": "Hauts-de-France",
+    "population": "25224.0"
+  },
+  {
+    "name": "Abbeville",
+    "slug": "abbeville",
+    "region": "Hauts-de-France",
+    "population": "22395.0"
+  },
+  {
+    "name": "Lisieux",
+    "slug": "lisieux",
+    "region": "Normandie",
+    "population": "19645.0"
+  },
+  {
+    "name": "Vire Normandie",
+    "slug": "vire-normandie",
+    "region": "Normandie",
+    "population": "17457.0"
+  },
+  {
+    "name": "Vernon",
+    "slug": "vernon",
+    "region": "Normandie",
+    "population": "25290.0"
+  },
+  {
+    "name": "Louviers",
+    "slug": "louviers",
+    "region": "Normandie",
+    "population": "18705.0"
+  },
+  {
+    "name": "Saint-Lô",
+    "slug": "saint-lo",
+    "region": "Normandie",
+    "population": "19471.0"
+  },
+  {
+    "name": "Alençon",
+    "slug": "alenon",
+    "region": "Normandie",
+    "population": "25490.0"
+  },
+  {
+    "name": "Saint-Étienne-du-Rouvray",
+    "slug": "saint-etienne-du-rouvray",
+    "region": "Normandie",
+    "population": "29518.0"
+  },
+  {
+    "name": "Dieppe",
+    "slug": "dieppe",
+    "region": "Normandie",
+    "population": "28496.0"
+  },
+  {
+    "name": "Fécamp",
+    "slug": "fecamp",
+    "region": "Normandie",
+    "population": "17313.0"
+  },
+  {
+    "name": "Elbeuf",
+    "slug": "elbeuf",
+    "region": "Normandie",
+    "population": "15474.0"
+  },
+  {
+    "name": "Cognac",
+    "slug": "cognac",
+    "region": "Nouvelle-Aquitaine",
+    "population": "18532.0"
+  },
+  {
+    "name": "Saintes",
+    "slug": "saintes",
+    "region": "Nouvelle-Aquitaine",
+    "population": "25363.0"
+  },
+  {
+    "name": "Rochefort",
+    "slug": "rochefort",
+    "region": "Nouvelle-Aquitaine",
+    "population": "23460.0"
+  },
+  {
+    "name": "Royan",
+    "slug": "royan",
+    "region": "Nouvelle-Aquitaine",
+    "population": "19425.0"
+  },
+  {
+    "name": "Brive-la-Gaillarde",
+    "slug": "brive-la-gaillarde",
+    "region": "Nouvelle-Aquitaine",
+    "population": "47095.0"
+  },
+  {
+    "name": "Bressuire",
+    "slug": "bressuire",
+    "region": "Nouvelle-Aquitaine",
+    "population": "19970.0"
+  },
+  {
+    "name": "Bergerac",
+    "slug": "bergerac",
+    "region": "Nouvelle-Aquitaine",
+    "population": "27110.0"
+  },
+  {
+    "name": "Villenave-d'Ornon",
+    "slug": "villenave-d-ornon",
+    "region": "Nouvelle-Aquitaine",
+    "population": "42545.0"
+  },
+  {
+    "name": "La Teste-de-Buch",
+    "slug": "la-teste-de-buch",
+    "region": "Nouvelle-Aquitaine",
+    "population": "27566.0"
+  },
+  {
+    "name": "Libourne",
+    "slug": "libourne",
+    "region": "Nouvelle-Aquitaine",
+    "population": "25036.0"
+  },
+  {
+    "name": "Ambarès-et-Lagrave",
+    "slug": "ambares-et-lagrave",
+    "region": "Nouvelle-Aquitaine",
+    "population": "17644.0"
+  },
+  {
+    "name": "Cestas",
+    "slug": "cestas",
+    "region": "Nouvelle-Aquitaine",
+    "population": "16666.0"
+  },
+  {
+    "name": "Mont-de-Marsan",
+    "slug": "mont-de-marsan",
+    "region": "Nouvelle-Aquitaine",
+    "population": "31592.0"
+  },
+  {
+    "name": "Dax",
+    "slug": "dax",
+    "region": "Nouvelle-Aquitaine",
+    "population": "22109.0"
+  },
+  {
+    "name": "Biscarrosse",
+    "slug": "biscarrosse",
+    "region": "Nouvelle-Aquitaine",
+    "population": "15836.0"
+  },
+  {
+    "name": "Villeneuve-sur-Lot",
+    "slug": "villeneuve-sur-lot",
+    "region": "Nouvelle-Aquitaine",
+    "population": "22350.0"
+  },
+  {
+    "name": "Marmande",
+    "slug": "marmande",
+    "region": "Nouvelle-Aquitaine",
+    "population": "17328.0"
+  },
+  {
+    "name": "Hendaye",
+    "slug": "hendaye",
+    "region": "Nouvelle-Aquitaine",
+    "population": "18102.0"
+  },
+  {
+    "name": "Châtellerault",
+    "slug": "chtellerault",
+    "region": "Nouvelle-Aquitaine",
+    "population": "31003.0"
+  },
+  {
+    "name": "Pamiers",
+    "slug": "pamiers",
+    "region": "Occitanie",
+    "population": "16473.0"
+  },
+  {
+    "name": "Rodez",
+    "slug": "rodez",
+    "region": "Occitanie",
+    "population": "23981.0"
+  },
+  {
+    "name": "Millau",
+    "slug": "millau",
+    "region": "Occitanie",
+    "population": "22044.0"
+  },
+  {
+    "name": "Alès",
+    "slug": "ales",
+    "region": "Occitanie",
+    "population": "46125.0"
+  },
+  {
+    "name": "Bagnols-sur-Cèze",
+    "slug": "bagnols-sur-ceze",
+    "region": "Occitanie",
+    "population": "18112.0"
+  },
+  {
+    "name": "Beaucaire",
+    "slug": "beaucaire",
+    "region": "Occitanie",
+    "population": "15692.0"
+  },
+  {
+    "name": "Auch",
+    "slug": "auch",
+    "region": "Occitanie",
+    "population": "22428.0"
+  },
+  {
+    "name": "Muret",
+    "slug": "muret",
+    "region": "Occitanie",
+    "population": "26079.0"
+  },
+  {
+    "name": "Plaisance-du-Touch",
+    "slug": "plaisance-du-touch",
+    "region": "Occitanie",
+    "population": "21079.0"
+  },
+  {
+    "name": "Castanet-Tolosan",
+    "slug": "castanet-tolosan",
+    "region": "Occitanie",
+    "population": "15317.0"
+  },
+  {
+    "name": "Agde",
+    "slug": "agde",
+    "region": "Occitanie",
+    "population": "29939.0"
+  },
+  {
+    "name": "Lunel",
+    "slug": "lunel",
+    "region": "Occitanie",
+    "population": "26623.0"
+  },
+  {
+    "name": "Mauguio",
+    "slug": "mauguio",
+    "region": "Occitanie",
+    "population": "16522.0"
+  },
+  {
+    "name": "Cahors",
+    "slug": "cahors",
+    "region": "Occitanie",
+    "population": "20050.0"
+  },
+  {
+    "name": "Castres",
+    "slug": "castres",
+    "region": "Occitanie",
+    "population": "42505.0"
+  },
+  {
+    "name": "Gaillac",
+    "slug": "gaillac",
+    "region": "Occitanie",
+    "population": "16162.0"
+  },
+  {
+    "name": "Montauban",
+    "slug": "montauban",
+    "region": "Occitanie",
+    "population": "62945.0"
+  },
+  {
+    "name": "Vertou",
+    "slug": "vertou",
+    "region": "Pays de la Loire",
+    "population": "26227.0"
+  },
+  {
+    "name": "Couëron",
+    "slug": "couron",
+    "region": "Pays de la Loire",
+    "population": "24103.0"
+  },
+  {
+    "name": "Pornic",
+    "slug": "pornic",
+    "region": "Pays de la Loire",
+    "population": "18745.0"
+  },
+  {
+    "name": "Guérande",
+    "slug": "guerande",
+    "region": "Pays de la Loire",
+    "population": "16804.0"
+  },
+  {
+    "name": "Saumur",
+    "slug": "saumur",
+    "region": "Pays de la Loire",
+    "population": "26241.0"
+  },
+  {
+    "name": "Sèvremoine",
+    "slug": "sevremoine",
+    "region": "Pays de la Loire",
+    "population": "25797.0"
+  },
+  {
+    "name": "Beaupréau-en-Mauges",
+    "slug": "beaupreau-en-mauges",
+    "region": "Pays de la Loire",
+    "population": "23989.0"
+  },
+  {
+    "name": "Chemillé-en-Anjou",
+    "slug": "chemille-en-anjou",
+    "region": "Pays de la Loire",
+    "population": "21999.0"
+  },
+  {
+    "name": "Mauges-sur-Loire",
+    "slug": "mauges-sur-loire",
+    "region": "Pays de la Loire",
+    "population": "18695.0"
+  },
+  {
+    "name": "Segré-en-Anjou Bleu",
+    "slug": "segre-en-anjou-bleu",
+    "region": "Pays de la Loire",
+    "population": "17667.0"
+  },
+  {
+    "name": "Orée d'Anjou",
+    "slug": "oree-d-anjou",
+    "region": "Pays de la Loire",
+    "population": "17162.0"
+  },
+  {
+    "name": "Loire-Authion",
+    "slug": "loire-authion",
+    "region": "Pays de la Loire",
+    "population": "16765.0"
+  },
+  {
+    "name": "Château-Gontier-sur-Mayenne",
+    "slug": "chteau-gontier-sur-mayenne",
+    "region": "Pays de la Loire",
+    "population": "16584.0"
+  },
+  {
+    "name": "Les Sables-d'Olonne",
+    "slug": "les-sables-d-olonne",
+    "region": "Pays de la Loire",
+    "population": "49603.0"
+  },
+  {
+    "name": "Challans",
+    "slug": "challans",
+    "region": "Pays de la Loire",
+    "population": "22943.0"
+  },
+  {
+    "name": "Montaigu-Vendée",
+    "slug": "montaigu-vendee",
+    "region": "Pays de la Loire",
+    "population": "21134.0"
+  },
+  {
+    "name": "Les Herbiers",
+    "slug": "les-herbiers",
+    "region": "Pays de la Loire",
+    "population": "16521.0"
+  },
+  {
+    "name": "Mandelieu-la-Napoule",
+    "slug": "mandelieu-la-napoule",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "21640.0"
+  },
+  {
+    "name": "Vence",
+    "slug": "vence",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "19917.0"
+  },
+  {
+    "name": "Manosque",
+    "slug": "manosque",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "22718.0"
+  },
+  {
+    "name": "Digne-les-Bains",
+    "slug": "digne-les-bains",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "17979.0"
+  },
+  {
+    "name": "Istres",
+    "slug": "istres",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "44292.0"
+  },
+  {
+    "name": "Gap",
+    "slug": "gap",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "41293.0"
+  },
+  {
+    "name": "La Crau",
+    "slug": "la-crau",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "19556.0"
+  },
+  {
+    "name": "Saint-Maximin-la-Sainte-Baume",
+    "slug": "saint-maximin-la-sainte-baume",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "17896.0"
+  },
+  {
+    "name": "Brignoles",
+    "slug": "brignoles",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "17850.0"
+  },
+  {
+    "name": "Carpentras",
+    "slug": "carpentras",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "31619.0"
+  },
+  {
+    "name": "Orange",
+    "slug": "orange",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "29706.0"
+  },
+  {
+    "name": "Cavaillon",
+    "slug": "cavaillon",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "25636.0"
+  },
+  {
+    "name": "Pertuis",
+    "slug": "pertuis",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "19548.0"
+  },
+  {
+    "name": "Palaiseau",
+    "slug": "palaiseau",
+    "region": "Île-de-France",
+    "population": "37471.0"
+  },
+  {
+    "name": "Étampes",
+    "slug": "etampes",
+    "region": "Île-de-France",
+    "population": "26857.0"
+  },
+  {
+    "name": "Brétigny-sur-Orge",
+    "slug": "bretigny-sur-orge",
+    "region": "Île-de-France",
+    "population": "26658.0"
+  },
+  {
+    "name": "Mennecy",
+    "slug": "mennecy",
+    "region": "Île-de-France",
+    "population": "16433.0"
+  },
+  {
+    "name": "Clichy",
+    "slug": "clichy",
+    "region": "Île-de-France",
+    "population": "64410.0"
+  },
+  {
+    "name": "Villemomble",
+    "slug": "villemomble",
+    "region": "Île-de-France",
+    "population": "29795.0"
+  },
+  {
+    "name": "Chelles",
+    "slug": "chelles",
+    "region": "Île-de-France",
+    "population": "54620.0"
+  },
+  {
+    "name": "Melun",
+    "slug": "melun",
+    "region": "Île-de-France",
+    "population": "45995.0"
+  },
+  {
+    "name": "Pontault-Combault",
+    "slug": "pontault-combault",
+    "region": "Île-de-France",
+    "population": "39096.0"
+  },
+  {
+    "name": "Combs-la-Ville",
+    "slug": "combs-la-ville",
+    "region": "Île-de-France",
+    "population": "23350.0"
+  },
+  {
+    "name": "Montereau-Fault-Yonne",
+    "slug": "montereau-fault-yonne",
+    "region": "Île-de-France",
+    "population": "22279.0"
+  },
+  {
+    "name": "Lagny-sur-Marne",
+    "slug": "lagny-sur-marne",
+    "region": "Île-de-France",
+    "population": "21461.0"
+  },
+  {
+    "name": "Mitry-Mory",
+    "slug": "mitry-mory",
+    "region": "Île-de-France",
+    "population": "20456.0"
+  },
+  {
+    "name": "Coulommiers",
+    "slug": "coulommiers",
+    "region": "Île-de-France",
+    "population": "16374.0"
+  },
+  {
+    "name": "Fontainebleau",
+    "slug": "fontainebleau",
+    "region": "Île-de-France",
+    "population": "15583.0"
+  },
+  {
+    "name": "Herblay-sur-Seine",
+    "slug": "herblay-sur-seine",
+    "region": "Île-de-France",
+    "population": "31779.0"
+  },
+  {
+    "name": "Villeneuve-Saint-Georges",
+    "slug": "villeneuve-saint-georges",
+    "region": "Île-de-France",
+    "population": "36221.0"
+  },
+  {
+    "name": "Saint-Germain-en-Laye",
+    "slug": "saint-germain-en-laye",
+    "region": "Île-de-France",
+    "population": "45931.0"
+  },
+  {
+    "name": "Mantes-la-Jolie",
+    "slug": "mantes-la-jolie",
+    "region": "Île-de-France",
+    "population": "43526.0"
+  },
+  {
+    "name": "Trappes",
+    "slug": "trappes",
+    "region": "Île-de-France",
+    "population": "34689.0"
+  },
+  {
+    "name": "Les Mureaux",
+    "slug": "les-mureaux",
+    "region": "Île-de-France",
+    "population": "34632.0"
+  },
+  {
+    "name": "Rambouillet",
+    "slug": "rambouillet",
+    "region": "Île-de-France",
+    "population": "27724.0"
+  },
+  {
+    "name": "Cournon-d'Auvergne",
+    "slug": "cournon-d-auvergne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "19951.0"
+  },
+  {
+    "name": "Villeneuve-d'Ascq",
+    "slug": "villeneuve-d-ascq",
+    "region": "Hauts-de-France",
+    "population": "62868.0"
+  },
+  {
+    "name": "Villenave-d'Ornon",
+    "slug": "villenave-d-ornon",
+    "region": "Nouvelle-Aquitaine",
+    "population": "42545.0"
+  },
+  {
+    "name": "Orée d'Anjou",
+    "slug": "ore-d-anjou",
+    "region": "Pays de la Loire",
+    "population": "17162.0"
+  },
+  {
+    "name": "Les Sables-d'Olonne",
+    "slug": "les-sables-d-olonne",
+    "region": "Pays de la Loire",
+    "population": "49603.0"
+  },
+  {
+    "name": "Paris 1er",
+    "slug": "paris-1er",
+    "region": "Île-de-France",
+    "population": "17000"
+  },
+  {
+    "name": "Paris 2e",
+    "slug": "paris-2e",
+    "region": "Île-de-France",
+    "population": "20000"
+  },
+  {
+    "name": "Paris 3e",
+    "slug": "paris-3e",
+    "region": "Île-de-France",
+    "population": "35000"
+  },
+  {
+    "name": "Paris 4e",
+    "slug": "paris-4e",
+    "region": "Île-de-France",
+    "population": "28000"
+  },
+  {
+    "name": "Paris 5e",
+    "slug": "paris-5e",
+    "region": "Île-de-France",
+    "population": "61000"
+  },
+  {
+    "name": "Paris 6e",
+    "slug": "paris-6e",
+    "region": "Île-de-France",
+    "population": "41000"
+  },
+  {
+    "name": "Paris 7e",
+    "slug": "paris-7e",
+    "region": "Île-de-France",
+    "population": "56000"
+  },
+  {
+    "name": "Paris 8e",
+    "slug": "paris-8e",
+    "region": "Île-de-France",
+    "population": "38000"
+  },
+  {
+    "name": "Paris 9e",
+    "slug": "paris-9e",
+    "region": "Île-de-France",
+    "population": "56000"
+  },
+  {
+    "name": "Paris 10e",
+    "slug": "paris-10e",
+    "region": "Île-de-France",
+    "population": "55000"
+  },
+  {
+    "name": "Paris 11e",
+    "slug": "paris-11e",
+    "region": "Île-de-France",
+    "population": "148000"
+  },
+  {
+    "name": "Paris 12e",
+    "slug": "paris-12e",
+    "region": "Île-de-France",
+    "population": "140000"
+  },
+  {
+    "name": "Paris 13e",
+    "slug": "paris-13e",
+    "region": "Île-de-France",
+    "population": "182000"
+  },
+  {
+    "name": "Paris 14e",
+    "slug": "paris-14e",
+    "region": "Île-de-France",
+    "population": "136000"
+  },
+  {
+    "name": "Paris 15e",
+    "slug": "paris-15e",
+    "region": "Île-de-France",
+    "population": "229000"
+  },
+  {
+    "name": "Paris 16e",
+    "slug": "paris-16e",
+    "region": "Île-de-France",
+    "population": "165000"
+  },
+  {
+    "name": "Paris 17e",
+    "slug": "paris-17e",
+    "region": "Île-de-France",
+    "population": "167000"
+  },
+  {
+    "name": "Paris 18e",
+    "slug": "paris-18e",
+    "region": "Île-de-France",
+    "population": "201000"
+  },
+  {
+    "name": "Paris 19e",
+    "slug": "paris-19e",
+    "region": "Île-de-France",
+    "population": "188000"
+  },
+  {
+    "name": "Paris 20e",
+    "slug": "paris-20e",
+    "region": "Île-de-France",
+    "population": "196000"
+  },
+  {
+    "name": "Lyon 1er",
+    "slug": "lyon-1er",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "30000"
+  },
+  {
+    "name": "Lyon 2e",
+    "slug": "lyon-2e",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "65000"
+  },
+  {
+    "name": "Lyon 3e",
+    "slug": "lyon-3e",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "82000"
+  },
+  {
+    "name": "Lyon 4e",
+    "slug": "lyon-4e",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "27000"
+  },
+  {
+    "name": "Lyon 5e",
+    "slug": "lyon-5e",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "36000"
+  },
+  {
+    "name": "Lyon 6e",
+    "slug": "lyon-6e",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "48000"
+  },
+  {
+    "name": "Lyon 7e",
+    "slug": "lyon-7e",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "75000"
+  },
+  {
+    "name": "Lyon 8e",
+    "slug": "lyon-8e",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "62000"
+  },
+  {
+    "name": "Lyon 9e",
+    "slug": "lyon-9e",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "58000"
+  },
+  {
+    "name": "Marseille 1er",
+    "slug": "marseille-1er",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "28000"
+  },
+  {
+    "name": "Marseille 2e",
+    "slug": "marseille-2e",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "35000"
+  },
+  {
+    "name": "Marseille 3e",
+    "slug": "marseille-3e",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "42000"
+  },
+  {
+    "name": "Marseille 4e",
+    "slug": "marseille-4e",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "38000"
+  },
+  {
+    "name": "Marseille 5e",
+    "slug": "marseille-5e",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "45000"
+  },
+  {
+    "name": "Marseille 6e",
+    "slug": "marseille-6e",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "32000"
+  },
+  {
+    "name": "Marseille 7e",
+    "slug": "marseille-7e",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "52000"
+  },
+  {
+    "name": "Marseille 8e",
+    "slug": "marseille-8e",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "48000"
+  },
+  {
+    "name": "Marseille 9e",
+    "slug": "marseille-9e",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "55000"
+  },
+  {
+    "name": "Marseille 10e",
+    "slug": "marseille-10e",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "38000"
+  },
+  {
+    "name": "Marseille 11e",
+    "slug": "marseille-11e",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "42000"
+  },
+  {
+    "name": "Marseille 12e",
+    "slug": "marseille-12e",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "48000"
+  },
+  {
+    "name": "Marseille 13e",
+    "slug": "marseille-13e",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "75000"
+  },
+  {
+    "name": "Marseille 14e",
+    "slug": "marseille-14e",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "52000"
+  },
+  {
+    "name": "Marseille 15e",
+    "slug": "marseille-15e",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "62000"
+  },
+  {
+    "name": "Marseille 16e",
+    "slug": "marseille-16e",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "58000"
+  },
+  {
+    "name": "Aix-en-Provence",
+    "slug": "aix-en-provence",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "146000"
+  },
+  {
+    "name": "Rennes",
+    "slug": "rennes",
+    "region": "Bretagne",
+    "population": "220000"
+  },
+  {
+    "name": "Reims",
+    "slug": "reims",
+    "region": "Grand Est",
+    "population": "182000"
+  },
+  {
+    "name": "Havre",
+    "slug": "havre",
+    "region": "Normandie",
+    "population": "172000"
+  },
+  {
+    "name": "Saint-Étienne",
+    "slug": "saint-etienne",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "170000"
+  },
+  {
+    "name": "Toulon",
+    "slug": "toulon",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "population": "173000"
+  },
+  {
+    "name": "Grenoble",
+    "slug": "grenoble",
+    "region": "Auvergne-Rhône-Alpes",
+    "population": "160000"
+  },
+  {
+    "name": "Dijon",
+    "slug": "dijon",
+    "region": "Bourgogne-Franche-Comté",
+    "population": "158000"
+  },
+  {
+    "name": "Nîmes",
+    "slug": "nimes",
+    "region": "Occitanie",
+    "population": "151000"
+  },
+  {
+    "name": "Angers",
+    "slug": "angers",
+    "region": "Pays de la Loire",
+    "population": "152000"
+  }
+]

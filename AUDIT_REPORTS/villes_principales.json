@@ -1,0 +1,1808 @@
+[
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Bourg-en-Bresse",
+    "Population":42372.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Oyonnax",
+    "Population":22480.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Valserhône",
+    "Population":16712.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Ambérieu-en-Bugey",
+    "Population":15934.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Montluçon",
+    "Population":33147.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Vichy",
+    "Population":25115.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Moulins",
+    "Population":19206.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Annonay",
+    "Population":17274.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Aurillac",
+    "Population":26214.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Valence",
+    "Population":64458.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Montélimar",
+    "Population":40595.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Romans-sur-Isère",
+    "Population":33464.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Le Puy-en-Velay",
+    "Population":18540.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Annecy",
+    "Population":132117.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Thonon-les-Bains",
+    "Population":37928.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Annemasse",
+    "Population":37628.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Cluses",
+    "Population":17795.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Sallanches",
+    "Population":17319.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Rumilly",
+    "Population":16442.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Saint-Julien-en-Genevois",
+    "Population":16222.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Grenoble",
+    "Population":156140.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Vienne",
+    "Population":31778.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Bourgoin-Jallieu",
+    "Population":30151.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Voiron",
+    "Population":21847.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Meylan",
+    "Population":18770.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Saint-Étienne",
+    "Population":173136.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Saint-Chamond",
+    "Population":35646.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Roanne",
+    "Population":35409.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Montbrison",
+    "Population":16123.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Saint-Just-Saint-Rambert",
+    "Population":15764.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Clermont-Ferrand",
+    "Population":146351.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Cournon-d'Auvergne",
+    "Population":19951.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Riom",
+    "Population":18820.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Issoire",
+    "Population":15115.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Lyon",
+    "Population":519127.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Villeurbanne",
+    "Population":163684.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Vénissieux",
+    "Population":65502.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Vaulx-en-Velin",
+    "Population":53069.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Villefranche-sur-Saône",
+    "Population":36172.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Chambéry",
+    "Population":59964.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Aix-les-Bains",
+    "Population":32406.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Auvergne-Rhône-Alpes",
+    "Ville principale":"Albertville",
+    "Population":19978.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bourgogne-Franche-Comté",
+    "Ville principale":"Dijon",
+    "Population":161830.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Bourgogne-Franche-Comté",
+    "Ville principale":"Beaune",
+    "Population":20352.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bourgogne-Franche-Comté",
+    "Ville principale":"Besançon",
+    "Population":118489.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Bourgogne-Franche-Comté",
+    "Ville principale":"Montbéliard",
+    "Population":24672.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bourgogne-Franche-Comté",
+    "Ville principale":"Pontarlier",
+    "Population":18067.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bourgogne-Franche-Comté",
+    "Ville principale":"Vesoul",
+    "Population":15078.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bourgogne-Franche-Comté",
+    "Ville principale":"Dole",
+    "Population":23840.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bourgogne-Franche-Comté",
+    "Ville principale":"Lons-le-Saunier",
+    "Population":16618.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bourgogne-Franche-Comté",
+    "Ville principale":"Nevers",
+    "Population":33085.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bourgogne-Franche-Comté",
+    "Ville principale":"Chalon-sur-Saône",
+    "Population":45102.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bourgogne-Franche-Comté",
+    "Ville principale":"Mâcon",
+    "Population":35177.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bourgogne-Franche-Comté",
+    "Ville principale":"Le Creusot",
+    "Population":20509.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bourgogne-Franche-Comté",
+    "Ville principale":"Montceau-les-Mines",
+    "Population":17064.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bourgogne-Franche-Comté",
+    "Ville principale":"Belfort",
+    "Population":45912.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bourgogne-Franche-Comté",
+    "Ville principale":"Auxerre",
+    "Population":35097.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bourgogne-Franche-Comté",
+    "Ville principale":"Sens",
+    "Population":27106.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bretagne",
+    "Ville principale":"Saint-Brieuc",
+    "Population":44364.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bretagne",
+    "Ville principale":"Lannion",
+    "Population":20315.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bretagne",
+    "Ville principale":"Lamballe-Armor",
+    "Population":17241.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bretagne",
+    "Ville principale":"Brest",
+    "Population":142346.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Bretagne",
+    "Ville principale":"Quimper",
+    "Population":64385.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Bretagne",
+    "Ville principale":"Concarneau",
+    "Population":20845.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bretagne",
+    "Ville principale":"Landerneau",
+    "Population":16363.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bretagne",
+    "Ville principale":"Morlaix",
+    "Population":15194.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bretagne",
+    "Ville principale":"Rennes",
+    "Population":230890.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Bretagne",
+    "Ville principale":"Saint-Malo",
+    "Population":47439.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bretagne",
+    "Ville principale":"Fougères",
+    "Population":20307.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bretagne",
+    "Ville principale":"Bruz",
+    "Population":19683.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bretagne",
+    "Ville principale":"Vitré",
+    "Population":19365.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Bretagne",
+    "Ville principale":"Lorient",
+    "Population":58329.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Bretagne",
+    "Ville principale":"Vannes",
+    "Population":55790.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Centre-Val de Loire",
+    "Ville principale":"Bourges",
+    "Population":64186.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Centre-Val de Loire",
+    "Ville principale":"Vierzon",
+    "Population":25068.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Centre-Val de Loire",
+    "Ville principale":"Chartres",
+    "Population":38324.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Centre-Val de Loire",
+    "Ville principale":"Dreux",
+    "Population":31543.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Centre-Val de Loire",
+    "Ville principale":"Châteauroux",
+    "Population":42963.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Centre-Val de Loire",
+    "Ville principale":"Tours",
+    "Population":139259.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Centre-Val de Loire",
+    "Ville principale":"Blois",
+    "Population":47219.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Centre-Val de Loire",
+    "Ville principale":"Romorantin-Lanthenay",
+    "Population":18373.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Centre-Val de Loire",
+    "Ville principale":"Vendôme",
+    "Population":15758.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Centre-Val de Loire",
+    "Ville principale":"Orléans",
+    "Population":116357.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Corse",
+    "Ville principale":"Ajaccio",
+    "Population":76320.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Corse",
+    "Ville principale":"Bastia",
+    "Population":46867.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Charleville-Mézières",
+    "Population":45560.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Sedan",
+    "Population":16667.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Troyes",
+    "Population":62088.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Strasbourg",
+    "Population":293771.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Haguenau",
+    "Population":36391.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Sélestat",
+    "Population":19589.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Mulhouse",
+    "Population":104978.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Colmar",
+    "Population":66970.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Saint-Louis",
+    "Population":22805.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Saint-Dizier",
+    "Population":22858.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Chaumont",
+    "Population":20827.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Reims",
+    "Population":177674.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Châlons-en-Champagne",
+    "Population":42971.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Épernay",
+    "Population":22174.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Nancy",
+    "Population":103671.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Lunéville",
+    "Population":18262.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Toul",
+    "Population":15768.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Longwy",
+    "Population":15679.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Verdun",
+    "Population":16890.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Metz",
+    "Population":122572.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Thionville",
+    "Population":42658.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Forbach",
+    "Population":20493.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Sarreguemines",
+    "Population":20143.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Épinal",
+    "Population":32251.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Grand Est",
+    "Ville principale":"Saint-Dié-des-Vosges",
+    "Population":19251.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Saint-Quentin",
+    "Population":52813.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Soissons",
+    "Population":28046.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Laon",
+    "Population":24220.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Château-Thierry",
+    "Population":15097.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Lille",
+    "Population":238246.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Tourcoing",
+    "Population":98772.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Dunkerque",
+    "Population":86263.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Villeneuve-d'Ascq",
+    "Population":62868.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Valenciennes",
+    "Population":43468.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Douai",
+    "Population":40250.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Cambrai",
+    "Population":31134.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Maubeuge",
+    "Population":28767.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Armentières",
+    "Population":26998.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Hazebrouck",
+    "Population":21912.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Denain",
+    "Population":20665.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Saint-Amand-les-Eaux",
+    "Population":15974.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Beauvais",
+    "Population":55550.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Compiègne",
+    "Population":40761.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Creil",
+    "Population":36301.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Calais",
+    "Population":67571.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Arras",
+    "Population":42875.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Boulogne-sur-Mer",
+    "Population":40539.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Lens",
+    "Population":32920.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Hénin-Beaumont",
+    "Population":25688.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Béthune",
+    "Population":25224.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Amiens",
+    "Population":136449.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Hauts-de-France",
+    "Ville principale":"Abbeville",
+    "Population":22395.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Normandie",
+    "Ville principale":"Caen",
+    "Population":109400.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Normandie",
+    "Ville principale":"Lisieux",
+    "Population":19645.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Normandie",
+    "Ville principale":"Vire Normandie",
+    "Population":17457.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Normandie",
+    "Ville principale":"Évreux",
+    "Population":49360.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Normandie",
+    "Ville principale":"Vernon",
+    "Population":25290.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Normandie",
+    "Ville principale":"Louviers",
+    "Population":18705.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Normandie",
+    "Ville principale":"Cherbourg-en-Cotentin",
+    "Population":78258.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Normandie",
+    "Ville principale":"Saint-Lô",
+    "Population":19471.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Normandie",
+    "Ville principale":"Alençon",
+    "Population":25490.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Normandie",
+    "Ville principale":"Le Havre",
+    "Population":166687.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Normandie",
+    "Ville principale":"Rouen",
+    "Population":117662.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Normandie",
+    "Ville principale":"Saint-Étienne-du-Rouvray",
+    "Population":29518.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Normandie",
+    "Ville principale":"Dieppe",
+    "Population":28496.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Normandie",
+    "Ville principale":"Fécamp",
+    "Population":17313.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Normandie",
+    "Ville principale":"Elbeuf",
+    "Population":15474.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Angoulême",
+    "Population":41908.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Cognac",
+    "Population":18532.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"La Rochelle",
+    "Population":79851.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Saintes",
+    "Population":25363.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Rochefort",
+    "Population":23460.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Royan",
+    "Population":19425.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Brive-la-Gaillarde",
+    "Population":47095.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Niort",
+    "Population":59854.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Bressuire",
+    "Population":19970.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Périgueux",
+    "Population":29055.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Bergerac",
+    "Population":27110.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Bordeaux",
+    "Population":267991.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Mérignac",
+    "Population":78090.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Villenave-d'Ornon",
+    "Population":42545.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"La Teste-de-Buch",
+    "Population":27566.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Libourne",
+    "Population":25036.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Ambarès-et-Lagrave",
+    "Population":17644.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Cestas",
+    "Population":16666.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Limoges",
+    "Population":129937.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Mont-de-Marsan",
+    "Population":31592.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Dax",
+    "Population":22109.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Biscarrosse",
+    "Population":15836.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Agen",
+    "Population":32801.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Villeneuve-sur-Lot",
+    "Population":22350.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Marmande",
+    "Population":17328.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Pau",
+    "Population":80441.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Bayonne",
+    "Population":54306.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Hendaye",
+    "Population":18102.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Poitiers",
+    "Population":89916.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Nouvelle-Aquitaine",
+    "Ville principale":"Châtellerault",
+    "Population":31003.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Pamiers",
+    "Population":16473.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Narbonne",
+    "Population":57587.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Carcassonne",
+    "Population":46080.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Rodez",
+    "Population":23981.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Millau",
+    "Population":22044.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Nîmes",
+    "Population":151839.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Alès",
+    "Population":46125.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Bagnols-sur-Cèze",
+    "Population":18112.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Beaucaire",
+    "Population":15692.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Auch",
+    "Population":22428.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Toulouse",
+    "Population":514819.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Muret",
+    "Population":26079.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Plaisance-du-Touch",
+    "Population":21079.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Castanet-Tolosan",
+    "Population":15317.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Tarbes",
+    "Population":44399.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Montpellier",
+    "Population":310240.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Béziers",
+    "Population":81545.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Sète",
+    "Population":45337.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Agde",
+    "Population":29939.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Lunel",
+    "Population":26623.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Mauguio",
+    "Population":16522.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Cahors",
+    "Population":20050.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Perpignan",
+    "Population":121616.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Albi",
+    "Population":51290.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Castres",
+    "Population":42505.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Gaillac",
+    "Population":16162.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Occitanie",
+    "Ville principale":"Montauban",
+    "Population":62945.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Nantes",
+    "Population":327734.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Saint-Nazaire",
+    "Population":74568.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Vertou",
+    "Population":26227.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Couëron",
+    "Population":24103.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Pornic",
+    "Population":18745.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Guérande",
+    "Population":16804.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Angers",
+    "Population":159022.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Cholet",
+    "Population":54404.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Saumur",
+    "Population":26241.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Sèvremoine",
+    "Population":25797.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Beaupréau-en-Mauges",
+    "Population":23989.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Chemillé-en-Anjou",
+    "Population":21999.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Mauges-sur-Loire",
+    "Population":18695.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Segré-en-Anjou Bleu",
+    "Population":17667.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Orée d'Anjou",
+    "Population":17162.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Loire-Authion",
+    "Population":16765.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Laval",
+    "Population":49400.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Château-Gontier-sur-Mayenne",
+    "Population":16584.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Le Mans",
+    "Population":146249.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"La Roche-sur-Yon",
+    "Population":54849.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Les Sables-d'Olonne",
+    "Population":49603.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Challans",
+    "Population":22943.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Montaigu-Vendée",
+    "Population":21134.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Pays de la Loire",
+    "Ville principale":"Les Herbiers",
+    "Population":16521.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Nice",
+    "Population":357737.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Antibes",
+    "Population":77637.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Grasse",
+    "Population":50970.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Menton",
+    "Population":30604.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Mandelieu-la-Napoule",
+    "Population":21640.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Vence",
+    "Population":19917.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Manosque",
+    "Population":22718.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Digne-les-Bains",
+    "Population":17979.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Marseille",
+    "Population":886040.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Aix-en-Provence",
+    "Population":149695.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Arles",
+    "Population":51811.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Martigues",
+    "Population":48298.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Aubagne",
+    "Population":47529.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Istres",
+    "Population":44292.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Salon-de-Provence",
+    "Population":44194.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"La Ciotat",
+    "Population":38477.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Vitrolles",
+    "Population":36758.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Gap",
+    "Population":41293.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Toulon",
+    "Population":179116.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Fréjus",
+    "Population":59719.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Hyères",
+    "Population":55858.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Draguignan",
+    "Population":40826.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"La Crau",
+    "Population":19556.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Saint-Maximin-la-Sainte-Baume",
+    "Population":17896.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Brignoles",
+    "Population":17850.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Avignon",
+    "Population":92188.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Carpentras",
+    "Population":31619.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Orange",
+    "Population":29706.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Cavaillon",
+    "Population":25636.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Provence-Alpes-Côte d'Azur",
+    "Ville principale":"Pertuis",
+    "Population":19548.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Évry-Courcouronnes",
+    "Population":66919.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Savigny-sur-Orge",
+    "Population":37601.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Palaiseau",
+    "Population":37471.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Étampes",
+    "Population":26857.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Brétigny-sur-Orge",
+    "Population":26658.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Mennecy",
+    "Population":16433.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Boulogne-Billancourt",
+    "Population":119019.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Nanterre",
+    "Population":97783.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Clichy",
+    "Population":64410.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Antony",
+    "Population":64263.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Paris",
+    "Population":2103778.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Saint-Denis",
+    "Population":149077.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Montreuil",
+    "Population":111934.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Aulnay-sous-Bois",
+    "Population":87599.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Villemomble",
+    "Population":29795.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Meaux",
+    "Population":56905.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Chelles",
+    "Population":54620.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Melun",
+    "Population":45995.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Pontault-Combault",
+    "Population":39096.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Combs-la-Ville",
+    "Population":23350.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Montereau-Fault-Yonne",
+    "Population":22279.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Lagny-sur-Marne",
+    "Population":21461.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Mitry-Mory",
+    "Population":20456.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Coulommiers",
+    "Population":16374.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Fontainebleau",
+    "Population":15583.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Argenteuil",
+    "Population":106130.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Cergy",
+    "Population":70906.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Herblay-sur-Seine",
+    "Population":31779.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Goussainville",
+    "Population":31301.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Vitry-sur-Seine",
+    "Population":93963.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Champigny-sur-Marne",
+    "Population":78072.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Villeneuve-Saint-Georges",
+    "Population":36221.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Versailles",
+    "Population":84095.0,
+    "Type":"Pilier"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Saint-Germain-en-Laye",
+    "Population":45931.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Mantes-la-Jolie",
+    "Population":43526.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Trappes",
+    "Population":34689.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Les Mureaux",
+    "Population":34632.0,
+    "Type":"Secondaire"
+  },
+  {
+    "Région":"Île-de-France",
+    "Ville principale":"Rambouillet",
+    "Population":27724.0,
+    "Type":"Secondaire"
+  }
+]

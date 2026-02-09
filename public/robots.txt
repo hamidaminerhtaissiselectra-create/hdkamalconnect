@@ -1,0 +1,30 @@
+# Robots.txt for HD Connect (hdconnect.fr)
+# Optimized for Search Engines and AI Agents
+# Dernière mise à jour: 05 Février 2026
+
+User-agent: *
+Allow: /
+# Bloquer les pages techniques et non pertinentes
+Disallow: /auth
+Disallow: /admin
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+Disallow: /*.json$
+
+# AI Agent Specific Instructions
+# Guidance for ChatGPT, Perplexity, Claude, etc.
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+
+# Link to AI Instructions for better understanding of site context
+# See: https://hdconnect.fr/ai-instructions.md
+
+# Sitemap
+Sitemap: https://hdconnect.fr/sitemap.xml
