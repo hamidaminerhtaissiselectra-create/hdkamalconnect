@@ -36,7 +36,7 @@ const Hero = () => {
           className="w-full h-full object-cover transition-transform duration-100"
           style={{ transform: `scale(1.1) translateY(${scrollY * 0.15}px)` }}
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-background via-background/95 to-background/40"></div>
+        <div className="absolute inset-0 bg-gradient-to-r from-background/90 via-background/70 to-background/30"></div>
         <div className="absolute inset-0 bg-gradient-to-t from-background/80 via-transparent to-transparent"></div>
       </div>
       
